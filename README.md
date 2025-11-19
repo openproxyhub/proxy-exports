@@ -87,11 +87,11 @@ Lifecycle ensures that failing proxies are gradually deprioritized, and working 
 
 A validator determines *what kind* of proxy each entry truly is:
 
-- **HTTP Absolute**
-- **HTTP CONNECT**
-- **HTTPS Proxy (TLS-based)**
-- **SOCKS4**
-- **SOCKS5**
+- **HTTP Absolute** HTTP proxy using absolute-form requests.
+- **HTTP CONNECT** HTTP proxy that supports the CONNECT tunnel (typically for HTTPS).
+- **HTTPS Proxy (TLS-based)** You connect to the proxy over HTTPS (TLS).
+- **SOCKS4** Protocol-agnostic TCP (SOCKS4 may support UDP & auth).
+- **SOCKS5** Protocol-agnostic TCP (SOCKS5 may support UDP & auth).
 
 Incorrect protocol claims or repeated failures push a proxy toward “dead” status.
 
