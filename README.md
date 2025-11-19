@@ -57,7 +57,7 @@ ip:port
 
 JSON files include metadata like:
 
-```json
+json
 {
   "ip": "198.51.100.23",
   "port": 8080,
