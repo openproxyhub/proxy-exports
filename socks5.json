@@ -1,37 +1,72 @@
 [
     {
-        "proxy_id": 479535,
-        "ip": "163.223.230.111",
-        "port": 59108,
-        "endpoint": "163.223.230.111:59108",
+        "proxy_id": 402717,
+        "ip": "35.188.117.172",
+        "port": 43999,
+        "endpoint": "35.188.117.172:43999",
         "protocol": "socks5",
-        "lifecycle_status": "active_low",
+        "lifecycle_status": "active_medium",
         "proto": {
             "status": "ok",
-            "last_check": "2025-11-18 12:58:14.668440",
+            "last_check": "2025-11-15 13:23:09.951703",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "up",
-            "last_up": "2025-11-20 08:14:01.616552",
+            "last_up": "2025-11-20 08:32:26.842211",
             "uptime_pct": 100,
-            "avg_latency_ms": 4806
+            "avg_latency_ms": 992
         },
         "geo": {
-            "exit_ip": null,
-            "country_iso": null,
-            "asn": null,
-            "org": null
+            "exit_ip": "201.148.149.9",
+            "country_iso": "ZZ",
+            "asn": 0,
+            "org": "Unknown"
         },
         "performance": {
-            "score": 61.8919,
+            "score": 65.2869,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-11-18",
+            "first_seen": "2025-11-08",
             "last_seen": "2025-11-20"
         },
         "anonymity": null
+    },
+    {
+        "proxy_id": 406487,
+        "ip": "185.149.240.155",
+        "port": 1080,
+        "endpoint": "185.149.240.155:1080",
+        "protocol": "socks5",
+        "lifecycle_status": "active_medium",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-15 13:23:52.192812",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2025-11-20 08:44:25.140701",
+            "uptime_pct": 100,
+            "avg_latency_ms": 717
+        },
+        "geo": {
+            "exit_ip": "185.149.240.155",
+            "country_iso": "RU",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 74.9131,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-08",
+            "last_seen": "2025-11-20"
+        },
+        "anonymity": "elite"
     }
 ]
