@@ -1,37 +1,72 @@
 [
     {
-        "proxy_id": 406487,
-        "ip": "185.149.240.155",
+        "proxy_id": 478568,
+        "ip": "155.94.163.198",
         "port": 1080,
-        "endpoint": "185.149.240.155:1080",
+        "endpoint": "155.94.163.198:1080",
         "protocol": "socks5",
-        "lifecycle_status": "active_medium",
+        "lifecycle_status": "active_low",
         "proto": {
             "status": "ok",
-            "last_check": "2025-11-15 13:23:52.192812",
+            "last_check": "2025-11-20 20:38:59.313985",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "up",
-            "last_up": "2025-11-21 04:01:04.135786",
+            "last_up": "2025-11-21 04:37:09.418196",
             "uptime_pct": 100,
-            "avg_latency_ms": 588
+            "avg_latency_ms": 5255
         },
         "geo": {
-            "exit_ip": "185.149.240.155",
-            "country_iso": "RU",
+            "exit_ip": "155.94.163.198",
+            "country_iso": "ZZ",
             "asn": 0,
             "org": "Unknown"
         },
         "performance": {
-            "score": 79.4095,
+            "score": 64.6429,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-11-08",
+            "first_seen": "2025-11-20",
             "last_seen": "2025-11-21"
         },
         "anonymity": "elite"
+    },
+    {
+        "proxy_id": 488336,
+        "ip": "222.59.173.105",
+        "port": 44152,
+        "endpoint": "222.59.173.105:44152",
+        "protocol": "socks5",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-21 02:18:24.980951",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2025-11-21 04:40:32.469774",
+            "uptime_pct": 100,
+            "avg_latency_ms": 3502
+        },
+        "geo": {
+            "exit_ip": null,
+            "country_iso": null,
+            "asn": null,
+            "org": null
+        },
+        "performance": {
+            "score": 62.1429,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-21",
+            "last_seen": "2025-11-21"
+        },
+        "anonymity": null
     }
 ]
