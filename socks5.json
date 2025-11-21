@@ -1,107 +1,72 @@
 [
     {
-        "proxy_id": 478568,
-        "ip": "155.94.163.198",
-        "port": 1080,
-        "endpoint": "155.94.163.198:1080",
+        "proxy_id": 419304,
+        "ip": "47.76.249.160",
+        "port": 1011,
+        "endpoint": "47.76.249.160:1011",
         "protocol": "socks5",
         "lifecycle_status": "active_low",
         "proto": {
             "status": "ok",
-            "last_check": "2025-11-20 20:38:59.313985",
+            "last_check": "2025-11-17 19:32:46.213127",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "up",
-            "last_up": "2025-11-21 08:43:34.780816",
+            "last_up": "2025-11-21 09:02:41.677761",
             "uptime_pct": 100,
-            "avg_latency_ms": 5062
+            "avg_latency_ms": 5617
         },
         "geo": {
-            "exit_ip": "155.94.163.198",
-            "country_iso": "ZZ",
+            "exit_ip": "47.76.249.160",
+            "country_iso": "HK",
+            "asn": 45102,
+            "org": "Alibaba US Technology Co., Ltd."
+        },
+        "performance": {
+            "score": 60.3333,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-08",
+            "last_seen": "2025-11-21"
+        },
+        "anonymity": null
+    },
+    {
+        "proxy_id": 406487,
+        "ip": "185.149.240.155",
+        "port": 1080,
+        "endpoint": "185.149.240.155:1080",
+        "protocol": "socks5",
+        "lifecycle_status": "active_medium",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-15 13:23:52.192812",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2025-11-21 09:04:49.219297",
+            "uptime_pct": 100,
+            "avg_latency_ms": 659
+        },
+        "geo": {
+            "exit_ip": "185.149.240.155",
+            "country_iso": "RU",
             "asn": 0,
             "org": "Unknown"
         },
         "performance": {
-            "score": 64.7368,
+            "score": 76.9266,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-11-20",
+            "first_seen": "2025-11-08",
             "last_seen": "2025-11-21"
         },
         "anonymity": "elite"
-    },
-    {
-        "proxy_id": 488332,
-        "ip": "222.59.173.105",
-        "port": 44093,
-        "endpoint": "222.59.173.105:44093",
-        "protocol": "socks5",
-        "lifecycle_status": "active_low",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-11-21 04:18:28.949505",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "up",
-            "last_up": "2025-11-21 08:49:37.515160",
-            "uptime_pct": 100,
-            "avg_latency_ms": 4715
-        },
-        "geo": {
-            "exit_ip": null,
-            "country_iso": null,
-            "asn": null,
-            "org": null
-        },
-        "performance": {
-            "score": 62.9167,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-11-21",
-            "last_seen": "2025-11-21"
-        },
-        "anonymity": null
-    },
-    {
-        "proxy_id": 488336,
-        "ip": "222.59.173.105",
-        "port": 44152,
-        "endpoint": "222.59.173.105:44152",
-        "protocol": "socks5",
-        "lifecycle_status": "active_low",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-11-21 02:18:24.980951",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "up",
-            "last_up": "2025-11-21 08:47:49.396935",
-            "uptime_pct": 100,
-            "avg_latency_ms": 4381
-        },
-        "geo": {
-            "exit_ip": null,
-            "country_iso": null,
-            "asn": null,
-            "org": null
-        },
-        "performance": {
-            "score": 61.5625,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-11-21",
-            "last_seen": "2025-11-21"
-        },
-        "anonymity": null
     }
 ]
