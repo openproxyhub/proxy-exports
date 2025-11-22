@@ -1,31 +1,66 @@
 [
     {
-        "proxy_id": 115049,
-        "ip": "47.250.11.111",
-        "port": 8080,
-        "endpoint": "47.250.11.111:8080",
+        "proxy_id": 81869,
+        "ip": "47.250.159.65",
+        "port": 8002,
+        "endpoint": "47.250.159.65:8002",
         "protocol": "http_absolute",
         "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2025-11-15 05:44:28.617452",
+            "last_check": "2025-11-14 20:49:33.463278",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "up",
-            "last_up": "2025-11-22 06:25:05.624661",
+            "last_up": "2025-11-22 07:49:22.480011",
             "uptime_pct": 100,
-            "avg_latency_ms": 3088
+            "avg_latency_ms": 3122
         },
         "geo": {
-            "exit_ip": "47.250.11.111",
+            "exit_ip": "47.250.159.65",
             "country_iso": "MY",
             "asn": 0,
             "org": "Unknown"
         },
         "performance": {
-            "score": 64.5238,
+            "score": 64.0476,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-08",
+            "last_seen": "2025-11-22"
+        },
+        "anonymity": null
+    },
+    {
+        "proxy_id": 105525,
+        "ip": "47.250.177.202",
+        "port": 8008,
+        "endpoint": "47.250.177.202:8008",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-20 23:49:09.923182",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2025-11-22 07:40:19.904150",
+            "uptime_pct": 100,
+            "avg_latency_ms": 3796
+        },
+        "geo": {
+            "exit_ip": "47.250.177.202",
+            "country_iso": "MY",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 62.9412,
             "status": "inactive"
         },
         "seen": {
