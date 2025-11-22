@@ -1,31 +1,66 @@
 [
     {
-        "proxy_id": 114620,
-        "ip": "8.211.200.183",
-        "port": 4006,
-        "endpoint": "8.211.200.183:4006",
+        "proxy_id": 79122,
+        "ip": "8.211.195.139",
+        "port": 4100,
+        "endpoint": "8.211.195.139:4100",
         "protocol": "http_absolute",
-        "lifecycle_status": "active_low",
+        "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2025-11-22 10:54:57.637109",
+            "last_check": "2025-11-14 20:09:02.915508",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "up",
-            "last_up": "2025-11-22 18:32:18.606682",
+            "last_up": "2025-11-22 19:10:16.265837",
             "uptime_pct": 100,
-            "avg_latency_ms": 3863
+            "avg_latency_ms": 3994
         },
         "geo": {
-            "exit_ip": "8.211.200.183",
+            "exit_ip": "8.211.195.139",
+            "country_iso": "GB",
+            "asn": 45102,
+            "org": "Alibaba US Technology Co., Ltd."
+        },
+        "performance": {
+            "score": 64.0625,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-08",
+            "last_seen": "2025-11-22"
+        },
+        "anonymity": null
+    },
+    {
+        "proxy_id": 75697,
+        "ip": "8.211.194.85",
+        "port": 312,
+        "endpoint": "8.211.194.85:312",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-19 09:21:01.615858",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2025-11-22 19:21:23.444882",
+            "uptime_pct": 100,
+            "avg_latency_ms": 3812
+        },
+        "geo": {
+            "exit_ip": "8.211.194.85",
             "country_iso": "GB",
             "asn": 0,
             "org": "Unknown"
         },
         "performance": {
-            "score": 64.5161,
+            "score": 64.1026,
             "status": "inactive"
         },
         "seen": {
