@@ -1,37 +1,72 @@
 [
     {
-        "proxy_id": 485338,
-        "ip": "95.173.218.75",
-        "port": 8082,
-        "endpoint": "95.173.218.75:8082",
+        "proxy_id": 115191,
+        "ip": "8.219.229.53",
+        "port": 8888,
+        "endpoint": "8.219.229.53:8888",
         "protocol": "http_absolute",
-        "lifecycle_status": "active_low",
+        "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2025-11-18 06:51:42.719825",
+            "last_check": "2025-11-15 07:09:47.770182",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "up",
-            "last_up": "2025-11-22 08:00:34.761278",
+            "last_up": "2025-11-22 09:17:51.452543",
             "uptime_pct": 100,
-            "avg_latency_ms": 2349
+            "avg_latency_ms": 2823
         },
         "geo": {
-            "exit_ip": "95.173.218.75",
+            "exit_ip": "8.219.229.53",
             "country_iso": "SG",
-            "asn": 60068,
-            "org": "Datacamp Limited"
+            "asn": 45102,
+            "org": "Alibaba US Technology Co., Ltd."
         },
         "performance": {
-            "score": 64.6552,
+            "score": 65,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-11-18",
+            "first_seen": "2025-11-08",
             "last_seen": "2025-11-22"
         },
-        "anonymity": "elite"
+        "anonymity": null
+    },
+    {
+        "proxy_id": 5306,
+        "ip": "47.237.92.86",
+        "port": 3128,
+        "endpoint": "47.237.92.86:3128",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-15 10:22:05.192014",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2025-11-22 09:09:48.445555",
+            "uptime_pct": 100,
+            "avg_latency_ms": 3024
+        },
+        "geo": {
+            "exit_ip": "47.237.92.86",
+            "country_iso": "SG",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 64.3103,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-08",
+            "last_seen": "2025-11-22"
+        },
+        "anonymity": null
     }
 ]
