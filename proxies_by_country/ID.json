@@ -1,35 +1,70 @@
 [
     {
-        "proxy_id": 474955,
-        "ip": "103.191.218.37",
-        "port": 8199,
-        "endpoint": "103.191.218.37:8199",
-        "protocol": "socks5",
+        "proxy_id": 75826,
+        "ip": "8.215.15.163",
+        "port": 8081,
+        "endpoint": "8.215.15.163:8081",
+        "protocol": "http_absolute",
         "lifecycle_status": "active_low",
         "proto": {
             "status": "ok",
-            "last_check": "2025-11-19 23:26:52.902658",
+            "last_check": "2025-11-17 18:26:20.536605",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "up",
-            "last_up": "2025-11-23 02:33:27.477923",
+            "last_up": "2025-11-23 03:07:22.791770",
             "uptime_pct": 100,
-            "avg_latency_ms": 4636
+            "avg_latency_ms": 3644
         },
         "geo": {
-            "exit_ip": "103.191.218.37",
+            "exit_ip": "8.215.15.163",
             "country_iso": "ID",
-            "asn": 149930,
-            "org": "PT Replay Inti Media"
+            "asn": 0,
+            "org": "Unknown"
         },
         "performance": {
-            "score": 63.2258,
+            "score": 64,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-11-19",
+            "first_seen": "2025-11-08",
+            "last_seen": "2025-11-23"
+        },
+        "anonymity": null
+    },
+    {
+        "proxy_id": 103063,
+        "ip": "210.87.74.71",
+        "port": 8080,
+        "endpoint": "210.87.74.71:8080",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-21 00:50:10.613025",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2025-11-23 03:10:38.908797",
+            "uptime_pct": 100,
+            "avg_latency_ms": 5039
+        },
+        "geo": {
+            "exit_ip": "210.87.74.71",
+            "country_iso": "ID",
+            "asn": 138089,
+            "org": "PT.Global Media Data Prima"
+        },
+        "performance": {
+            "score": 61.6667,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-08",
             "last_seen": "2025-11-23"
         },
         "anonymity": null
