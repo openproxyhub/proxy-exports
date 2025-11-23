@@ -1,31 +1,66 @@
 [
     {
-        "proxy_id": 69968,
-        "ip": "47.238.134.126",
-        "port": 3128,
-        "endpoint": "47.238.134.126:3128",
+        "proxy_id": 5819,
+        "ip": "8.210.17.35",
+        "port": 1081,
+        "endpoint": "8.210.17.35:1081",
         "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
+        "lifecycle_status": "active_low",
         "proto": {
             "status": "ok",
-            "last_check": "2025-11-15 04:59:10.649050",
+            "last_check": "2025-11-21 08:12:41.485985",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "up",
-            "last_up": "2025-11-23 18:45:50.082880",
-            "uptime_pct": 100,
-            "avg_latency_ms": 3257
+            "last_up": "2025-11-23 20:30:10.805840",
+            "uptime_pct": 0,
+            "avg_latency_ms": 4526
         },
         "geo": {
-            "exit_ip": "47.238.134.126",
+            "exit_ip": "8.210.17.35",
             "country_iso": "HK",
-            "asn": 45102,
-            "org": "Alibaba US Technology Co., Ltd."
+            "asn": 0,
+            "org": "Unknown"
         },
         "performance": {
-            "score": 64.2857,
+            "score": 2.96296,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-08",
+            "last_seen": "2025-11-23"
+        },
+        "anonymity": null
+    },
+    {
+        "proxy_id": 419304,
+        "ip": "47.76.249.160",
+        "port": 1011,
+        "endpoint": "47.76.249.160:1011",
+        "protocol": "socks5",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-17 19:32:46.213127",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2025-11-23 20:34:04.293661",
+            "uptime_pct": 100,
+            "avg_latency_ms": 5286
+        },
+        "geo": {
+            "exit_ip": "47.76.249.160",
+            "country_iso": "HK",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 60.9615,
             "status": "inactive"
         },
         "seen": {
