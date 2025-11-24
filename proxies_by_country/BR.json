@@ -1,36 +1,71 @@
 [
     {
-        "proxy_id": 37793,
-        "ip": "201.62.82.4",
+        "proxy_id": 5613,
+        "ip": "168.194.248.18",
         "port": 8080,
-        "endpoint": "201.62.82.4:8080",
+        "endpoint": "168.194.248.18:8080",
         "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
+        "lifecycle_status": "active_low",
         "proto": {
             "status": "ok",
-            "last_check": "2025-11-15 04:29:06.508954",
+            "last_check": "2025-11-21 15:48:10.178092",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "up",
-            "last_up": "2025-11-22 19:10:35.163483",
+            "last_up": "2025-11-24 06:01:31.734457",
             "uptime_pct": 100,
-            "avg_latency_ms": 4899
+            "avg_latency_ms": 5074
         },
         "geo": {
-            "exit_ip": "201.62.82.4",
+            "exit_ip": "168.194.248.18",
             "country_iso": "BR",
-            "asn": 28634,
-            "org": "Life Tecnologia Ltda."
+            "asn": 0,
+            "org": "Unknown"
         },
         "performance": {
-            "score": 62.2727,
+            "score": 61.2162,
             "status": "inactive"
         },
         "seen": {
             "first_seen": "2025-11-08",
-            "last_seen": "2025-11-22"
+            "last_seen": "2025-11-24"
+        },
+        "anonymity": null
+    },
+    {
+        "proxy_id": 66383,
+        "ip": "177.190.218.145",
+        "port": 9999,
+        "endpoint": "177.190.218.145:9999",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-23 20:48:59.374390",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2025-11-24 06:06:36.704371",
+            "uptime_pct": 100,
+            "avg_latency_ms": 5068
+        },
+        "geo": {
+            "exit_ip": "177.190.218.145",
+            "country_iso": "BR",
+            "asn": 263464,
+            "org": "Souza Cortes Elet. Elet. Ltda ME"
+        },
+        "performance": {
+            "score": 61.25,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-08",
+            "last_seen": "2025-11-24"
         },
         "anonymity": null
     }
