@@ -1,31 +1,66 @@
 [
     {
-        "proxy_id": 381607,
-        "ip": "8.213.215.187",
-        "port": 34567,
-        "endpoint": "8.213.215.187:34567",
+        "proxy_id": 72723,
+        "ip": "8.213.222.247",
+        "port": 1081,
+        "endpoint": "8.213.222.247:1081",
         "protocol": "http_absolute",
         "lifecycle_status": "active_low",
         "proto": {
             "status": "ok",
-            "last_check": "2025-11-23 23:28:48.937284",
+            "last_check": "2025-11-23 23:23:27.491173",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "up",
-            "last_up": "2025-11-25 08:47:50.577160",
+            "last_up": "2025-11-25 09:14:57.412043",
             "uptime_pct": 100,
-            "avg_latency_ms": 4102
+            "avg_latency_ms": 4116
         },
         "geo": {
-            "exit_ip": "8.213.215.187",
+            "exit_ip": "8.213.222.247",
             "country_iso": "TH",
             "asn": 0,
             "org": "Unknown"
         },
         "performance": {
-            "score": 63.3962,
+            "score": 62.8846,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-08",
+            "last_seen": "2025-11-25"
+        },
+        "anonymity": null
+    },
+    {
+        "proxy_id": 208563,
+        "ip": "161.82.141.218",
+        "port": 8080,
+        "endpoint": "161.82.141.218:8080",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-24 17:51:17.372067",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2025-11-25 09:11:58.600157",
+            "uptime_pct": 0,
+            "avg_latency_ms": 5055
+        },
+        "geo": {
+            "exit_ip": "161.82.141.218",
+            "country_iso": "TH",
+            "asn": 132280,
+            "org": "Symphony Communication Thailand PCL."
+        },
+        "performance": {
+            "score": 2.33333,
             "status": "inactive"
         },
         "seen": {
