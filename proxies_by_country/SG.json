@@ -1,35 +1,70 @@
 [
     {
-        "proxy_id": 493415,
-        "ip": "47.237.87.123",
-        "port": 1011,
-        "endpoint": "47.237.87.123:1011",
-        "protocol": "socks5",
-        "lifecycle_status": "active_new",
+        "proxy_id": 5306,
+        "ip": "47.237.92.86",
+        "port": 3128,
+        "endpoint": "47.237.92.86:3128",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_low",
         "proto": {
             "status": "ok",
-            "last_check": "2025-11-25 04:41:30.815444",
+            "last_check": "2025-11-15 10:22:05.192014",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "up",
-            "last_up": "2025-11-25 10:01:30.691248",
-            "uptime_pct": 100,
-            "avg_latency_ms": 1801
+            "last_up": "2025-11-25 18:15:29.863095",
+            "uptime_pct": 0,
+            "avg_latency_ms": 3894
         },
         "geo": {
-            "exit_ip": "47.237.87.123",
+            "exit_ip": "47.237.92.86",
+            "country_iso": "SG",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 3.61111,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-08",
+            "last_seen": "2025-11-25"
+        },
+        "anonymity": null
+    },
+    {
+        "proxy_id": 83568,
+        "ip": "47.237.68.206",
+        "port": 1100,
+        "endpoint": "47.237.68.206:1100",
+        "protocol": "socks5",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-24 06:41:44.851288",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2025-11-25 18:22:59.499250",
+            "uptime_pct": 0,
+            "avg_latency_ms": 4820
+        },
+        "geo": {
+            "exit_ip": "47.237.68.206",
             "country_iso": "SG",
             "asn": 45102,
             "org": "Alibaba US Technology Co., Ltd."
         },
         "performance": {
-            "score": 65,
+            "score": 4,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-11-25",
+            "first_seen": "2025-11-08",
             "last_seen": "2025-11-25"
         },
         "anonymity": null
