@@ -1,35 +1,70 @@
 [
     {
-        "proxy_id": 485882,
-        "ip": "103.154.222.59",
-        "port": 1111,
-        "endpoint": "103.154.222.59:1111",
-        "protocol": "http_connect",
+        "proxy_id": 72270,
+        "ip": "8.215.3.250",
+        "port": 1080,
+        "endpoint": "8.215.3.250:1080",
+        "protocol": "http_absolute",
         "lifecycle_status": "active_low",
         "proto": {
             "status": "ok",
-            "last_check": "2025-11-24 21:17:02.113482",
+            "last_check": "2025-11-18 01:07:43.349097",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "up",
-            "last_up": "2025-11-25 10:32:03.843503",
-            "uptime_pct": 0,
-            "avg_latency_ms": 5115
+            "last_up": "2025-11-25 12:19:26.545122",
+            "uptime_pct": 100,
+            "avg_latency_ms": 4341
         },
         "geo": {
-            "exit_ip": "103.177.101.44",
+            "exit_ip": "8.215.3.250",
             "country_iso": "ID",
-            "asn": 131111,
-            "org": "PT Mora Telematika Indonesia"
+            "asn": 0,
+            "org": "Unknown"
         },
         "performance": {
-            "score": 4.04762,
+            "score": 62.4038,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-11-24",
+            "first_seen": "2025-11-08",
+            "last_seen": "2025-11-25"
+        },
+        "anonymity": null
+    },
+    {
+        "proxy_id": 410992,
+        "ip": "16.78.41.33",
+        "port": 4042,
+        "endpoint": "16.78.41.33:4042",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-23 19:45:54.310501",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2025-11-25 12:02:34.912775",
+            "uptime_pct": 0,
+            "avg_latency_ms": 2743
+        },
+        "geo": {
+            "exit_ip": "16.78.41.33",
+            "country_iso": "ID",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 1.6,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-08",
             "last_seen": "2025-11-25"
         },
         "anonymity": null
