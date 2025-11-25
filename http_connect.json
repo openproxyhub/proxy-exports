@@ -1,22 +1,22 @@
 [
     {
-        "proxy_id": 496622,
-        "ip": "8.243.126.24",
-        "port": 999,
-        "endpoint": "8.243.126.24:999",
+        "proxy_id": 496396,
+        "ip": "3.249.110.142",
+        "port": 37777,
+        "endpoint": "3.249.110.142:37777",
         "protocol": "http_connect",
-        "lifecycle_status": "active_new",
+        "lifecycle_status": "active_low",
         "proto": {
             "status": "ok",
-            "last_check": "2025-11-25 12:27:36.253413",
+            "last_check": "2025-11-25 11:11:32.064279",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "up",
-            "last_up": "2025-11-25 16:20:21.737996",
+            "last_up": "2025-11-25 16:35:37.313522",
             "uptime_pct": 0,
-            "avg_latency_ms": 0
+            "avg_latency_ms": 79
         },
         "geo": {
             "exit_ip": null,
@@ -25,13 +25,48 @@
             "org": null
         },
         "performance": {
-            "score": 40,
+            "score": 35.5683,
             "status": "inactive"
         },
         "seen": {
             "first_seen": "2025-11-25",
             "last_seen": "2025-11-25"
         },
-        "anonymity": "transparent"
+        "anonymity": null
+    },
+    {
+        "proxy_id": 496749,
+        "ip": "180.194.229.147",
+        "port": 8081,
+        "endpoint": "180.194.229.147:8081",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-25 16:43:00.259904",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2025-11-25 16:47:08.423812",
+            "uptime_pct": 0,
+            "avg_latency_ms": 5002
+        },
+        "geo": {
+            "exit_ip": null,
+            "country_iso": null,
+            "asn": null,
+            "org": null
+        },
+        "performance": {
+            "score": 5,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-25",
+            "last_seen": "2025-11-25"
+        },
+        "anonymity": null
     }
 ]
