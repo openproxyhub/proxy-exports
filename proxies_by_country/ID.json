@@ -1,31 +1,66 @@
 [
     {
-        "proxy_id": 67278,
-        "ip": "103.254.106.81",
-        "port": 8181,
-        "endpoint": "103.254.106.81:8181",
-        "protocol": "http_connect",
+        "proxy_id": 102337,
+        "ip": "103.68.214.129",
+        "port": 1111,
+        "endpoint": "103.68.214.129:1111",
+        "protocol": "http_absolute",
         "lifecycle_status": "active_low",
         "proto": {
             "status": "ok",
-            "last_check": "2025-11-21 19:07:15.885573",
+            "last_check": "2025-11-24 14:22:02.185298",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "up",
-            "last_up": "2025-11-25 00:31:22.215904",
+            "last_up": "2025-11-25 02:00:08.051160",
             "uptime_pct": 100,
-            "avg_latency_ms": 4975
+            "avg_latency_ms": 5077
         },
         "geo": {
-            "exit_ip": "103.254.106.81",
+            "exit_ip": "103.68.214.129",
             "country_iso": "ID",
-            "asn": 59282,
-            "org": "PT Giga Patra Multimedia"
+            "asn": 150517,
+            "org": "PT Media Grasi Internet"
         },
         "performance": {
-            "score": 61.4423,
+            "score": 62.1154,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-08",
+            "last_seen": "2025-11-25"
+        },
+        "anonymity": null
+    },
+    {
+        "proxy_id": 108555,
+        "ip": "210.87.125.210",
+        "port": 8080,
+        "endpoint": "210.87.125.210:8080",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-24 16:56:34.796658",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2025-11-25 02:00:19.731991",
+            "uptime_pct": 0,
+            "avg_latency_ms": 5065
+        },
+        "geo": {
+            "exit_ip": "210.87.125.210",
+            "country_iso": "ID",
+            "asn": 152059,
+            "org": "CV Brawijaya Giga Network"
+        },
+        "performance": {
+            "score": 2.05882,
             "status": "inactive"
         },
         "seen": {
