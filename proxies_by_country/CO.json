@@ -1,36 +1,71 @@
 [
     {
-        "proxy_id": 87721,
-        "ip": "181.79.81.104",
-        "port": 8080,
-        "endpoint": "181.79.81.104:8080",
+        "proxy_id": 4060,
+        "ip": "181.204.81.182",
+        "port": 999,
+        "endpoint": "181.204.81.182:999",
         "protocol": "http_absolute",
         "lifecycle_status": "active_low",
         "proto": {
             "status": "ok",
-            "last_check": "2025-11-18 21:29:54.833615",
+            "last_check": "2025-11-24 17:49:01.511010",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "up",
-            "last_up": "2025-11-24 23:37:20.743959",
-            "uptime_pct": 100,
-            "avg_latency_ms": 4843
+            "last_up": "2025-11-25 07:32:58.292710",
+            "uptime_pct": 0,
+            "avg_latency_ms": 5505
         },
         "geo": {
-            "exit_ip": "181.79.81.104",
+            "exit_ip": "181.204.81.182",
             "country_iso": "CO",
-            "asn": 0,
-            "org": "Unknown"
+            "asn": 27831,
+            "org": "Colombia Movil"
         },
         "performance": {
-            "score": 62,
+            "score": 2.77778,
             "status": "inactive"
         },
         "seen": {
             "first_seen": "2025-11-08",
-            "last_seen": "2025-11-24"
+            "last_seen": "2025-11-25"
+        },
+        "anonymity": null
+    },
+    {
+        "proxy_id": 275922,
+        "ip": "201.184.128.170",
+        "port": 8080,
+        "endpoint": "201.184.128.170:8080",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-17 08:24:50.092397",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2025-11-25 07:45:17.824433",
+            "uptime_pct": 0,
+            "avg_latency_ms": 4985
+        },
+        "geo": {
+            "exit_ip": "201.184.128.170",
+            "country_iso": "CO",
+            "asn": 13489,
+            "org": "UNE EPM TELECOMUNICACIONES S.A."
+        },
+        "performance": {
+            "score": 1.7,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-08",
+            "last_seen": "2025-11-25"
         },
         "anonymity": null
     }
