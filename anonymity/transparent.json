@@ -1,32 +1,67 @@
 [
     {
-        "proxy_id": 496622,
-        "ip": "8.243.126.24",
-        "port": 999,
-        "endpoint": "8.243.126.24:999",
+        "proxy_id": 496614,
+        "ip": "203.150.113.62",
+        "port": 8080,
+        "endpoint": "203.150.113.62:8080",
         "protocol": "http_connect",
         "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2025-11-25 12:27:36.253413",
+            "last_check": "2025-11-25 21:10:35.987987",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "up",
-            "last_up": "2025-11-25 23:02:18.150035",
+            "last_up": "2025-11-25 23:51:01.063298",
             "uptime_pct": 0,
-            "avg_latency_ms": 0
+            "avg_latency_ms": 5002
         },
         "geo": {
-            "exit_ip": null,
-            "country_iso": null,
-            "asn": null,
-            "org": null
+            "exit_ip": "203.150.113.62",
+            "country_iso": "ZZ",
+            "asn": 0,
+            "org": "Unknown"
         },
         "performance": {
-            "score": 40,
+            "score": 5,
             "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-25",
+            "last_seen": "2025-11-25"
+        },
+        "anonymity": "transparent"
+    },
+    {
+        "proxy_id": 497462,
+        "ip": "84.247.174.93",
+        "port": 8080,
+        "endpoint": "84.247.174.93:8080",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-25 19:29:43.928077",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2025-11-25 23:31:37.652417",
+            "uptime_pct": 100,
+            "avg_latency_ms": 281
+        },
+        "geo": {
+            "exit_ip": "84.247.174.93",
+            "country_iso": "ZZ",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 90.165,
+            "status": "active"
         },
         "seen": {
             "first_seen": "2025-11-25",
