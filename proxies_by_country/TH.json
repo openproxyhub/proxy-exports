@@ -1,37 +1,72 @@
 [
     {
-        "proxy_id": 416777,
-        "ip": "43.208.16.9",
-        "port": 4565,
-        "endpoint": "43.208.16.9:4565",
+        "proxy_id": 486950,
+        "ip": "43.208.25.125",
+        "port": 315,
+        "endpoint": "43.208.25.125:315",
         "protocol": "http_connect",
         "lifecycle_status": "active_low",
         "proto": {
             "status": "ok",
-            "last_check": "2025-11-18 05:54:39.195717",
+            "last_check": "2025-11-24 19:57:35.692985",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "up",
-            "last_up": "2025-11-26 08:25:08.605342",
-            "uptime_pct": 100,
-            "avg_latency_ms": 1534
+            "last_up": "2025-11-26 09:06:29.880692",
+            "uptime_pct": 0,
+            "avg_latency_ms": 2369
         },
         "geo": {
-            "exit_ip": "43.208.16.9",
+            "exit_ip": "43.208.25.125",
             "country_iso": "TH",
             "asn": 0,
             "org": "Unknown"
         },
         "performance": {
-            "score": 61.5,
+            "score": 2.11111,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-11-08",
+            "first_seen": "2025-11-24",
             "last_seen": "2025-11-26"
         },
         "anonymity": null
+    },
+    {
+        "proxy_id": 490164,
+        "ip": "96.30.116.11",
+        "port": 8293,
+        "endpoint": "96.30.116.11:8293",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-23 17:10:52.855578",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2025-11-26 09:08:14.412496",
+            "uptime_pct": 100,
+            "avg_latency_ms": 1322
+        },
+        "geo": {
+            "exit_ip": "96.30.116.11",
+            "country_iso": "TH",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 64.5745,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-23",
+            "last_seen": "2025-11-26"
+        },
+        "anonymity": "elite"
     }
 ]
