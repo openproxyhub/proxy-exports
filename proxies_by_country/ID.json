@@ -1,177 +1,72 @@
 [
     {
-        "proxy_id": 5094,
-        "ip": "103.44.19.220",
-        "port": 3127,
-        "endpoint": "103.44.19.220:3127",
-        "protocol": "http_absolute",
+        "proxy_id": 495543,
+        "ip": "117.102.78.50",
+        "port": 8000,
+        "endpoint": "117.102.78.50:8000",
+        "protocol": "http_connect",
         "lifecycle_status": "active_low",
         "proto": {
             "status": "ok",
-            "last_check": "2025-11-25 03:39:57.202419",
+            "last_check": "2025-11-25 12:34:19.896800",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "up",
-            "last_up": "2025-11-27 00:01:01.565649",
-            "uptime_pct": 100,
-            "avg_latency_ms": 5106
+            "last_up": "2025-11-27 00:39:58.511190",
+            "uptime_pct": 0,
+            "avg_latency_ms": 4822
         },
         "geo": {
-            "exit_ip": "103.44.19.220",
+            "exit_ip": "117.102.78.50",
             "country_iso": "ID",
-            "asn": 0,
-            "org": "Unknown"
+            "asn": 17451,
+            "org": "BIZNET NETWORKS"
+        },
+        "performance": {
+            "score": 0,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-25",
+            "last_seen": "2025-11-27"
+        },
+        "anonymity": "transparent"
+    },
+    {
+        "proxy_id": 497612,
+        "ip": "103.187.86.54",
+        "port": 8199,
+        "endpoint": "103.187.86.54:8199",
+        "protocol": "socks5",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-25 21:54:54.233744",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2025-11-27 00:30:14.730207",
+            "uptime_pct": 100,
+            "avg_latency_ms": 4855
+        },
+        "geo": {
+            "exit_ip": "103.187.86.54",
+            "country_iso": "ID",
+            "asn": 149718,
+            "org": "PT Satunol Digital Teknologi"
         },
         "performance": {
             "score": 60,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-11-08",
+            "first_seen": "2025-11-25",
             "last_seen": "2025-11-27"
         },
-        "anonymity": null
-    },
-    {
-        "proxy_id": 66707,
-        "ip": "202.154.19.7",
-        "port": 8080,
-        "endpoint": "202.154.19.7:8080",
-        "protocol": "http_connect",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-11-25 22:03:14.325629",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "up",
-            "last_up": "2025-11-27 00:17:18.244570",
-            "uptime_pct": 0,
-            "avg_latency_ms": 5022
-        },
-        "geo": {
-            "exit_ip": "202.154.19.7",
-            "country_iso": "ID",
-            "asn": 0,
-            "org": "Unknown"
-        },
-        "performance": {
-            "score": 0,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-11-08",
-            "last_seen": "2025-11-27"
-        },
-        "anonymity": "transparent"
-    },
-    {
-        "proxy_id": 72395,
-        "ip": "103.18.232.4",
-        "port": 8080,
-        "endpoint": "103.18.232.4:8080",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-11-25 03:40:58.811226",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "up",
-            "last_up": "2025-11-27 00:20:19.815404",
-            "uptime_pct": 100,
-            "avg_latency_ms": 5059
-        },
-        "geo": {
-            "exit_ip": "103.18.232.4",
-            "country_iso": "ID",
-            "asn": 0,
-            "org": "Unknown"
-        },
-        "performance": {
-            "score": 60,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-11-08",
-            "last_seen": "2025-11-27"
-        },
-        "anonymity": "transparent"
-    },
-    {
-        "proxy_id": 128602,
-        "ip": "103.174.237.69",
-        "port": 8080,
-        "endpoint": "103.174.237.69:8080",
-        "protocol": "http_connect",
-        "lifecycle_status": "active_low",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-11-24 01:06:30.052344",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "up",
-            "last_up": "2025-11-27 00:22:33.340916",
-            "uptime_pct": 0,
-            "avg_latency_ms": 5329
-        },
-        "geo": {
-            "exit_ip": "103.174.237.69",
-            "country_iso": "ID",
-            "asn": 0,
-            "org": "Unknown"
-        },
-        "performance": {
-            "score": 0,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-11-08",
-            "last_seen": "2025-11-27"
-        },
-        "anonymity": "transparent"
-    },
-    {
-        "proxy_id": 132045,
-        "ip": "103.247.22.88",
-        "port": 4317,
-        "endpoint": "103.247.22.88:4317",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_low",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-11-24 19:46:26.127906",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "up",
-            "last_up": "2025-11-27 00:11:21.211934",
-            "uptime_pct": 0,
-            "avg_latency_ms": 4966
-        },
-        "geo": {
-            "exit_ip": "103.247.22.88",
-            "country_iso": "ID",
-            "asn": 58485,
-            "org": "WIFIAN"
-        },
-        "performance": {
-            "score": 0,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-11-08",
-            "last_seen": "2025-11-27"
-        },
-        "anonymity": null
+        "anonymity": "elite"
     }
 ]
