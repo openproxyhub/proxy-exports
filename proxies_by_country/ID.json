@@ -1,28 +1,28 @@
 [
     {
-        "proxy_id": 495543,
-        "ip": "117.102.78.50",
-        "port": 8000,
-        "endpoint": "117.102.78.50:8000",
-        "protocol": "http_connect",
-        "lifecycle_status": "active_low",
+        "proxy_id": 492836,
+        "ip": "103.110.34.146",
+        "port": 8080,
+        "endpoint": "103.110.34.146:8080",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2025-11-25 12:34:19.896800",
+            "last_check": "2025-11-25 03:30:04.892088",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "up",
-            "last_up": "2025-11-27 00:39:58.511190",
+            "last_up": "2025-11-27 03:30:56.306353",
             "uptime_pct": 0,
-            "avg_latency_ms": 4822
+            "avg_latency_ms": 4989
         },
         "geo": {
-            "exit_ip": "117.102.78.50",
+            "exit_ip": "103.110.34.146",
             "country_iso": "ID",
-            "asn": 17451,
-            "org": "BIZNET NETWORKS"
+            "asn": 150936,
+            "org": "PT RECONET SEMESTA INDONESIA"
         },
         "performance": {
             "score": 0,
@@ -33,40 +33,5 @@
             "last_seen": "2025-11-27"
         },
         "anonymity": "transparent"
-    },
-    {
-        "proxy_id": 497612,
-        "ip": "103.187.86.54",
-        "port": 8199,
-        "endpoint": "103.187.86.54:8199",
-        "protocol": "socks5",
-        "lifecycle_status": "active_low",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-11-25 21:54:54.233744",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "up",
-            "last_up": "2025-11-27 00:30:14.730207",
-            "uptime_pct": 100,
-            "avg_latency_ms": 4855
-        },
-        "geo": {
-            "exit_ip": "103.187.86.54",
-            "country_iso": "ID",
-            "asn": 149718,
-            "org": "PT Satunol Digital Teknologi"
-        },
-        "performance": {
-            "score": 60,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-11-25",
-            "last_seen": "2025-11-27"
-        },
-        "anonymity": "elite"
     }
 ]
