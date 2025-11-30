@@ -1,35 +1,70 @@
 [
     {
-        "proxy_id": 490464,
-        "ip": "200.48.35.125",
-        "port": 999,
-        "endpoint": "200.48.35.125:999",
-        "protocol": "http_connect",
+        "proxy_id": 66208,
+        "ip": "147.75.66.234",
+        "port": 9443,
+        "endpoint": "147.75.66.234:9443",
+        "protocol": "http_absolute",
         "lifecycle_status": "active_low",
         "proto": {
             "status": "ok",
-            "last_check": "2025-11-25 12:57:19.235587",
+            "last_check": "2025-11-28 01:26:55.105378",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "up",
-            "last_up": "2025-11-30 15:39:50.601329",
+            "last_up": "2025-11-30 16:08:53.262753",
             "uptime_pct": 100,
-            "avg_latency_ms": 4691
+            "avg_latency_ms": 1887
         },
         "geo": {
-            "exit_ip": null,
-            "country_iso": null,
-            "asn": null,
-            "org": null
+            "exit_ip": "147.75.66.234",
+            "country_iso": "US",
+            "asn": 0,
+            "org": "Unknown"
         },
         "performance": {
-            "score": 63,
+            "score": 63.3333,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-11-25",
+            "first_seen": "2025-11-08",
+            "last_seen": "2025-11-30"
+        },
+        "anonymity": "transparent"
+    },
+    {
+        "proxy_id": 106117,
+        "ip": "163.61.112.244",
+        "port": 8080,
+        "endpoint": "163.61.112.244:8080",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-28 01:34:24.413504",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2025-11-30 16:13:53.276641",
+            "uptime_pct": 100,
+            "avg_latency_ms": 5015
+        },
+        "geo": {
+            "exit_ip": "163.61.112.244",
+            "country_iso": "ID",
+            "asn": 153600,
+            "org": "PT VESAKHA SECEPAT KILAT"
+        },
+        "performance": {
+            "score": 62.8571,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-08",
             "last_seen": "2025-11-30"
         },
         "anonymity": "transparent"
