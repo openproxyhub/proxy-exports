@@ -1,37 +1,107 @@
 [
     {
-        "proxy_id": 579437,
-        "ip": "115.127.110.98",
-        "port": 1080,
-        "endpoint": "115.127.110.98:1080",
-        "protocol": "socks5",
+        "proxy_id": 505248,
+        "ip": "103.138.145.34",
+        "port": 80,
+        "endpoint": "103.138.145.34:80",
+        "protocol": "http_absolute",
         "lifecycle_status": "active_low",
         "proto": {
             "status": "ok",
-            "last_check": "2025-11-29 09:50:43.100652",
+            "last_check": "2025-11-28 03:28:07.475913",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "up",
-            "last_up": "2025-12-02 21:54:47.211952",
-            "uptime_pct": 0,
-            "avg_latency_ms": 2482
+            "last_up": "2025-12-08 14:30:06.908836",
+            "uptime_pct": 100,
+            "avg_latency_ms": 655
         },
         "geo": {
-            "exit_ip": "115.127.110.98",
+            "exit_ip": "103.138.145.34",
             "country_iso": "BD",
-            "asn": 24342,
-            "org": "BRACNet Limited"
+            "asn": 139008,
+            "org": "NEEFIT"
         },
         "performance": {
-            "score": 1.92308,
+            "score": 73.95,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-11-29",
-            "last_seen": "2025-12-02"
+            "first_seen": "2025-11-28",
+            "last_seen": "2025-12-08"
         },
-        "anonymity": "unknown"
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 505587,
+        "ip": "59.153.100.98",
+        "port": 80,
+        "endpoint": "59.153.100.98:80",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-28 03:51:35.331011",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2025-12-08 14:30:06.955578",
+            "uptime_pct": 100,
+            "avg_latency_ms": 437
+        },
+        "geo": {
+            "exit_ip": "59.153.100.98",
+            "country_iso": "BD",
+            "asn": 134732,
+            "org": ""
+        },
+        "performance": {
+            "score": 82.4077,
+            "status": "active"
+        },
+        "seen": {
+            "first_seen": "2025-11-28",
+            "last_seen": "2025-12-08"
+        },
+        "anonymity_level": "transparent"
+    },
+    {
+        "proxy_id": 508112,
+        "ip": "103.86.109.38",
+        "port": 80,
+        "endpoint": "103.86.109.38:80",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-28 05:35:56.509640",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2025-12-08 14:40:04.919021",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "103.86.109.38",
+            "country_iso": "BD",
+            "asn": 136395,
+            "org": ""
+        },
+        "performance": {
+            "score": 37.0833,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-28",
+            "last_seen": "2025-12-08"
+        },
+        "anonymity_level": "unknown"
     }
 ]

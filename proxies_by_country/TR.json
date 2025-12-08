@@ -1,37 +1,72 @@
 [
     {
-        "proxy_id": 490975,
-        "ip": "176.117.106.133",
-        "port": 8080,
-        "endpoint": "176.117.106.133:8080",
+        "proxy_id": 66384,
+        "ip": "193.57.136.40",
+        "port": 3128,
+        "endpoint": "193.57.136.40:3128",
         "protocol": "http_absolute",
-        "lifecycle_status": "active_low",
+        "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2025-11-25 13:27:03.079466",
+            "last_check": "2025-11-28 01:18:18.360656",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
-            "status": "up",
-            "last_up": "2025-11-30 08:28:59.555469",
+            "status": "down",
+            "last_up": "2025-12-08 14:30:03.637629",
             "uptime_pct": 0,
-            "avg_latency_ms": 5114
+            "avg_latency_ms": 0
         },
         "geo": {
-            "exit_ip": "176.117.106.133",
+            "exit_ip": "193.57.136.40",
             "country_iso": "TR",
-            "asn": 202561,
-            "org": "Highspeed ISP"
+            "asn": 0,
+            "org": "Unknown"
         },
         "performance": {
-            "score": 1.66667,
+            "score": 26.3,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-11-25",
-            "last_seen": "2025-11-30"
+            "first_seen": "2025-11-08",
+            "last_seen": "2025-12-08"
         },
-        "anonymity": null
+        "anonymity_level": null
+    },
+    {
+        "proxy_id": 509050,
+        "ip": "38.156.72.6",
+        "port": 8080,
+        "endpoint": "38.156.72.6:8080",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-28 06:10:53.712841",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2025-12-08 14:50:04.870211",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "38.156.72.6",
+            "country_iso": "TR",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 35.5556,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-28",
+            "last_seen": "2025-12-08"
+        },
+        "anonymity_level": "unknown"
     }
 ]

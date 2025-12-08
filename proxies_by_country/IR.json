@@ -5,7 +5,7 @@
         "port": 80,
         "endpoint": "194.39.254.35:80",
         "protocol": "http_absolute",
-        "lifecycle_status": "active_medium",
+        "lifecycle_status": "active_low",
         "proto": {
             "status": "ok",
             "last_check": "2025-11-28 03:33:27.456177",
@@ -14,9 +14,9 @@
         },
         "uptime": {
             "status": "up",
-            "last_up": "2025-12-01 08:06:37.067145",
+            "last_up": "2025-12-08 14:25:03.068643",
             "uptime_pct": 100,
-            "avg_latency_ms": 403
+            "avg_latency_ms": 660
         },
         "geo": {
             "exit_ip": "194.39.254.35",
@@ -25,13 +25,48 @@
             "org": "Parsian Technology Innovative Solution Co., PJS"
         },
         "performance": {
-            "score": 85.895,
-            "status": "active"
+            "score": 74.0429,
+            "status": "inactive"
         },
         "seen": {
             "first_seen": "2025-11-28",
-            "last_seen": "2025-12-01"
+            "last_seen": "2025-12-08"
         },
-        "anonymity": "transparent"
+        "anonymity_level": "transparent"
+    },
+    {
+        "proxy_id": 518445,
+        "ip": "46.245.123.10",
+        "port": 8080,
+        "endpoint": "46.245.123.10:8080",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-28 08:07:00.945644",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2025-12-08 14:45:07.600148",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "46.245.123.10",
+            "country_iso": "IR",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 35.25,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-28",
+            "last_seen": "2025-12-08"
+        },
+        "anonymity_level": "unknown"
     }
 ]
