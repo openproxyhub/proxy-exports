@@ -1,35 +1,70 @@
 [
     {
-        "proxy_id": 603084,
-        "ip": "206.237.23.62",
-        "port": 8888,
-        "endpoint": "206.237.23.62:8888",
+        "proxy_id": 42496,
+        "ip": "47.238.130.212",
+        "port": 3129,
+        "endpoint": "47.238.130.212:3129",
         "protocol": "http_absolute",
-        "lifecycle_status": "active_low",
+        "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2025-11-29 22:45:37.569893",
+            "last_check": "2025-12-05 02:19:45.354081",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
-            "status": "down",
-            "last_up": "2025-12-08 17:45:04.287141",
-            "uptime_pct": 0,
-            "avg_latency_ms": 0
+            "status": "up",
+            "last_up": "2025-12-08 20:25:02.329132",
+            "uptime_pct": 66.67,
+            "avg_latency_ms": 4261
         },
         "geo": {
-            "exit_ip": "206.237.23.62",
+            "exit_ip": "47.238.130.212",
             "country_iso": "HK",
-            "asn": 55933,
-            "org": "Cloudie Limited"
+            "asn": 0,
+            "org": "Unknown"
         },
         "performance": {
-            "score": 35.25,
+            "score": 33.2756,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-11-30",
+            "first_seen": "2025-11-08",
+            "last_seen": "2025-12-08"
+        },
+        "anonymity_level": null
+    },
+    {
+        "proxy_id": 77137,
+        "ip": "43.198.185.30",
+        "port": 10042,
+        "endpoint": "43.198.185.30:10042",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-28 01:24:10.663810",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2025-12-08 20:20:04.279891",
+            "uptime_pct": 66.67,
+            "avg_latency_ms": 2182
+        },
+        "geo": {
+            "exit_ip": "43.198.185.30",
+            "country_iso": "HK",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 30.0733,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-08",
             "last_seen": "2025-12-08"
         },
         "anonymity_level": "unknown"
