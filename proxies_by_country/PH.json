@@ -1,107 +1,177 @@
 [
     {
-        "proxy_id": 83860,
-        "ip": "8.212.151.166",
-        "port": 4567,
-        "endpoint": "8.212.151.166:4567",
+        "proxy_id": 569577,
+        "ip": "202.175.221.171",
+        "port": 8080,
+        "endpoint": "202.175.221.171:8080",
         "protocol": "http_absolute",
         "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2025-12-05 02:25:43.513797",
+            "last_check": "2025-11-29 06:35:44.405828",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "up",
-            "last_up": "2025-12-09 10:40:08.668145",
-            "uptime_pct": 100,
-            "avg_latency_ms": 3466
+            "last_up": "2025-12-09 16:10:02.456125",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
         },
         "geo": {
-            "exit_ip": "8.212.151.166",
+            "exit_ip": "202.175.221.171",
             "country_iso": "PH",
-            "asn": 0,
-            "org": "Unknown"
+            "asn": 9658,
+            "org": "Eastern Telecoms Phils., Inc."
         },
         "performance": {
-            "score": 43.5965,
+            "score": 35.8824,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-11-08",
+            "first_seen": "2025-11-29",
             "last_seen": "2025-12-09"
         },
-        "anonymity_level": null
+        "anonymity_level": "unknown"
     },
     {
-        "proxy_id": 87821,
-        "ip": "58.69.124.137",
-        "port": 5052,
-        "endpoint": "58.69.124.137:5052",
+        "proxy_id": 569835,
+        "ip": "124.105.36.193",
+        "port": 8082,
+        "endpoint": "124.105.36.193:8082",
         "protocol": "http_connect",
         "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2025-12-05 02:26:30.250924",
+            "last_check": "2025-11-29 06:40:20.887214",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "down",
-            "last_up": "2025-12-09 10:55:03.957469",
+            "last_up": "2025-12-09 16:15:02.277274",
             "uptime_pct": 0,
             "avg_latency_ms": 0
         },
         "geo": {
-            "exit_ip": "58.69.124.137",
+            "exit_ip": "124.105.36.193",
             "country_iso": "PH",
             "asn": 9299,
             "org": "Philippine Long Distance Telephone Company"
         },
         "performance": {
-            "score": 26.12,
+            "score": 35.8333,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-11-08",
+            "first_seen": "2025-11-29",
             "last_seen": "2025-12-09"
         },
-        "anonymity_level": null
+        "anonymity_level": "transparent"
     },
     {
-        "proxy_id": 497726,
-        "ip": "103.84.177.154",
-        "port": 8083,
-        "endpoint": "103.84.177.154:8083",
-        "protocol": "http_connect",
-        "lifecycle_status": "active_new",
+        "proxy_id": 573661,
+        "ip": "61.9.34.118",
+        "port": 58765,
+        "endpoint": "61.9.34.118:58765",
+        "protocol": "socks5",
+        "lifecycle_status": "active_low",
         "proto": {
             "status": "ok",
-            "last_check": "2025-11-25 23:18:35.785678",
+            "last_check": "2025-11-29 07:53:42.414638",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "down",
-            "last_up": "2025-12-09 10:50:06.055260",
+            "last_up": "2025-12-09 16:00:02.472174",
             "uptime_pct": 0,
             "avg_latency_ms": 0
         },
         "geo": {
-            "exit_ip": "103.84.177.154",
+            "exit_ip": "61.9.34.118",
             "country_iso": "PH",
-            "asn": 0,
-            "org": "Unknown"
+            "asn": 17970,
+            "org": "SKYBroadband SKYCable Corporation"
         },
         "performance": {
-            "score": 35.2,
+            "score": 36.1364,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-11-25",
+            "first_seen": "2025-11-29",
             "last_seen": "2025-12-09"
         },
-        "anonymity_level": null
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 578446,
+        "ip": "58.69.212.156",
+        "port": 5050,
+        "endpoint": "58.69.212.156:5050",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-29 09:31:58.554526",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2025-12-09 16:00:07.162009",
+            "uptime_pct": 100,
+            "avg_latency_ms": 699
+        },
+        "geo": {
+            "exit_ip": "58.69.212.156",
+            "country_iso": "PH",
+            "asn": 9299,
+            "org": "Philippine Long Distance Telephone Company"
+        },
+        "performance": {
+            "score": 72.4398,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-29",
+            "last_seen": "2025-12-09"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 587297,
+        "ip": "222.127.55.155",
+        "port": 8082,
+        "endpoint": "222.127.55.155:8082",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-29 13:25:20.159706",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2025-12-09 16:25:01.409579",
+            "uptime_pct": 50,
+            "avg_latency_ms": 5454
+        },
+        "geo": {
+            "exit_ip": "222.127.55.155",
+            "country_iso": "PH",
+            "asn": 132199,
+            "org": "Globe Telecom Inc."
+        },
+        "performance": {
+            "score": 30,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-30",
+            "last_seen": "2025-12-09"
+        },
+        "anonymity_level": "unknown"
     }
 ]

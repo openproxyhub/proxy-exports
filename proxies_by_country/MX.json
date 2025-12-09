@@ -1,37 +1,72 @@
 [
     {
-        "proxy_id": 494324,
-        "ip": "201.77.110.33",
-        "port": 999,
-        "endpoint": "201.77.110.33:999",
+        "proxy_id": 568880,
+        "ip": "187.190.127.212",
+        "port": 8081,
+        "endpoint": "187.190.127.212:8081",
         "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
+        "lifecycle_status": "active_low",
         "proto": {
             "status": "ok",
-            "last_check": "2025-11-25 06:51:46.701137",
+            "last_check": "2025-11-29 06:12:06.029186",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "down",
-            "last_up": "2025-12-09 11:15:09.942791",
+            "last_up": "2025-12-09 16:20:01.868583",
+            "uptime_pct": 50,
+            "avg_latency_ms": 1677
+        },
+        "geo": {
+            "exit_ip": "187.190.127.212",
+            "country_iso": "MX",
+            "asn": 22884,
+            "org": "TOTAL PLAY TELECOMUNICACIONES SA DE CV"
+        },
+        "performance": {
+            "score": 30.25,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-29",
+            "last_seen": "2025-12-09"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 587606,
+        "ip": "189.201.153.93",
+        "port": 999,
+        "endpoint": "189.201.153.93:999",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-29 13:34:03.490236",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2025-12-09 16:25:01.802488",
             "uptime_pct": 0,
             "avg_latency_ms": 0
         },
         "geo": {
-            "exit_ip": "201.77.110.1",
+            "exit_ip": "189.201.153.89",
             "country_iso": "MX",
-            "asn": 265627,
-            "org": "NIDIX NETWORKS S.A. DE C.V."
+            "asn": 28438,
+            "org": "IP Matrix, S.A. de C.V."
         },
         "performance": {
-            "score": 25.95,
+            "score": 35,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-11-25",
+            "first_seen": "2025-11-30",
             "last_seen": "2025-12-09"
         },
-        "anonymity_level": null
+        "anonymity_level": "unknown"
     }
 ]
