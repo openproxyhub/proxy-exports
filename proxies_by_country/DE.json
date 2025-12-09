@@ -1,37 +1,72 @@
 [
     {
-        "proxy_id": 69865,
-        "ip": "8.211.49.86",
-        "port": 10000,
-        "endpoint": "8.211.49.86:10000",
+        "proxy_id": 506117,
+        "ip": "81.169.213.169",
+        "port": 8888,
+        "endpoint": "81.169.213.169:8888",
         "protocol": "http_absolute",
         "lifecycle_status": "active_low",
         "proto": {
             "status": "ok",
-            "last_check": "2025-11-28 01:47:57.990067",
+            "last_check": "2025-11-28 04:14:27.249687",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "up",
-            "last_up": "2025-12-08 20:10:04.196049",
-            "uptime_pct": 33.33,
-            "avg_latency_ms": 2065
+            "last_up": "2025-12-09 01:35:02.954601",
+            "uptime_pct": 50,
+            "avg_latency_ms": 383
         },
         "geo": {
-            "exit_ip": "8.211.49.86",
+            "exit_ip": "81.169.213.169",
+            "country_iso": "DE",
+            "asn": 6724,
+            "org": "Strato AG"
+        },
+        "performance": {
+            "score": 53.7379,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-28",
+            "last_seen": "2025-12-09"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 506819,
+        "ip": "116.203.139.209",
+        "port": 5678,
+        "endpoint": "116.203.139.209:5678",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-28 04:46:24.211589",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2025-12-09 01:55:05.080618",
+            "uptime_pct": 0,
+            "avg_latency_ms": 79
+        },
+        "geo": {
+            "exit_ip": "116.203.139.209",
             "country_iso": "DE",
             "asn": 0,
             "org": "Unknown"
         },
         "performance": {
-            "score": 23.5459,
+            "score": 33.8259,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-11-08",
-            "last_seen": "2025-12-08"
+            "first_seen": "2025-11-28",
+            "last_seen": "2025-12-09"
         },
-        "anonymity_level": "unknown"
+        "anonymity_level": "elite"
     }
 ]
