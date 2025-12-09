@@ -1,72 +1,37 @@
 [
     {
-        "proxy_id": 103275,
-        "ip": "103.233.152.18",
+        "proxy_id": 490123,
+        "ip": "210.87.74.105",
         "port": 8080,
-        "endpoint": "103.233.152.18:8080",
+        "endpoint": "210.87.74.105:8080",
         "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
+        "lifecycle_status": "active_low",
         "proto": {
             "status": "ok",
-            "last_check": "2025-11-27 09:22:52.783715",
+            "last_check": "2025-11-25 10:41:16.785868",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "down",
-            "last_up": "2025-12-08 21:20:01.856672",
-            "uptime_pct": 0,
-            "avg_latency_ms": 0
+            "last_up": "2025-12-09 00:40:02.055283",
+            "uptime_pct": 33.33,
+            "avg_latency_ms": 4470
         },
         "geo": {
-            "exit_ip": "103.233.152.18",
+            "exit_ip": "210.87.74.105",
             "country_iso": "ID",
             "asn": 0,
             "org": "Unknown"
         },
         "performance": {
-            "score": 35,
+            "score": 10.3704,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-11-08",
-            "last_seen": "2025-12-08"
+            "first_seen": "2025-11-25",
+            "last_seen": "2025-12-09"
         },
         "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 113951,
-        "ip": "202.162.213.181",
-        "port": 8080,
-        "endpoint": "202.162.213.181:8080",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-12-05 02:31:29.978547",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2025-12-08 21:35:02.347823",
-            "uptime_pct": 33.33,
-            "avg_latency_ms": 5367
-        },
-        "geo": {
-            "exit_ip": "202.162.213.181",
-            "country_iso": "ID",
-            "asn": 9341,
-            "org": "PT INDONESIA COMNETS PLUS"
-        },
-        "performance": {
-            "score": 12.0632,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-11-08",
-            "last_seen": "2025-12-08"
-        },
-        "anonymity_level": null
     }
 ]
