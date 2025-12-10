@@ -1,5 +1,40 @@
 [
     {
+        "proxy_id": 530047,
+        "ip": "103.231.78.36",
+        "port": 80,
+        "endpoint": "103.231.78.36:80",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-28 12:56:09.054386",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2025-12-10 07:50:03.357021",
+            "uptime_pct": 50,
+            "avg_latency_ms": 901
+        },
+        "geo": {
+            "exit_ip": "103.231.78.36",
+            "country_iso": "IN",
+            "asn": 18229,
+            "org": "CtrlS"
+        },
+        "performance": {
+            "score": 35.665,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-28",
+            "last_seen": "2025-12-10"
+        },
+        "anonymity_level": "transparent"
+    },
+    {
         "proxy_id": 537079,
         "ip": "65.1.148.157",
         "port": 80,
@@ -14,9 +49,9 @@
         },
         "uptime": {
             "status": "up",
-            "last_up": "2025-12-10 07:10:18.016141",
+            "last_up": "2025-12-10 07:30:07.620970",
             "uptime_pct": 100,
-            "avg_latency_ms": 309
+            "avg_latency_ms": 307
         },
         "geo": {
             "exit_ip": "65.1.148.157",
@@ -25,7 +60,7 @@
             "org": "AMAZON-02"
         },
         "performance": {
-            "score": 85.5358,
+            "score": 85.6,
             "status": "active"
         },
         "seen": {
@@ -33,5 +68,40 @@
             "last_seen": "2025-12-10"
         },
         "anonymity_level": "transparent"
+    },
+    {
+        "proxy_id": 569096,
+        "ip": "103.172.254.145",
+        "port": 84,
+        "endpoint": "103.172.254.145:84",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-29 06:21:03.160314",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2025-12-10 07:50:01.622509",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "103.148.206.198",
+            "country_iso": "IN",
+            "asn": 133271,
+            "org": "Willaegis Online Private Limited"
+        },
+        "performance": {
+            "score": 35,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-29",
+            "last_seen": "2025-12-10"
+        },
+        "anonymity_level": "unknown"
     }
 ]
