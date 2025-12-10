@@ -1,37 +1,107 @@
 [
     {
-        "proxy_id": 570493,
-        "ip": "46.16.229.254",
-        "port": 8079,
-        "endpoint": "46.16.229.254:8079",
+        "proxy_id": 505320,
+        "ip": "176.126.103.194",
+        "port": 44214,
+        "endpoint": "176.126.103.194:44214",
         "protocol": "http_connect",
-        "lifecycle_status": "active_new",
+        "lifecycle_status": "active_low",
         "proto": {
             "status": "ok",
-            "last_check": "2025-11-29 06:55:31.671831",
+            "last_check": "2025-11-28 03:31:47.889143",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "up",
-            "last_up": "2025-12-09 16:50:02.018632",
+            "last_up": "2025-12-10 07:05:03.082120",
+            "uptime_pct": 50,
+            "avg_latency_ms": 515
+        },
+        "geo": {
+            "exit_ip": "176.126.103.194",
+            "country_iso": "RU",
+            "asn": 210546,
+            "org": "Dmitry Viktorovich Petrov"
+        },
+        "performance": {
+            "score": 49.0983,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-28",
+            "last_seen": "2025-12-10"
+        },
+        "anonymity_level": "elite"
+    },
+    {
+        "proxy_id": 508116,
+        "ip": "109.196.140.199",
+        "port": 1080,
+        "endpoint": "109.196.140.199:1080",
+        "protocol": "socks5",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-28 05:36:09.586676",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2025-12-10 07:25:02.731362",
             "uptime_pct": 0,
             "avg_latency_ms": 0
         },
         "geo": {
-            "exit_ip": "46.16.229.254",
+            "exit_ip": "109.196.140.199",
             "country_iso": "RU",
-            "asn": 44391,
-            "org": "JSC Elektrosvyaz"
+            "asn": 0,
+            "org": "Unknown"
         },
         "performance": {
-            "score": 35,
+            "score": 36.25,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-11-29",
-            "last_seen": "2025-12-09"
+            "first_seen": "2025-11-28",
+            "last_seen": "2025-12-10"
         },
         "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 522707,
+        "ip": "87.239.31.42",
+        "port": 80,
+        "endpoint": "87.239.31.42:80",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-28 09:44:50.912254",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2025-12-10 07:25:07.476192",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "87.239.31.42",
+            "country_iso": "RU",
+            "asn": 35598,
+            "org": "Inetcom Carrier LLC"
+        },
+        "performance": {
+            "score": 36.6129,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-28",
+            "last_seen": "2025-12-10"
+        },
+        "anonymity_level": "transparent"
     }
 ]
