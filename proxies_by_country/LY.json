@@ -1,37 +1,72 @@
 [
     {
-        "proxy_id": 85989,
-        "ip": "102.214.106.20",
-        "port": 44444,
-        "endpoint": "102.214.106.20:44444",
-        "protocol": "http_absolute",
+        "proxy_id": 570278,
+        "ip": "41.254.48.190",
+        "port": 1976,
+        "endpoint": "41.254.48.190:1976",
+        "protocol": "http_connect",
         "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2025-12-05 02:26:09.526095",
+            "last_check": "2025-11-29 06:51:31.892445",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "down",
-            "last_up": "2025-12-11 13:25:04.250232",
+            "last_up": "2025-12-14 12:05:06.234734",
             "uptime_pct": 0,
             "avg_latency_ms": 0
         },
         "geo": {
-            "exit_ip": "102.214.106.115",
+            "exit_ip": "41.254.48.190",
             "country_iso": "LY",
-            "asn": 0,
-            "org": "Unknown"
+            "asn": 21003,
+            "org": "General Post and Telecommunication Company"
         },
         "performance": {
-            "score": 25.82,
+            "score": 35.5556,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-11-08",
-            "last_seen": "2025-12-11"
+            "first_seen": "2025-11-29",
+            "last_seen": "2025-12-14"
         },
-        "anonymity_level": null
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 574444,
+        "ip": "41.254.48.66",
+        "port": 1973,
+        "endpoint": "41.254.48.66:1973",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-29 08:08:34.956159",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2025-12-14 12:25:03.694091",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "41.254.48.66",
+            "country_iso": "LY",
+            "asn": 21003,
+            "org": "General Post and Telecommunication Company"
+        },
+        "performance": {
+            "score": 35.8,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-29",
+            "last_seen": "2025-12-14"
+        },
+        "anonymity_level": "unknown"
     }
 ]

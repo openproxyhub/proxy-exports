@@ -1,36 +1,71 @@
 [
     {
-        "proxy_id": 102785,
-        "ip": "51.48.124.225",
-        "port": 10801,
-        "endpoint": "51.48.124.225:10801",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_low",
+        "proxy_id": 500694,
+        "ip": "217.154.98.134",
+        "port": 1080,
+        "endpoint": "217.154.98.134:1080",
+        "protocol": "socks5",
+        "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2025-12-05 02:26:58.069122",
+            "last_check": "2025-11-26 21:57:10.592752",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
-            "status": "up",
-            "last_up": "2025-12-11 13:15:07.049628",
-            "uptime_pct": 42.86,
-            "avg_latency_ms": 1912
+            "status": "down",
+            "last_up": "2025-12-14 11:30:20.081563",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
         },
         "geo": {
-            "exit_ip": "51.48.124.225",
+            "exit_ip": "217.154.98.134",
             "country_iso": "ES",
             "asn": 0,
             "org": "Unknown"
         },
         "performance": {
-            "score": 23.4038,
+            "score": 35.303,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-11-08",
-            "last_seen": "2025-12-11"
+            "first_seen": "2025-11-26",
+            "last_seen": "2025-12-14"
+        },
+        "anonymity_level": "elite"
+    },
+    {
+        "proxy_id": 569837,
+        "ip": "80.78.128.94",
+        "port": 8080,
+        "endpoint": "80.78.128.94:8080",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-29 06:40:22.827483",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2025-12-14 12:15:04.198688",
+            "uptime_pct": 20,
+            "avg_latency_ms": 1202
+        },
+        "geo": {
+            "exit_ip": "80.78.128.94",
+            "country_iso": "ES",
+            "asn": 202913,
+            "org": "Cloudwifi, Sl"
+        },
+        "performance": {
+            "score": 12.4348,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-29",
+            "last_seen": "2025-12-14"
         },
         "anonymity_level": "unknown"
     }
