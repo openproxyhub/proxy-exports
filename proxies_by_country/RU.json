@@ -140,6 +140,41 @@
         "anonymity_level": "elite"
     },
     {
+        "proxy_id": 508539,
+        "ip": "90.156.169.163",
+        "port": 80,
+        "endpoint": "90.156.169.163:80",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-28 05:52:16.402445",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2025-12-14 18:25:04.951098",
+            "uptime_pct": 42.86,
+            "avg_latency_ms": 495
+        },
+        "geo": {
+            "exit_ip": "90.156.169.163",
+            "country_iso": "RU",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 43.9332,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-28",
+            "last_seen": "2025-12-14"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
         "proxy_id": 522707,
         "ip": "87.239.31.42",
         "port": 80,
@@ -173,5 +208,75 @@
             "last_seen": "2025-12-14"
         },
         "anonymity_level": "transparent"
+    },
+    {
+        "proxy_id": 528149,
+        "ip": "89.151.133.216",
+        "port": 8080,
+        "endpoint": "89.151.133.216:8080",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-28 11:50:35.258210",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2025-12-14 18:05:03.016212",
+            "uptime_pct": 14.29,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "89.151.133.216",
+            "country_iso": "RU",
+            "asn": 12389,
+            "org": "Rostelecom"
+        },
+        "performance": {
+            "score": 43.75,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-28",
+            "last_seen": "2025-12-14"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 537352,
+        "ip": "89.175.0.74",
+        "port": 3129,
+        "endpoint": "89.175.0.74:3129",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-28 17:13:13.720391",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2025-12-14 18:20:08.140329",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "89.175.0.74",
+            "country_iso": "RU",
+            "asn": 8359,
+            "org": "MTS PJSC"
+        },
+        "performance": {
+            "score": 35.3659,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-28",
+            "last_seen": "2025-12-14"
+        },
+        "anonymity_level": "unknown"
     }
 ]
