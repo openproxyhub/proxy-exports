@@ -398,7 +398,7 @@
             "error": null
         },
         "uptime": {
-            "status": "down",
+            "status": "up",
             "last_up": "2025-12-15 22:05:04.218545",
             "uptime_pct": 20,
             "avg_latency_ms": 4230
@@ -433,7 +433,7 @@
             "error": null
         },
         "uptime": {
-            "status": "up",
+            "status": "down",
             "last_up": "2025-12-15 22:05:05.728248",
             "uptime_pct": 20,
             "avg_latency_ms": 3290
@@ -446,6 +446,41 @@
         },
         "performance": {
             "score": 12.3571,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-30",
+            "last_seen": "2025-12-15"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 610430,
+        "ip": "103.239.201.50",
+        "port": 1,
+        "endpoint": "103.239.201.50:1",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-30 05:21:28.880649",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2025-12-15 22:35:02.249716",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "103.239.201.50",
+            "country_iso": "PH",
+            "asn": 17970,
+            "org": "SKYBroadband SKYCable Corporation"
+        },
+        "performance": {
+            "score": 35,
             "status": "inactive"
         },
         "seen": {
