@@ -1,72 +1,177 @@
 [
     {
-        "proxy_id": 603237,
-        "ip": "94.140.224.134",
-        "port": 65056,
-        "endpoint": "94.140.224.134:65056",
-        "protocol": "http_connect",
-        "lifecycle_status": "active_new",
+        "proxy_id": 490448,
+        "ip": "46.28.88.19",
+        "port": 8080,
+        "endpoint": "46.28.88.19:8080",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_low",
         "proto": {
             "status": "ok",
-            "last_check": "2025-11-29 22:54:13.388259",
+            "last_check": "2025-11-24 18:18:43.774494",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "down",
-            "last_up": "2025-12-14 19:50:02.859931",
+            "last_up": "2025-12-15 10:25:03.332206",
             "uptime_pct": 0,
             "avg_latency_ms": 0
         },
         "geo": {
-            "exit_ip": "94.140.224.134",
+            "exit_ip": "46.28.88.19",
             "country_iso": "RU",
-            "asn": 47236,
-            "org": "CityLink Ltd"
+            "asn": 0,
+            "org": "Unknown"
         },
         "performance": {
-            "score": 35,
+            "score": 28.5651,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-11-30",
-            "last_seen": "2025-12-14"
+            "first_seen": "2025-11-24",
+            "last_seen": "2025-12-15"
         },
         "anonymity_level": "unknown"
     },
     {
-        "proxy_id": 604156,
-        "ip": "77.37.244.119",
-        "port": 8080,
-        "endpoint": "77.37.244.119:8080",
+        "proxy_id": 505557,
+        "ip": "46.47.197.210",
+        "port": 3128,
+        "endpoint": "46.47.197.210:3128",
         "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
+        "lifecycle_status": "active_low",
         "proto": {
             "status": "ok",
-            "last_check": "2025-11-29 23:16:22.918758",
+            "last_check": "2025-11-28 03:50:13.633045",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2025-12-15 10:05:03.355246",
+            "uptime_pct": 100,
+            "avg_latency_ms": 1734
+        },
+        "geo": {
+            "exit_ip": "46.47.197.210",
+            "country_iso": "RU",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 61.2791,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-28",
+            "last_seen": "2025-12-15"
+        },
+        "anonymity_level": "elite"
+    },
+    {
+        "proxy_id": 508116,
+        "ip": "109.196.140.199",
+        "port": 1080,
+        "endpoint": "109.196.140.199:1080",
+        "protocol": "socks5",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-28 05:36:09.586676",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "down",
-            "last_up": "2025-12-14 19:55:03.256452",
+            "last_up": "2025-12-15 10:15:11.336951",
             "uptime_pct": 0,
             "avg_latency_ms": 0
         },
         "geo": {
-            "exit_ip": "77.37.244.119",
+            "exit_ip": "109.196.140.199",
             "country_iso": "RU",
-            "asn": 42610,
-            "org": "Rostelecom"
+            "asn": 0,
+            "org": "Unknown"
         },
         "performance": {
-            "score": 35.1923,
+            "score": 36.1765,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-11-30",
-            "last_seen": "2025-12-14"
+            "first_seen": "2025-11-28",
+            "last_seen": "2025-12-15"
         },
         "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 508479,
+        "ip": "46.229.66.241",
+        "port": 1080,
+        "endpoint": "46.229.66.241:1080",
+        "protocol": "socks5",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-28 05:51:16.519262",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2025-12-15 10:25:19.638764",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "46.229.66.241",
+            "country_iso": "RU",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 35.8064,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-28",
+            "last_seen": "2025-12-15"
+        },
+        "anonymity_level": "elite"
+    },
+    {
+        "proxy_id": 522707,
+        "ip": "87.239.31.42",
+        "port": 80,
+        "endpoint": "87.239.31.42:80",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-28 09:44:50.912254",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2025-12-15 10:15:18.934860",
+            "uptime_pct": 100,
+            "avg_latency_ms": 73
+        },
+        "geo": {
+            "exit_ip": "87.239.31.42",
+            "country_iso": "RU",
+            "asn": 35598,
+            "org": "Inetcom Carrier LLC"
+        },
+        "performance": {
+            "score": 94.2743,
+            "status": "active"
+        },
+        "seen": {
+            "first_seen": "2025-11-28",
+            "last_seen": "2025-12-15"
+        },
+        "anonymity_level": "transparent"
     }
 ]
