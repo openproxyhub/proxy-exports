@@ -60,7 +60,7 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 59.6606,
+            "score": 59.6354,
             "status": "inactive"
         },
         "seen": {
@@ -130,7 +130,7 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 41.3824,
+            "score": 41.3333,
             "status": "inactive"
         },
         "seen": {
@@ -541,7 +541,7 @@
             "status": "up",
             "last_up": "2025-12-15 09:25:02.295265",
             "uptime_pct": 100,
-            "avg_latency_ms": 4301
+            "avg_latency_ms": 4545
         },
         "geo": {
             "exit_ip": "47.116.210.163",
@@ -576,7 +576,7 @@
             "status": "up",
             "last_up": "2025-12-15 10:05:04.303265",
             "uptime_pct": 100,
-            "avg_latency_ms": 2438
+            "avg_latency_ms": 2440
         },
         "geo": {
             "exit_ip": "47.120.0.231",
@@ -611,7 +611,7 @@
             "status": "up",
             "last_up": "2025-12-15 09:45:05.280636",
             "uptime_pct": 100,
-            "avg_latency_ms": 2449
+            "avg_latency_ms": 2438
         },
         "geo": {
             "exit_ip": "39.104.23.154",
@@ -748,7 +748,7 @@
             "error": null
         },
         "uptime": {
-            "status": "up",
+            "status": "down",
             "last_up": "2025-12-15 10:15:07.386280",
             "uptime_pct": 66.67,
             "avg_latency_ms": 1019
@@ -783,10 +783,10 @@
             "error": null
         },
         "uptime": {
-            "status": "up",
+            "status": "down",
             "last_up": "2025-12-15 10:30:20.662147",
             "uptime_pct": 75,
-            "avg_latency_ms": 1651
+            "avg_latency_ms": 931
         },
         "geo": {
             "exit_ip": "36.138.53.26",
@@ -795,7 +795,7 @@
             "org": "China Mobile Communications Corporation"
         },
         "performance": {
-            "score": 47.2222,
+            "score": 49.6372,
             "status": "inactive"
         },
         "seen": {
@@ -888,10 +888,10 @@
             "error": null
         },
         "uptime": {
-            "status": "up",
+            "status": "down",
             "last_up": "2025-12-15 10:35:07.968905",
             "uptime_pct": 75,
-            "avg_latency_ms": 849
+            "avg_latency_ms": 878
         },
         "geo": {
             "exit_ip": "120.26.0.11",
@@ -900,7 +900,7 @@
             "org": "Alibaba.com LLC"
         },
         "performance": {
-            "score": 51.6821,
+            "score": 50.6671,
             "status": "inactive"
         },
         "seen": {
@@ -926,7 +926,7 @@
             "status": "up",
             "last_up": "2025-12-15 10:35:09.383096",
             "uptime_pct": 100,
-            "avg_latency_ms": 1372
+            "avg_latency_ms": 1026
         },
         "geo": {
             "exit_ip": "120.55.240.71",
@@ -1028,7 +1028,7 @@
             "error": null
         },
         "uptime": {
-            "status": "up",
+            "status": "down",
             "last_up": "2025-12-15 10:35:08.303282",
             "uptime_pct": 20,
             "avg_latency_ms": 6321
@@ -1048,5 +1048,75 @@
             "last_seen": "2025-12-15"
         },
         "anonymity_level": "transparent"
+    },
+    {
+        "proxy_id": 527771,
+        "ip": "61.158.175.38",
+        "port": 9002,
+        "endpoint": "61.158.175.38:9002",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-28 11:38:42.410458",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2025-12-15 11:10:07.551943",
+            "uptime_pct": 75,
+            "avg_latency_ms": 2033
+        },
+        "geo": {
+            "exit_ip": "61.158.175.38",
+            "country_iso": "CN",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 47,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-28",
+            "last_seen": "2025-12-15"
+        },
+        "anonymity_level": "elite"
+    },
+    {
+        "proxy_id": 531819,
+        "ip": "221.202.27.194",
+        "port": 10811,
+        "endpoint": "221.202.27.194:10811",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-28 13:59:15.387320",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2025-12-15 11:15:04.912530",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "221.202.27.194",
+            "country_iso": "CN",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 35.2,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-28",
+            "last_seen": "2025-12-15"
+        },
+        "anonymity_level": "unknown"
     }
 ]
