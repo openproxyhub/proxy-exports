@@ -1,35 +1,105 @@
 [
     {
-        "proxy_id": 703529,
-        "ip": "160.19.18.45",
-        "port": 8080,
-        "endpoint": "160.19.18.45:8080",
-        "protocol": "http_connect",
-        "lifecycle_status": "active_new",
+        "proxy_id": 72270,
+        "ip": "8.215.3.250",
+        "port": 1080,
+        "endpoint": "8.215.3.250:1080",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_low",
         "proto": {
             "status": "ok",
-            "last_check": "2025-12-01 12:11:15.608792",
+            "last_check": "2025-11-18 01:07:43.349097",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "up",
-            "last_up": "2025-12-16 01:50:02.464814",
-            "uptime_pct": 50,
-            "avg_latency_ms": 1588
+            "last_up": "2025-12-16 13:45:03.761025",
+            "uptime_pct": 100,
+            "avg_latency_ms": 4361
         },
         "geo": {
-            "exit_ip": "160.19.18.45",
+            "exit_ip": "8.215.3.250",
             "country_iso": "ID",
-            "asn": 149360,
-            "org": "PT Indo Telemedia Solusi"
+            "asn": 0,
+            "org": "Unknown"
         },
         "performance": {
-            "score": 30.2083,
+            "score": 42.8969,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-12-01",
+            "first_seen": "2025-11-08",
+            "last_seen": "2025-12-16"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 78822,
+        "ip": "103.229.14.114",
+        "port": 8080,
+        "endpoint": "103.229.14.114:8080",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-13 20:10:03.062076",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2025-12-16 13:55:03.027981",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "103.229.14.114",
+            "country_iso": "ID",
+            "asn": 150196,
+            "org": "PT Arthaloka Reka Teknologi"
+        },
+        "performance": {
+            "score": 26.9581,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-08",
+            "last_seen": "2025-12-16"
+        },
+        "anonymity_level": null
+    },
+    {
+        "proxy_id": 103275,
+        "ip": "103.233.152.18",
+        "port": 8080,
+        "endpoint": "103.233.152.18:8080",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-27 09:22:52.783715",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2025-12-16 13:55:02.660838",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "103.233.152.18",
+            "country_iso": "ID",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 35.2564,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-08",
             "last_seen": "2025-12-16"
         },
         "anonymity_level": "unknown"
