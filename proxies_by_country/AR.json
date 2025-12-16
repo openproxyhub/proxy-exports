@@ -1,72 +1,37 @@
 [
     {
-        "proxy_id": 730323,
-        "ip": "181.209.122.117",
-        "port": 999,
-        "endpoint": "181.209.122.117:999",
+        "proxy_id": 87907,
+        "ip": "209.13.186.20",
+        "port": 80,
+        "endpoint": "209.13.186.20:80",
         "protocol": "http_absolute",
         "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2025-12-01 21:34:50.296617",
+            "last_check": "2025-12-05 02:26:39.011541",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
-            "status": "down",
-            "last_up": "2025-12-16 02:05:02.457717",
-            "uptime_pct": 0,
-            "avg_latency_ms": 0
+            "status": "up",
+            "last_up": "2025-12-16 14:35:01.779368",
+            "uptime_pct": 33.33,
+            "avg_latency_ms": 1068
         },
         "geo": {
-            "exit_ip": "181.209.122.114",
+            "exit_ip": "209.13.186.20",
             "country_iso": "AR",
-            "asn": 52361,
-            "org": "Empresa Argentina de Soluciones Satelitales S.A."
+            "asn": 0,
+            "org": "Unknown"
         },
         "performance": {
-            "score": 35,
+            "score": 12.8167,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-12-01",
+            "first_seen": "2025-11-08",
             "last_seen": "2025-12-16"
         },
-        "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 745479,
-        "ip": "186.125.218.146",
-        "port": 999,
-        "endpoint": "186.125.218.146:999",
-        "protocol": "http_connect",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-12-02 02:39:53.382681",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2025-12-16 02:15:01.718837",
-            "uptime_pct": 0,
-            "avg_latency_ms": 0
-        },
-        "geo": {
-            "exit_ip": "186.125.218.145",
-            "country_iso": "AR",
-            "asn": 7303,
-            "org": "Telecom Argentina S.A."
-        },
-        "performance": {
-            "score": 35,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-12-02",
-            "last_seen": "2025-12-16"
-        },
-        "anonymity_level": "unknown"
+        "anonymity_level": null
     }
 ]
