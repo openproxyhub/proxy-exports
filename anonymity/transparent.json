@@ -1,22 +1,57 @@
 [
     {
-        "proxy_id": 703117,
-        "ip": "159.75.100.162",
-        "port": 80,
-        "endpoint": "159.75.100.162:80",
-        "protocol": "http_absolute",
+        "proxy_id": 770299,
+        "ip": "200.24.130.148",
+        "port": 999,
+        "endpoint": "200.24.130.148:999",
+        "protocol": "http_connect",
         "lifecycle_status": "active_low",
         "proto": {
             "status": "ok",
-            "last_check": "2025-12-01 12:03:26.883564",
+            "last_check": "2025-12-02 11:07:25.110134",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "up",
-            "last_up": "2025-12-16 01:05:02.900448",
-            "uptime_pct": 100,
-            "avg_latency_ms": 462
+            "last_up": "2025-12-16 05:15:01.664490",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "200.24.130.149",
+            "country_iso": "EC",
+            "asn": 52468,
+            "org": "UFINET PANAMA S.A."
+        },
+        "performance": {
+            "score": 38,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-12-02",
+            "last_seen": "2025-12-16"
+        },
+        "anonymity_level": "transparent"
+    },
+    {
+        "proxy_id": 770300,
+        "ip": "200.24.130.149",
+        "port": 999,
+        "endpoint": "200.24.130.149:999",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-02 11:07:23.326772",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2025-12-16 05:10:01.714512",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
         },
         "geo": {
             "exit_ip": null,
@@ -25,11 +60,11 @@
             "org": null
         },
         "performance": {
-            "score": 79.8124,
+            "score": 37.1429,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-12-01",
+            "first_seen": "2025-12-02",
             "last_seen": "2025-12-16"
         },
         "anonymity_level": "transparent"
