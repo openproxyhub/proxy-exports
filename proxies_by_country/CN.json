@@ -35,6 +35,41 @@
         "anonymity_level": "unknown"
     },
     {
+        "proxy_id": 666956,
+        "ip": "120.237.232.172",
+        "port": 8060,
+        "endpoint": "120.237.232.172:8060",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-30 23:46:19.545219",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2025-12-16 01:05:02.937220",
+            "uptime_pct": 50,
+            "avg_latency_ms": 2957
+        },
+        "geo": {
+            "exit_ip": "120.237.232.172",
+            "country_iso": "CN",
+            "asn": 9808,
+            "org": "China Mobile Communications Group Co., Ltd."
+        },
+        "performance": {
+            "score": 30.7895,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-12-01",
+            "last_seen": "2025-12-16"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
         "proxy_id": 671515,
         "ip": "123.56.232.96",
         "port": 9998,
@@ -48,7 +83,7 @@
             "error": null
         },
         "uptime": {
-            "status": "down",
+            "status": "up",
             "last_up": "2025-12-16 00:55:02.259389",
             "uptime_pct": 50,
             "avg_latency_ms": 931
@@ -138,5 +173,40 @@
             "last_seen": "2025-12-16"
         },
         "anonymity_level": "transparent"
+    },
+    {
+        "proxy_id": 727156,
+        "ip": "180.103.19.151",
+        "port": 1080,
+        "endpoint": "180.103.19.151:1080",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-01 20:31:31.303106",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2025-12-16 01:25:01.513321",
+            "uptime_pct": 33.33,
+            "avg_latency_ms": 2407
+        },
+        "geo": {
+            "exit_ip": "180.103.19.151",
+            "country_iso": "CN",
+            "asn": 4134,
+            "org": "Chinanet"
+        },
+        "performance": {
+            "score": 20,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-12-01",
+            "last_seen": "2025-12-16"
+        },
+        "anonymity_level": "unknown"
     }
 ]
