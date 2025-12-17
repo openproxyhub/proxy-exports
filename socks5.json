@@ -1,20 +1,20 @@
 [
     {
-        "proxy_id": 492630,
-        "ip": "222.59.173.105",
-        "port": 44125,
-        "endpoint": "222.59.173.105:44125",
+        "proxy_id": 494645,
+        "ip": "47.83.218.87",
+        "port": 1100,
+        "endpoint": "47.83.218.87:1100",
         "protocol": "socks5",
         "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2025-12-17 11:25:04.471652",
+            "last_check": "2025-12-17 16:25:02.747105",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
-            "status": "down",
-            "last_up": "2025-12-17 15:15:02.207275",
+            "status": "unknown",
+            "last_up": "2025-12-17 19:25:02.742951",
             "uptime_pct": 0,
             "avg_latency_ms": 0
         },
@@ -33,6 +33,41 @@
             "last_seen": "2025-12-17"
         },
         "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 528782,
+        "ip": "154.38.180.176",
+        "port": 443,
+        "endpoint": "154.38.180.176:443",
+        "protocol": "socks5",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-28 12:12:25.352583",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2025-12-17 19:05:03.218613",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "154.38.180.176",
+            "country_iso": "US",
+            "asn": 40021,
+            "org": "CONTABO-40021"
+        },
+        "performance": {
+            "score": 35.303,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-28",
+            "last_seen": "2025-12-17"
+        },
+        "anonymity_level": "elite"
     },
     {
         "proxy_id": 573141,
@@ -205,6 +240,41 @@
         },
         "seen": {
             "first_seen": "2025-11-30",
+            "last_seen": "2025-12-17"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 610462,
+        "ip": "120.133.82.62",
+        "port": 44127,
+        "endpoint": "120.133.82.62:44127",
+        "protocol": "socks5",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-14 21:35:02.586917",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2025-12-17 19:25:03.268610",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": null,
+            "country_iso": null,
+            "asn": null,
+            "org": null
+        },
+        "performance": {
+            "score": 35,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-12-14",
             "last_seen": "2025-12-17"
         },
         "anonymity_level": "unknown"
