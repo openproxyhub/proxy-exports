@@ -1,72 +1,37 @@
 [
     {
-        "proxy_id": 68000,
-        "ip": "187.62.241.136",
+        "proxy_id": 534703,
+        "ip": "201.71.144.98",
         "port": 8080,
-        "endpoint": "187.62.241.136:8080",
-        "protocol": "http_absolute",
+        "endpoint": "201.71.144.98:8080",
+        "protocol": "http_connect",
         "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2025-12-05 02:21:58.735971",
+            "last_check": "2025-11-28 15:38:44.667423",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "down",
-            "last_up": "2025-12-16 20:30:03.901397",
+            "last_up": "2025-12-17 00:20:08.487139",
             "uptime_pct": 0,
             "avg_latency_ms": 0
         },
         "geo": {
-            "exit_ip": "187.62.241.136",
+            "exit_ip": "201.71.144.98",
             "country_iso": "BR",
-            "asn": 262663,
-            "org": "METROFLEX TELECOMUNICACOES LTDA"
+            "asn": 0,
+            "org": "Unknown"
         },
         "performance": {
-            "score": 25.82,
+            "score": 35.3448,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-11-08",
-            "last_seen": "2025-12-16"
+            "first_seen": "2025-11-28",
+            "last_seen": "2025-12-17"
         },
-        "anonymity_level": null
-    },
-    {
-        "proxy_id": 78012,
-        "ip": "45.228.192.107",
-        "port": 3141,
-        "endpoint": "45.228.192.107:3141",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-12-12 21:20:24.318838",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2025-12-16 20:40:05.486011",
-            "uptime_pct": 0,
-            "avg_latency_ms": 0
-        },
-        "geo": {
-            "exit_ip": "45.228.192.107",
-            "country_iso": "BR",
-            "asn": 267093,
-            "org": "BDCNET TELECOM"
-        },
-        "performance": {
-            "score": 27.4696,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-11-08",
-            "last_seen": "2025-12-16"
-        },
-        "anonymity_level": "transparent"
+        "anonymity_level": "unknown"
     }
 ]
