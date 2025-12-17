@@ -1,36 +1,71 @@
 [
     {
-        "proxy_id": 490363,
-        "ip": "190.242.58.99",
+        "proxy_id": 569658,
+        "ip": "179.1.240.219",
         "port": 999,
-        "endpoint": "190.242.58.99:999",
+        "endpoint": "179.1.240.219:999",
         "protocol": "http_connect",
-        "lifecycle_status": "active_low",
+        "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2025-11-25 02:27:51.413220",
+            "last_check": "2025-11-29 06:36:47.553394",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
-            "status": "up",
-            "last_up": "2025-12-16 21:35:03.615958",
-            "uptime_pct": 25,
-            "avg_latency_ms": 4792
+            "status": "down",
+            "last_up": "2025-12-17 04:55:01.511064",
+            "uptime_pct": 100,
+            "avg_latency_ms": 4810
         },
         "geo": {
-            "exit_ip": "190.242.58.99",
+            "exit_ip": "179.1.240.219",
             "country_iso": "CO",
-            "asn": 0,
-            "org": "Unknown"
+            "asn": 18678,
+            "org": "INTERNEXA S.A. E.S.P"
         },
         "performance": {
-            "score": 21.8174,
+            "score": 60.4,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-11-25",
-            "last_seen": "2025-12-16"
+            "first_seen": "2025-11-29",
+            "last_seen": "2025-12-17"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 569988,
+        "ip": "181.57.183.26",
+        "port": 8080,
+        "endpoint": "181.57.183.26:8080",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-29 06:43:25.758172",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2025-12-17 04:35:01.351863",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "181.57.183.26",
+            "country_iso": "CO",
+            "asn": 14080,
+            "org": "Telmex Colombia S.A."
+        },
+        "performance": {
+            "score": 35.5,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-29",
+            "last_seen": "2025-12-17"
         },
         "anonymity_level": "unknown"
     }
