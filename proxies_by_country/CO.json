@@ -1,40 +1,5 @@
 [
     {
-        "proxy_id": 490363,
-        "ip": "190.242.58.99",
-        "port": 999,
-        "endpoint": "190.242.58.99:999",
-        "protocol": "http_connect",
-        "lifecycle_status": "active_low",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-11-25 02:27:51.413220",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "up",
-            "last_up": "2025-12-18 18:35:02.189837",
-            "uptime_pct": 100,
-            "avg_latency_ms": 1458
-        },
-        "geo": {
-            "exit_ip": "190.242.58.99",
-            "country_iso": "CO",
-            "asn": 0,
-            "org": "Unknown"
-        },
-        "performance": {
-            "score": 44.3941,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-11-25",
-            "last_seen": "2025-12-18"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
         "proxy_id": 569658,
         "ip": "179.1.240.219",
         "port": 999,
@@ -236,6 +201,41 @@
         },
         "performance": {
             "score": 60,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-12-01",
+            "last_seen": "2025-12-18"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 730949,
+        "ip": "181.48.234.214",
+        "port": 8080,
+        "endpoint": "181.48.234.214:8080",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-01 21:46:08.411778",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2025-12-18 22:35:03.830271",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "181.48.234.214",
+            "country_iso": "CO",
+            "asn": 14080,
+            "org": "Telmex Colombia S.A."
+        },
+        "performance": {
+            "score": 35,
             "status": "inactive"
         },
         "seen": {
