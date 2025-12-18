@@ -153,7 +153,7 @@
             "error": null
         },
         "uptime": {
-            "status": "unknown",
+            "status": "down",
             "last_up": "2025-12-18 02:15:02.749291",
             "uptime_pct": 0,
             "avg_latency_ms": 5547
@@ -328,7 +328,7 @@
             "error": null
         },
         "uptime": {
-            "status": "unknown",
+            "status": "up",
             "last_up": "2025-12-18 02:35:02.395107",
             "uptime_pct": 100,
             "avg_latency_ms": 1888
@@ -398,7 +398,7 @@
             "error": null
         },
         "uptime": {
-            "status": "unknown",
+            "status": "down",
             "last_up": "2025-12-18 02:35:02.834778",
             "uptime_pct": 0,
             "avg_latency_ms": 5221
@@ -678,7 +678,7 @@
             "error": null
         },
         "uptime": {
-            "status": "unknown",
+            "status": "down",
             "last_up": "2025-12-18 02:40:02.422345",
             "uptime_pct": 0,
             "avg_latency_ms": 0
@@ -1220,6 +1220,41 @@
         },
         "seen": {
             "first_seen": "2025-12-18",
+            "last_seen": "2025-12-18"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 647929,
+        "ip": "111.72.132.87",
+        "port": 2324,
+        "endpoint": "111.72.132.87:2324",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-15 17:55:02.213134",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2025-12-18 03:05:02.587844",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": null,
+            "country_iso": null,
+            "asn": null,
+            "org": null
+        },
+        "performance": {
+            "score": 35,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-12-15",
             "last_seen": "2025-12-18"
         },
         "anonymity_level": "unknown"
