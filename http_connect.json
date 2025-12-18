@@ -210,6 +210,41 @@
         "anonymity_level": "unknown"
     },
     {
+        "proxy_id": 104778,
+        "ip": "78.12.82.74",
+        "port": 59505,
+        "endpoint": "78.12.82.74:59505",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-24 11:03:17.905337",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2025-12-18 17:00:03.641991",
+            "uptime_pct": 0,
+            "avg_latency_ms": 5860
+        },
+        "geo": {
+            "exit_ip": null,
+            "country_iso": null,
+            "asn": null,
+            "org": null
+        },
+        "performance": {
+            "score": 7.11304,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-08",
+            "last_seen": "2025-12-18"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
         "proxy_id": 411056,
         "ip": "16.78.105.11",
         "port": 5138,
@@ -363,7 +398,7 @@
             "error": null
         },
         "uptime": {
-            "status": "unknown",
+            "status": "up",
             "last_up": "2025-12-18 16:45:02.454020",
             "uptime_pct": 100,
             "avg_latency_ms": 778
@@ -398,10 +433,45 @@
             "error": null
         },
         "uptime": {
-            "status": "unknown",
+            "status": "up",
             "last_up": "2025-12-18 16:10:02.143489",
             "uptime_pct": 100,
             "avg_latency_ms": 2043
+        },
+        "geo": {
+            "exit_ip": null,
+            "country_iso": null,
+            "asn": null,
+            "org": null
+        },
+        "performance": {
+            "score": 60,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-12-18",
+            "last_seen": "2025-12-18"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 498599,
+        "ip": "3.38.101.138",
+        "port": 4147,
+        "endpoint": "3.38.101.138:4147",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-18 14:55:02.162933",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "unknown",
+            "last_up": "2025-12-18 17:15:02.942158",
+            "uptime_pct": 100,
+            "avg_latency_ms": 3945
         },
         "geo": {
             "exit_ip": null,
