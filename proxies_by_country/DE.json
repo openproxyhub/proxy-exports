@@ -1,37 +1,107 @@
 [
     {
-        "proxy_id": 103391,
-        "ip": "3.122.235.189",
-        "port": 48573,
-        "endpoint": "3.122.235.189:48573",
-        "protocol": "http_connect",
-        "lifecycle_status": "active_new",
+        "proxy_id": 506117,
+        "ip": "81.169.213.169",
+        "port": 8888,
+        "endpoint": "81.169.213.169:8888",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_low",
         "proto": {
             "status": "ok",
-            "last_check": "2025-12-17 12:00:09.382085",
+            "last_check": "2025-11-28 04:14:27.249687",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "up",
-            "last_up": "2025-12-17 14:05:02.450928",
+            "last_up": "2025-12-18 19:10:03.171635",
             "uptime_pct": 100,
-            "avg_latency_ms": 1170
+            "avg_latency_ms": 112
         },
         "geo": {
-            "exit_ip": "3.122.235.189",
+            "exit_ip": "81.169.213.169",
+            "country_iso": "DE",
+            "asn": 6724,
+            "org": "Strato AG"
+        },
+        "performance": {
+            "score": 92.8496,
+            "status": "active"
+        },
+        "seen": {
+            "first_seen": "2025-11-28",
+            "last_seen": "2025-12-18"
+        },
+        "anonymity_level": "elite"
+    },
+    {
+        "proxy_id": 506819,
+        "ip": "116.203.139.209",
+        "port": 5678,
+        "endpoint": "116.203.139.209:5678",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-28 04:46:24.211589",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2025-12-18 19:25:19.738295",
+            "uptime_pct": 0,
+            "avg_latency_ms": 82
+        },
+        "geo": {
+            "exit_ip": "116.203.139.209",
             "country_iso": "DE",
             "asn": 0,
             "org": "Unknown"
         },
         "performance": {
-            "score": 45.545,
+            "score": 33.7014,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-11-08",
-            "last_seen": "2025-12-17"
+            "first_seen": "2025-11-28",
+            "last_seen": "2025-12-18"
         },
-        "anonymity_level": null
+        "anonymity_level": "elite"
+    },
+    {
+        "proxy_id": 507926,
+        "ip": "161.35.31.237",
+        "port": 1080,
+        "endpoint": "161.35.31.237:1080",
+        "protocol": "socks5",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-28 05:27:58.735212",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2025-12-18 19:25:22.295247",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "161.35.31.237",
+            "country_iso": "DE",
+            "asn": 14061,
+            "org": "DigitalOcean, LLC"
+        },
+        "performance": {
+            "score": 38.2447,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-28",
+            "last_seen": "2025-12-18"
+        },
+        "anonymity_level": "unknown"
     }
 ]
