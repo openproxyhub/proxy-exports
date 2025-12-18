@@ -1,37 +1,37 @@
 [
     {
-        "proxy_id": 604130,
-        "ip": "150.129.115.253",
-        "port": 6666,
-        "endpoint": "150.129.115.253:6666",
-        "protocol": "http_connect",
-        "lifecycle_status": "active_new",
+        "proxy_id": 537079,
+        "ip": "65.1.148.157",
+        "port": 80,
+        "endpoint": "65.1.148.157:80",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_low",
         "proto": {
             "status": "ok",
-            "last_check": "2025-11-29 23:15:39.529453",
+            "last_check": "2025-11-28 17:04:26.258585",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
-            "status": "down",
-            "last_up": "2025-12-17 18:40:04.002694",
-            "uptime_pct": 0,
-            "avg_latency_ms": 0
+            "status": "up",
+            "last_up": "2025-12-18 09:55:01.976997",
+            "uptime_pct": 100,
+            "avg_latency_ms": 299
         },
         "geo": {
-            "exit_ip": "150.129.115.253",
+            "exit_ip": "65.1.148.157",
             "country_iso": "IN",
-            "asn": 45916,
-            "org": "Gujarat Telelink Pvt Ltd"
+            "asn": 16509,
+            "org": "AMAZON-02"
         },
         "performance": {
-            "score": 35,
-            "status": "inactive"
+            "score": 86.0975,
+            "status": "active"
         },
         "seen": {
-            "first_seen": "2025-11-30",
-            "last_seen": "2025-12-17"
+            "first_seen": "2025-11-28",
+            "last_seen": "2025-12-18"
         },
-        "anonymity_level": "unknown"
+        "anonymity_level": "transparent"
     }
 ]
