@@ -1,72 +1,37 @@
 [
     {
-        "proxy_id": 569512,
-        "ip": "102.209.76.109",
+        "proxy_id": 80071,
+        "ip": "102.213.248.38",
         "port": 8080,
-        "endpoint": "102.209.76.109:8080",
+        "endpoint": "102.213.248.38:8080",
         "protocol": "http_absolute",
         "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2025-11-29 06:34:21.604901",
+            "last_check": "2025-12-05 02:25:09.389191",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "down",
-            "last_up": "2025-12-18 20:40:04.587919",
-            "uptime_pct": 0,
-            "avg_latency_ms": 0
+            "last_up": "2025-12-19 06:55:05.028676",
+            "uptime_pct": 33.33,
+            "avg_latency_ms": 2206
         },
         "geo": {
-            "exit_ip": "102.209.76.109",
+            "exit_ip": "102.213.248.38",
             "country_iso": "KE",
-            "asn": 329422,
-            "org": "SAFHOME-FIBRE-LIMITED"
+            "asn": 329192,
+            "org": "OGL1-AS"
         },
         "performance": {
-            "score": 35,
+            "score": 12.222,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-11-29",
-            "last_seen": "2025-12-18"
+            "first_seen": "2025-11-08",
+            "last_seen": "2025-12-19"
         },
-        "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 605548,
-        "ip": "102.0.8.23",
-        "port": 8080,
-        "endpoint": "102.0.8.23:8080",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-11-30 00:52:47.477044",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2025-12-18 22:45:04.201639",
-            "uptime_pct": 0,
-            "avg_latency_ms": 0
-        },
-        "geo": {
-            "exit_ip": "102.0.8.23",
-            "country_iso": "KE",
-            "asn": 36926,
-            "org": "CKL1-ASN"
-        },
-        "performance": {
-            "score": 35.4167,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-11-30",
-            "last_seen": "2025-12-18"
-        },
-        "anonymity_level": "unknown"
+        "anonymity_level": null
     }
 ]
