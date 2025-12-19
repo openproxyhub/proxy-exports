@@ -1,37 +1,37 @@
 [
     {
-        "proxy_id": 81725,
-        "ip": "47.237.107.41",
-        "port": 8443,
-        "endpoint": "47.237.107.41:8443",
+        "proxy_id": 80588,
+        "ip": "172.105.118.164",
+        "port": 3128,
+        "endpoint": "172.105.118.164:3128",
         "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
+        "lifecycle_status": "active_low",
         "proto": {
             "status": "ok",
-            "last_check": "2025-12-18 08:40:03.544393",
+            "last_check": "2025-11-27 18:37:44.324643",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
-            "status": "up",
-            "last_up": "2025-12-19 07:05:07.203929",
-            "uptime_pct": 100,
-            "avg_latency_ms": 4752
+            "status": "down",
+            "last_up": "2025-12-19 18:45:02.567838",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
         },
         "geo": {
-            "exit_ip": "47.237.107.41",
+            "exit_ip": "172.105.118.164",
             "country_iso": "SG",
-            "asn": 0,
-            "org": "Unknown"
+            "asn": 63949,
+            "org": "Akamai Connected Cloud"
         },
         "performance": {
-            "score": 40.8311,
+            "score": 35.4487,
             "status": "inactive"
         },
         "seen": {
             "first_seen": "2025-11-08",
             "last_seen": "2025-12-19"
         },
-        "anonymity_level": null
+        "anonymity_level": "unknown"
     }
 ]
