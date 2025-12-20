@@ -70,23 +70,23 @@
         "anonymity_level": "anonymous"
     },
     {
-        "proxy_id": 564799,
-        "ip": "117.54.114.103",
-        "port": 80,
-        "endpoint": "117.54.114.103:80",
-        "protocol": "http_absolute",
+        "proxy_id": 503254,
+        "ip": "51.155.165.52",
+        "port": 8082,
+        "endpoint": "51.155.165.52:8082",
+        "protocol": "http_connect",
         "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2025-12-19 17:25:02.388344",
+            "last_check": "2025-12-19 23:25:02.618927",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "up",
-            "last_up": "2025-12-20 11:45:02.730216",
-            "uptime_pct": 33.33,
-            "avg_latency_ms": 1437
+            "last_up": "2025-12-20 15:30:03.535208",
+            "uptime_pct": 100,
+            "avg_latency_ms": 192
         },
         "geo": {
             "exit_ip": null,
@@ -95,11 +95,46 @@
             "org": null
         },
         "performance": {
-            "score": 25,
-            "status": "inactive"
+            "score": 90.78,
+            "status": "active"
         },
         "seen": {
             "first_seen": "2025-12-19",
+            "last_seen": "2025-12-20"
+        },
+        "anonymity_level": "anonymous"
+    },
+    {
+        "proxy_id": 507695,
+        "ip": "197.221.234.253",
+        "port": 80,
+        "endpoint": "197.221.234.253:80",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-28 05:20:24.347829",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2025-12-20 15:45:04.672111",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "41.220.17.62",
+            "country_iso": "ZZ",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 36.2821,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-28",
             "last_seen": "2025-12-20"
         },
         "anonymity_level": "anonymous"
