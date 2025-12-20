@@ -1,40 +1,5 @@
 [
     {
-        "proxy_id": 490341,
-        "ip": "200.59.186.179",
-        "port": 999,
-        "endpoint": "200.59.186.179:999",
-        "protocol": "http_connect",
-        "lifecycle_status": "active_low",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-11-23 13:14:38.320957",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2025-12-20 14:35:02.401934",
-            "uptime_pct": 0,
-            "avg_latency_ms": 0
-        },
-        "geo": {
-            "exit_ip": "200.59.186.177",
-            "country_iso": "VE",
-            "asn": 0,
-            "org": "Unknown"
-        },
-        "performance": {
-            "score": 49.5448,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-11-23",
-            "last_seen": "2025-12-20"
-        },
-        "anonymity_level": "transparent"
-    },
-    {
         "proxy_id": 507267,
         "ip": "38.255.85.145",
         "port": 999,
@@ -65,6 +30,41 @@
         },
         "seen": {
             "first_seen": "2025-11-28",
+            "last_seen": "2025-12-20"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 770802,
+        "ip": "200.59.186.158",
+        "port": 999,
+        "endpoint": "200.59.186.158:999",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-02 11:18:05.614790",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2025-12-20 18:40:01.538472",
+            "uptime_pct": 25,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "200.59.186.158",
+            "country_iso": "VE",
+            "asn": 264778,
+            "org": "TotalCom Venezuela C.A."
+        },
+        "performance": {
+            "score": 50,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-12-02",
             "last_seen": "2025-12-20"
         },
         "anonymity_level": "unknown"
