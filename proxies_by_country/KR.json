@@ -1,31 +1,31 @@
 [
     {
-        "proxy_id": 28744,
-        "ip": "8.213.128.6",
-        "port": 3132,
-        "endpoint": "8.213.128.6:3132",
-        "protocol": "http_absolute",
+        "proxy_id": 71123,
+        "ip": "121.169.46.116",
+        "port": 1090,
+        "endpoint": "121.169.46.116:1090",
+        "protocol": "socks5",
         "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2025-12-22 09:45:03.689944",
+            "last_check": "2025-12-05 06:59:57.284849",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "down",
-            "last_up": "2025-12-22 17:05:02.143083",
+            "last_up": "2025-12-22 21:25:01.965605",
             "uptime_pct": 0,
             "avg_latency_ms": 0
         },
         "geo": {
-            "exit_ip": "8.213.128.6",
+            "exit_ip": "121.169.46.116",
             "country_iso": "KR",
-            "asn": 0,
-            "org": "Unknown"
+            "asn": 4766,
+            "org": "Korea Telecom"
         },
         "performance": {
-            "score": 29.1741,
+            "score": 27.0758,
             "status": "inactive"
         },
         "seen": {
@@ -33,5 +33,40 @@
             "last_seen": "2025-12-22"
         },
         "anonymity_level": null
+    },
+    {
+        "proxy_id": 72005,
+        "ip": "8.220.205.172",
+        "port": 9000,
+        "endpoint": "8.220.205.172:9000",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-13 20:05:02.939533",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2025-12-22 21:10:01.867482",
+            "uptime_pct": 85.71,
+            "avg_latency_ms": 3347
+        },
+        "geo": {
+            "exit_ip": "8.220.205.172",
+            "country_iso": "KR",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 51.7063,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-08",
+            "last_seen": "2025-12-22"
+        },
+        "anonymity_level": "unknown"
     }
 ]

@@ -1,31 +1,66 @@
 [
     {
-        "proxy_id": 78012,
-        "ip": "45.228.192.107",
-        "port": 3141,
-        "endpoint": "45.228.192.107:3141",
+        "proxy_id": 66796,
+        "ip": "190.12.150.244",
+        "port": 999,
+        "endpoint": "190.12.150.244:999",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-22 14:00:05.693974",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2025-12-22 21:10:02.071434",
+            "uptime_pct": 100,
+            "avg_latency_ms": 657
+        },
+        "geo": {
+            "exit_ip": "190.12.150.244",
+            "country_iso": "EC",
+            "asn": 271795,
+            "org": "SERVITELCONET CIA. LTDA."
+        },
+        "performance": {
+            "score": 77.005,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-08",
+            "last_seen": "2025-12-22"
+        },
+        "anonymity_level": "transparent"
+    },
+    {
+        "proxy_id": 67844,
+        "ip": "189.196.18.150",
+        "port": 999,
+        "endpoint": "189.196.18.150:999",
         "protocol": "http_absolute",
         "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2025-12-12 21:20:24.318838",
+            "last_check": "2025-12-19 19:15:03.470896",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "down",
-            "last_up": "2025-12-22 17:05:02.939083",
-            "uptime_pct": 0,
-            "avg_latency_ms": 0
+            "last_up": "2025-12-22 21:15:03.067875",
+            "uptime_pct": 6.25,
+            "avg_latency_ms": 334
         },
         "geo": {
-            "exit_ip": "45.228.192.107",
-            "country_iso": "BR",
-            "asn": 267093,
-            "org": "BDCNET TELECOM"
+            "exit_ip": "189.196.18.150",
+            "country_iso": "MX",
+            "asn": 13999,
+            "org": "Mega Cable, S.A. de C.V."
         },
         "performance": {
-            "score": 27.4696,
+            "score": 20.439,
             "status": "inactive"
         },
         "seen": {
