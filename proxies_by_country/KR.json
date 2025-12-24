@@ -1,22 +1,22 @@
 [
     {
-        "proxy_id": 409432,
+        "proxy_id": 62351,
         "ip": "8.213.128.6",
-        "port": 2080,
-        "endpoint": "8.213.128.6:2080",
+        "port": 3129,
+        "endpoint": "8.213.128.6:3129",
         "protocol": "http_absolute",
         "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2025-12-22 07:00:03.991160",
+            "last_check": "2025-12-17 13:50:04.726270",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "up",
-            "last_up": "2025-12-23 08:55:01.637134",
-            "uptime_pct": 36.36,
-            "avg_latency_ms": 1374
+            "last_up": "2025-12-24 00:05:13.599196",
+            "uptime_pct": 20,
+            "avg_latency_ms": 503
         },
         "geo": {
             "exit_ip": "8.213.128.6",
@@ -25,13 +25,48 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 21.8182,
+            "score": 29.7726,
             "status": "inactive"
         },
         "seen": {
             "first_seen": "2025-11-08",
-            "last_seen": "2025-12-23"
+            "last_seen": "2025-12-24"
         },
         "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 71123,
+        "ip": "121.169.46.116",
+        "port": 1090,
+        "endpoint": "121.169.46.116:1090",
+        "protocol": "socks5",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-05 06:59:57.284849",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2025-12-24 00:20:11.384499",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "121.169.46.116",
+            "country_iso": "KR",
+            "asn": 4766,
+            "org": "Korea Telecom"
+        },
+        "performance": {
+            "score": 26.9286,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-08",
+            "last_seen": "2025-12-24"
+        },
+        "anonymity_level": null
     }
 ]
