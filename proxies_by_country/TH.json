@@ -1,22 +1,22 @@
 [
     {
-        "proxy_id": 586416,
+        "proxy_id": 78474,
         "ip": "8.213.222.157",
-        "port": 1081,
-        "endpoint": "8.213.222.157:1081",
+        "port": 3129,
+        "endpoint": "8.213.222.157:3129",
         "protocol": "http_absolute",
         "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2025-12-22 14:30:03.610416",
+            "last_check": "2025-12-12 18:35:04.999201",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "up",
-            "last_up": "2025-12-24 08:40:02.108769",
-            "uptime_pct": 100,
-            "avg_latency_ms": 2711
+            "last_up": "2025-12-24 12:30:01.942376",
+            "uptime_pct": 25,
+            "avg_latency_ms": 4460
         },
         "geo": {
             "exit_ip": "8.213.222.157",
@@ -25,11 +25,46 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 62.5,
+            "score": 20.0343,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-12-22",
+            "first_seen": "2025-11-08",
+            "last_seen": "2025-12-24"
+        },
+        "anonymity_level": null
+    },
+    {
+        "proxy_id": 106587,
+        "ip": "125.27.192.162",
+        "port": 8081,
+        "endpoint": "125.27.192.162:8081",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-15 07:40:03.121323",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2025-12-24 12:30:11.615668",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "125.27.192.162",
+            "country_iso": "TH",
+            "asn": 23974,
+            "org": "Ministry of education"
+        },
+        "performance": {
+            "score": 36.945,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-08",
             "last_seen": "2025-12-24"
         },
         "anonymity_level": "unknown"
