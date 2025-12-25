@@ -1,5 +1,110 @@
 [
     {
+        "proxy_id": 42496,
+        "ip": "47.238.130.212",
+        "port": 3129,
+        "endpoint": "47.238.130.212:3129",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-05 02:19:45.354081",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2025-12-25 20:40:12.011435",
+            "uptime_pct": 100,
+            "avg_latency_ms": 2569
+        },
+        "geo": {
+            "exit_ip": "47.238.130.212",
+            "country_iso": "HK",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 43.97,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-08",
+            "last_seen": "2025-12-25"
+        },
+        "anonymity_level": null
+    },
+    {
+        "proxy_id": 78511,
+        "ip": "47.238.60.156",
+        "port": 9080,
+        "endpoint": "47.238.60.156:9080",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-17 01:00:03.572606",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2025-12-25 20:45:16.721751",
+            "uptime_pct": 100,
+            "avg_latency_ms": 2591
+        },
+        "geo": {
+            "exit_ip": "47.238.60.156",
+            "country_iso": "HK",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 61.5385,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-08",
+            "last_seen": "2025-12-25"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 573417,
+        "ip": "47.243.94.125",
+        "port": 1080,
+        "endpoint": "47.243.94.125:1080",
+        "protocol": "socks5",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-22 21:45:03.911608",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2025-12-25 20:35:02.896473",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "47.243.94.125",
+            "country_iso": "HK",
+            "asn": 45102,
+            "org": "Alibaba US Technology Co., Ltd."
+        },
+        "performance": {
+            "score": 35,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-12-22",
+            "last_seen": "2025-12-25"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
         "proxy_id": 579787,
         "ip": "47.238.134.126",
         "port": 82,
@@ -14,7 +119,7 @@
         },
         "uptime": {
             "status": "up",
-            "last_up": "2025-12-25 17:35:02.585818",
+            "last_up": "2025-12-25 20:50:09.715726",
             "uptime_pct": 100,
             "avg_latency_ms": 2844
         },
