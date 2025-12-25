@@ -1,5 +1,40 @@
 [
     {
+        "proxy_id": 67900,
+        "ip": "115.75.184.174",
+        "port": 8080,
+        "endpoint": "115.75.184.174:8080",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-16 19:05:02.969348",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2025-12-25 21:15:12.679463",
+            "uptime_pct": 36.36,
+            "avg_latency_ms": 1171
+        },
+        "geo": {
+            "exit_ip": "115.75.184.174",
+            "country_iso": "VN",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 50.2677,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-08",
+            "last_seen": "2025-12-25"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
         "proxy_id": 103170,
         "ip": "118.70.13.38",
         "port": 41857,
@@ -120,8 +155,8 @@
         "uptime": {
             "status": "up",
             "last_up": "2025-12-25 22:30:14.568174",
-            "uptime_pct": 75,
-            "avg_latency_ms": 3384
+            "uptime_pct": 80,
+            "avg_latency_ms": 3753
         },
         "geo": {
             "exit_ip": "14.224.181.172",
@@ -130,7 +165,7 @@
             "org": "VNPT Corp"
         },
         "performance": {
-            "score": 45,
+            "score": 48,
             "status": "inactive"
         },
         "seen": {
