@@ -1,37 +1,72 @@
 [
     {
-        "proxy_id": 107560,
-        "ip": "45.181.121.57",
+        "proxy_id": 5645,
+        "ip": "204.199.140.19",
         "port": 999,
-        "endpoint": "45.181.121.57:999",
-        "protocol": "http_absolute",
+        "endpoint": "204.199.140.19:999",
+        "protocol": "http_connect",
         "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2025-12-05 02:30:20.560841",
+            "last_check": "2025-12-17 02:10:03.072950",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
-            "status": "up",
-            "last_up": "2025-12-26 10:50:13.169776",
-            "uptime_pct": 16.67,
-            "avg_latency_ms": 910
+            "status": "down",
+            "last_up": "2025-12-27 14:55:15.148065",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
         },
         "geo": {
-            "exit_ip": "45.181.121.57",
+            "exit_ip": "204.199.140.18",
             "country_iso": "CL",
-            "asn": 269733,
-            "org": "REDCENTRAL TELECOMUNICACIONES LTDA"
+            "asn": 273237,
+            "org": "INGBELL CHILE SPA"
         },
         "performance": {
-            "score": 9.59422,
+            "score": 26,
             "status": "inactive"
         },
         "seen": {
             "first_seen": "2025-11-08",
-            "last_seen": "2025-12-26"
+            "last_seen": "2025-12-27"
         },
         "anonymity_level": null
+    },
+    {
+        "proxy_id": 496109,
+        "ip": "204.199.139.53",
+        "port": 999,
+        "endpoint": "204.199.139.53:999",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-25 07:24:57.530417",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2025-12-27 14:55:15.543969",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "204.199.139.52",
+            "country_iso": "CL",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 27.919,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-25",
+            "last_seen": "2025-12-27"
+        },
+        "anonymity_level": "unknown"
     }
 ]
