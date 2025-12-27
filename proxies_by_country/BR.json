@@ -1,5 +1,40 @@
 [
     {
+        "proxy_id": 68000,
+        "ip": "187.62.241.136",
+        "port": 8080,
+        "endpoint": "187.62.241.136:8080",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-05 02:21:58.735971",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2025-12-27 15:25:10.838511",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "187.62.241.136",
+            "country_iso": "BR",
+            "asn": 262663,
+            "org": "METROFLEX TELECOMUNICACOES LTDA"
+        },
+        "performance": {
+            "score": 25.82,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-08",
+            "last_seen": "2025-12-27"
+        },
+        "anonymity_level": null
+    },
+    {
         "proxy_id": 78012,
         "ip": "45.228.192.107",
         "port": 3141,
@@ -15,8 +50,8 @@
         "uptime": {
             "status": "down",
             "last_up": "2025-12-27 14:55:13.201078",
-            "uptime_pct": 9.3,
-            "avg_latency_ms": 296
+            "uptime_pct": 8.33,
+            "avg_latency_ms": 214
         },
         "geo": {
             "exit_ip": "45.228.192.107",
@@ -25,7 +60,7 @@
             "org": "BDCNET TELECOM"
         },
         "performance": {
-            "score": 23.0158,
+            "score": 24.7375,
             "status": "inactive"
         },
         "seen": {
@@ -33,5 +68,40 @@
             "last_seen": "2025-12-27"
         },
         "anonymity_level": "transparent"
+    },
+    {
+        "proxy_id": 87624,
+        "ip": "177.85.69.252",
+        "port": 9999,
+        "endpoint": "177.85.69.252:9999",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-22 06:00:06.979372",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2025-12-27 15:25:14.357603",
+            "uptime_pct": 14.89,
+            "avg_latency_ms": 447
+        },
+        "geo": {
+            "exit_ip": "45.231.101.97",
+            "country_iso": "BR",
+            "asn": 267236,
+            "org": "Velho Ponto Net -Telecom"
+        },
+        "performance": {
+            "score": 29.0631,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-08",
+            "last_seen": "2025-12-27"
+        },
+        "anonymity_level": "unknown"
     }
 ]
