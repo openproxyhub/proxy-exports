@@ -1,36 +1,71 @@
 [
     {
-        "proxy_id": 587288,
-        "ip": "102.36.152.26",
-        "port": 8080,
-        "endpoint": "102.36.152.26:8080",
-        "protocol": "http_connect",
+        "proxy_id": 563806,
+        "ip": "196.223.129.21",
+        "port": 80,
+        "endpoint": "196.223.129.21:80",
+        "protocol": "http_absolute",
         "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2025-12-23 21:20:02.544651",
+            "last_check": "2025-12-12 23:50:04.097057",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
-            "status": "down",
-            "last_up": "2025-12-26 23:05:12.415100",
-            "uptime_pct": 25.53,
-            "avg_latency_ms": 1163
+            "status": "up",
+            "last_up": "2025-12-27 16:20:11.079431",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
         },
         "geo": {
-            "exit_ip": "102.36.152.26",
+            "exit_ip": "196.223.129.21",
             "country_iso": "ZA",
-            "asn": 328538,
-            "org": "OCTOP-SMART-SOLUTIONS-AS"
+            "asn": 328471,
+            "org": "Hero-Telecoms"
         },
         "performance": {
-            "score": 15.3191,
+            "score": 35.9375,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-12-23",
-            "last_seen": "2025-12-26"
+            "first_seen": "2025-12-13",
+            "last_seen": "2025-12-27"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 604445,
+        "ip": "102.217.139.31",
+        "port": 8180,
+        "endpoint": "102.217.139.31:8180",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-29 23:45:07.153256",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2025-12-27 16:10:15.539299",
+            "uptime_pct": 100,
+            "avg_latency_ms": 582
+        },
+        "geo": {
+            "exit_ip": "102.217.139.31",
+            "country_iso": "ZA",
+            "asn": 329181,
+            "org": "as-opnaxs"
+        },
+        "performance": {
+            "score": 74.7411,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-30",
+            "last_seen": "2025-12-27"
         },
         "anonymity_level": "unknown"
     }
