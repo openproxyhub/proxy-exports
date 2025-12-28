@@ -1,5 +1,40 @@
 [
     {
+        "proxy_id": 522707,
+        "ip": "87.239.31.42",
+        "port": 80,
+        "endpoint": "87.239.31.42:80",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-28 09:44:50.912254",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2025-12-28 01:55:05.059005",
+            "uptime_pct": 85.71,
+            "avg_latency_ms": 71
+        },
+        "geo": {
+            "exit_ip": "87.239.31.42",
+            "country_iso": "RU",
+            "asn": 35598,
+            "org": "Inetcom Carrier LLC"
+        },
+        "performance": {
+            "score": 85.8238,
+            "status": "active"
+        },
+        "seen": {
+            "first_seen": "2025-11-28",
+            "last_seen": "2025-12-28"
+        },
+        "anonymity_level": "transparent"
+    },
+    {
         "proxy_id": 548664,
         "ip": "185.103.134.36",
         "port": 8080,
@@ -50,8 +85,8 @@
         "uptime": {
             "status": "down",
             "last_up": "2025-12-28 01:10:17.131543",
-            "uptime_pct": 25,
-            "avg_latency_ms": 1284
+            "uptime_pct": 21.43,
+            "avg_latency_ms": 1101
         },
         "geo": {
             "exit_ip": "91.230.65.202",
@@ -60,7 +95,7 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 15.2857,
+            "score": 13.1429,
             "status": "inactive"
         },
         "seen": {
@@ -95,7 +130,7 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 28.4522,
+            "score": 28.6037,
             "status": "inactive"
         },
         "seen": {
@@ -243,5 +278,40 @@
             "last_seen": "2025-12-28"
         },
         "anonymity_level": "elite"
+    },
+    {
+        "proxy_id": 604156,
+        "ip": "77.37.244.119",
+        "port": 8080,
+        "endpoint": "77.37.244.119:8080",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-29 23:16:22.918758",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2025-12-28 01:50:09.915230",
+            "uptime_pct": 8.33,
+            "avg_latency_ms": 276
+        },
+        "geo": {
+            "exit_ip": "77.37.244.119",
+            "country_iso": "RU",
+            "asn": 42610,
+            "org": "Rostelecom"
+        },
+        "performance": {
+            "score": 30.7304,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-30",
+            "last_seen": "2025-12-28"
+        },
+        "anonymity_level": "unknown"
     }
 ]
