@@ -1,5 +1,40 @@
 [
     {
+        "proxy_id": 21942,
+        "ip": "118.179.151.57",
+        "port": 5020,
+        "endpoint": "118.179.151.57:5020",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-28 06:20:15.277058",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2025-12-31 01:05:15.422375",
+            "uptime_pct": 2.38,
+            "avg_latency_ms": 61
+        },
+        "geo": {
+            "exit_ip": "118.179.151.57",
+            "country_iso": "BD",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 34.3067,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-08",
+            "last_seen": "2025-12-31"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
         "proxy_id": 569118,
         "ip": "119.148.39.29",
         "port": 8444,
@@ -119,7 +154,7 @@
         },
         "uptime": {
             "status": "up",
-            "last_up": "2025-12-31 00:35:13.544597",
+            "last_up": "2025-12-31 01:20:18.744643",
             "uptime_pct": 50,
             "avg_latency_ms": 1281
         },
@@ -138,5 +173,40 @@
             "last_seen": "2025-12-31"
         },
         "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 1093566,
+        "ip": "202.5.47.44",
+        "port": 12225,
+        "endpoint": "202.5.47.44:12225",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-29 08:15:12.412175",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2025-12-31 01:10:12.102401",
+            "uptime_pct": 55.56,
+            "avg_latency_ms": 1404
+        },
+        "geo": {
+            "exit_ip": "202.5.47.44",
+            "country_iso": "BD",
+            "asn": 45326,
+            "org": "Broad Band Telecom Services Ltd"
+        },
+        "performance": {
+            "score": 35.8333,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-12-29",
+            "last_seen": "2025-12-31"
+        },
+        "anonymity_level": "transparent"
     }
 ]
