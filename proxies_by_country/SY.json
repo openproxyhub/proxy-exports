@@ -1,71 +1,36 @@
 [
     {
-        "proxy_id": 505342,
-        "ip": "185.235.16.12",
-        "port": 80,
-        "endpoint": "185.235.16.12:80",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_low",
+        "proxy_id": 1081436,
+        "ip": "91.144.45.166",
+        "port": 8082,
+        "endpoint": "91.144.45.166:8082",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2025-11-28 03:32:55.896082",
+            "last_check": "2026-01-01 02:55:13.631388",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "up",
-            "last_up": "2025-12-27 17:20:18.884592",
-            "uptime_pct": 100,
-            "avg_latency_ms": 3250
+            "last_up": "2026-01-02 17:50:14.626330",
+            "uptime_pct": 16.13,
+            "avg_latency_ms": 822
         },
         "geo": {
-            "exit_ip": "185.235.16.12",
+            "exit_ip": "91.144.45.166",
             "country_iso": "SY",
-            "asn": 29256,
-            "org": "Bitakat Company LTD"
+            "asn": 0,
+            "org": "Unknown"
         },
         "performance": {
-            "score": 62.037,
+            "score": 15.9158,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-11-28",
-            "last_seen": "2025-12-27"
-        },
-        "anonymity_level": "transparent"
-    },
-    {
-        "proxy_id": 582487,
-        "ip": "193.43.145.200",
-        "port": 8080,
-        "endpoint": "193.43.145.200:8080",
-        "protocol": "http_connect",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-12-25 05:00:17.251654",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2025-12-27 17:10:19.542087",
-            "uptime_pct": 13.51,
-            "avg_latency_ms": 0
-        },
-        "geo": {
-            "exit_ip": "193.43.145.200",
-            "country_iso": "SY",
-            "asn": 29256,
-            "org": "Syrian Telecommunication Private Closed Joint Stock Company"
-        },
-        "performance": {
-            "score": 44.5367,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-12-25",
-            "last_seen": "2025-12-27"
+            "first_seen": "2026-01-01",
+            "last_seen": "2026-01-02"
         },
         "anonymity_level": "unknown"
     }
