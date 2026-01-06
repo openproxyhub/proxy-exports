@@ -1,5 +1,40 @@
 [
     {
+        "proxy_id": 527207,
+        "ip": "40.177.65.8",
+        "port": 80,
+        "endpoint": "40.177.65.8:80",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-28 11:22:19.139425",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2026-01-06 02:00:20.138132",
+            "uptime_pct": 100,
+            "avg_latency_ms": 434
+        },
+        "geo": {
+            "exit_ip": "40.177.65.8",
+            "country_iso": "CA",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 81.361,
+            "status": "active"
+        },
+        "seen": {
+            "first_seen": "2025-11-28",
+            "last_seen": "2026-01-06"
+        },
+        "anonymity_level": "elite"
+    },
+    {
         "proxy_id": 934132,
         "ip": "40.176.96.235",
         "port": 44029,
@@ -14,7 +49,7 @@
         },
         "uptime": {
             "status": "up",
-            "last_up": "2026-01-06 00:45:16.433528",
+            "last_up": "2026-01-06 02:00:29.145406",
             "uptime_pct": 22.22,
             "avg_latency_ms": 1932
         },
@@ -154,7 +189,7 @@
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-01-06 00:00:20.725723",
+            "last_up": "2026-01-06 02:00:31.153186",
             "uptime_pct": 0,
             "avg_latency_ms": 3996
         },
@@ -245,6 +280,41 @@
         "anonymity_level": "unknown"
     },
     {
+        "proxy_id": 1101709,
+        "ip": "40.176.96.235",
+        "port": 57071,
+        "endpoint": "40.176.96.235:57071",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-01-04 01:05:22.011418",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-06 02:10:16.049122",
+            "uptime_pct": 33.33,
+            "avg_latency_ms": 2426
+        },
+        "geo": {
+            "exit_ip": "40.176.96.235",
+            "country_iso": "CA",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 20,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-01-03",
+            "last_seen": "2026-01-04"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
         "proxy_id": 1101802,
         "ip": "40.176.96.235",
         "port": 8071,
@@ -293,8 +363,8 @@
             "error": null
         },
         "uptime": {
-            "status": "up",
-            "last_up": "2026-01-06 00:55:01.905482",
+            "status": "down",
+            "last_up": "2026-01-06 02:10:14.884996",
             "uptime_pct": 37.5,
             "avg_latency_ms": 2715
         },
