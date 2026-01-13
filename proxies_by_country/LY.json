@@ -1,5 +1,40 @@
 [
     {
+        "proxy_id": 492540,
+        "ip": "41.254.48.192",
+        "port": 1978,
+        "endpoint": "41.254.48.192:1978",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-19 08:20:03.712097",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-13 18:50:03.577468",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "41.254.48.192",
+            "country_iso": "LY",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 35,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-12-19",
+            "last_seen": "2026-01-13"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
         "proxy_id": 579540,
         "ip": "41.254.47.66",
         "port": 19000,
@@ -50,8 +85,8 @@
         "uptime": {
             "status": "up",
             "last_up": "2026-01-13 18:10:05.253926",
-            "uptime_pct": 0,
-            "avg_latency_ms": 0
+            "uptime_pct": 50,
+            "avg_latency_ms": 2924
         },
         "geo": {
             "exit_ip": "165.16.59.65",
@@ -60,7 +95,7 @@
             "org": "Aljeel-net"
         },
         "performance": {
-            "score": 35,
+            "score": 30,
             "status": "inactive"
         },
         "seen": {
