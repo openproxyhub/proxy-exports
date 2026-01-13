@@ -1,36 +1,71 @@
 [
     {
-        "proxy_id": 945476,
-        "ip": "51.17.184.165",
-        "port": 37,
-        "endpoint": "51.17.184.165:37",
+        "proxy_id": 934220,
+        "ip": "51.16.56.189",
+        "port": 14352,
+        "endpoint": "51.16.56.189:14352",
         "protocol": "http_connect",
         "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2025-12-29 04:05:13.575684",
+            "last_check": "2025-12-29 06:35:10.342583",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
-            "status": "up",
-            "last_up": "2026-01-13 14:10:11.983202",
-            "uptime_pct": 50,
-            "avg_latency_ms": 2854
+            "status": "down",
+            "last_up": "2026-01-13 18:25:19.190377",
+            "uptime_pct": 60,
+            "avg_latency_ms": 2671
         },
         "geo": {
-            "exit_ip": "51.17.184.165",
+            "exit_ip": "51.16.56.189",
             "country_iso": "IL",
             "asn": 0,
             "org": "Unknown"
         },
         "performance": {
-            "score": 30,
+            "score": 36,
             "status": "inactive"
         },
         "seen": {
             "first_seen": "2025-12-29",
-            "last_seen": "2025-12-31"
+            "last_seen": "2025-12-30"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 1096916,
+        "ip": "51.85.49.118",
+        "port": 55695,
+        "endpoint": "51.85.49.118:55695",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-01-05 23:50:18.818718",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2026-01-13 18:25:02.223219",
+            "uptime_pct": 33.33,
+            "avg_latency_ms": 2424
+        },
+        "geo": {
+            "exit_ip": "51.85.49.118",
+            "country_iso": "IL",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 20,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-01-06",
+            "last_seen": "2026-01-06"
         },
         "anonymity_level": "unknown"
     }

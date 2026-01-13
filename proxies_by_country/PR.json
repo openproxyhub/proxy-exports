@@ -1,36 +1,71 @@
 [
     {
-        "proxy_id": 509948,
-        "ip": "204.77.11.13",
+        "proxy_id": 587375,
+        "ip": "192.203.0.62",
         "port": 999,
-        "endpoint": "204.77.11.13:999",
-        "protocol": "http_connect",
+        "endpoint": "192.203.0.62:999",
+        "protocol": "http_absolute",
         "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2025-12-23 10:20:02.450784",
+            "last_check": "2025-12-23 21:55:02.721422",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "down",
-            "last_up": "2025-12-28 04:45:14.180548",
-            "uptime_pct": 6.67,
-            "avg_latency_ms": 99
+            "last_up": "2026-01-13 18:15:18.495202",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
         },
         "geo": {
-            "exit_ip": "104.238.232.210",
+            "exit_ip": "192.203.0.62",
             "country_iso": "PR",
-            "asn": 21559,
-            "org": "OSNET"
+            "asn": 63393,
+            "org": "BOOMNETPR01"
         },
         "performance": {
-            "score": 36.3707,
+            "score": 36.25,
             "status": "inactive"
         },
         "seen": {
             "first_seen": "2025-12-23",
-            "last_seen": "2025-12-28"
+            "last_seen": "2026-01-13"
+        },
+        "anonymity_level": "transparent"
+    },
+    {
+        "proxy_id": 610742,
+        "ip": "192.203.0.70",
+        "port": 999,
+        "endpoint": "192.203.0.70:999",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-20 17:10:03.554115",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-13 18:20:28.629845",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "192.203.0.70",
+            "country_iso": "PR",
+            "asn": 63393,
+            "org": "BOOMNETPR01"
+        },
+        "performance": {
+            "score": 35,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-12-21",
+            "last_seen": "2026-01-13"
         },
         "anonymity_level": "unknown"
     }

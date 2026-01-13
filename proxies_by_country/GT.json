@@ -1,37 +1,72 @@
 [
     {
-        "proxy_id": 5798,
-        "ip": "181.78.51.157",
+        "proxy_id": 580740,
+        "ip": "143.208.57.163",
         "port": 999,
-        "endpoint": "181.78.51.157:999",
-        "protocol": "http_absolute",
+        "endpoint": "143.208.57.163:999",
+        "protocol": "http_connect",
         "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2025-12-28 08:45:13.474775",
+            "last_check": "2025-12-14 05:45:02.437125",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-01-10 12:55:02.859203",
-            "uptime_pct": 5.13,
-            "avg_latency_ms": 281
+            "last_up": "2026-01-13 18:25:10.078152",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
         },
         "geo": {
-            "exit_ip": "181.78.51.157",
+            "exit_ip": "143.208.57.163",
+            "country_iso": "GT",
+            "asn": 22869,
+            "org": "CABLECOLOR S.A."
+        },
+        "performance": {
+            "score": 35.3125,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-12-14",
+            "last_seen": "2026-01-13"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 603884,
+        "ip": "181.78.50.121",
+        "port": 999,
+        "endpoint": "181.78.50.121:999",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-29 23:11:03.465263",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-13 18:20:14.312990",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "181.78.50.121",
             "country_iso": "GT",
             "asn": 52468,
             "org": "UFINET PANAMA S.A."
         },
         "performance": {
-            "score": 19.1576,
+            "score": 35.4167,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-11-08",
-            "last_seen": "2026-01-10"
+            "first_seen": "2025-11-30",
+            "last_seen": "2026-01-13"
         },
-        "anonymity_level": null
+        "anonymity_level": "unknown"
     }
 ]
