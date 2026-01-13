@@ -1,36 +1,106 @@
 [
     {
-        "proxy_id": 1117439,
-        "ip": "182.160.109.166",
-        "port": 50000,
-        "endpoint": "182.160.109.166:50000",
-        "protocol": "http_absolute",
+        "proxy_id": 540074,
+        "ip": "103.171.233.72",
+        "port": 8080,
+        "endpoint": "103.171.233.72:8080",
+        "protocol": "http_connect",
         "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2026-01-11 01:10:19.107162",
+            "last_check": "2025-12-23 21:20:02.361639",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2026-01-13 17:50:12.597853",
+            "uptime_pct": 100,
+            "avg_latency_ms": 3867
+        },
+        "geo": {
+            "exit_ip": "103.171.233.72",
+            "country_iso": "BD",
+            "asn": 146946,
+            "org": "TS Network"
+        },
+        "performance": {
+            "score": 60,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-12-23",
+            "last_seen": "2026-01-13"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 574648,
+        "ip": "103.245.109.70",
+        "port": 21458,
+        "endpoint": "103.245.109.70:21458",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-17 21:00:04.199322",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-01-12 04:05:15.575405",
-            "uptime_pct": 3.64,
-            "avg_latency_ms": 146
+            "last_up": "2026-01-13 17:55:09.802676",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
         },
         "geo": {
-            "exit_ip": "182.160.109.166",
+            "exit_ip": "103.245.109.70",
             "country_iso": "BD",
-            "asn": 24323,
-            "org": "aamra networks limited"
+            "asn": 58800,
+            "org": "ACE IT Networks Limited"
         },
         "performance": {
-            "score": 32.071,
+            "score": 35.7143,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2026-01-11",
-            "last_seen": "2026-01-12"
+            "first_seen": "2025-12-17",
+            "last_seen": "2026-01-13"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 580757,
+        "ip": "45.124.15.90",
+        "port": 8080,
+        "endpoint": "45.124.15.90:8080",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-24 14:20:02.718583",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-13 17:55:03.936938",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "45.124.15.90",
+            "country_iso": "BD",
+            "asn": 58912,
+            "org": "Chittagong Telecom Services Ltd"
+        },
+        "performance": {
+            "score": 35.5,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-12-24",
+            "last_seen": "2026-01-13"
         },
         "anonymity_level": "unknown"
     }
