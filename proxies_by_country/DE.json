@@ -1,5 +1,40 @@
 [
     {
+        "proxy_id": 517354,
+        "ip": "8.211.49.86",
+        "port": 3129,
+        "endpoint": "8.211.49.86:3129",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-01-01 05:05:20.125518",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-13 00:55:11.136791",
+            "uptime_pct": 43.48,
+            "avg_latency_ms": 1349
+        },
+        "geo": {
+            "exit_ip": "8.211.49.86",
+            "country_iso": "DE",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 26.8012,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-01-01",
+            "last_seen": "2026-01-13"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
         "proxy_id": 1117709,
         "ip": "5.199.166.233",
         "port": 9064,
@@ -31,6 +66,76 @@
         "seen": {
             "first_seen": "2026-01-08",
             "last_seen": "2026-01-08"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 1124660,
+        "ip": "5.199.166.251",
+        "port": 9098,
+        "endpoint": "5.199.166.251:9098",
+        "protocol": "socks5",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-01-11 07:40:15.243658",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-13 00:55:10.767791",
+            "uptime_pct": 0,
+            "avg_latency_ms": 119
+        },
+        "geo": {
+            "exit_ip": "185.220.101.21",
+            "country_iso": "DE",
+            "asn": 60729,
+            "org": "Stiftung Erneuerbare Freiheit"
+        },
+        "performance": {
+            "score": 30.849,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-01-11",
+            "last_seen": "2026-01-13"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 1124800,
+        "ip": "88.216.215.142",
+        "port": 9119,
+        "endpoint": "88.216.215.142:9119",
+        "protocol": "socks5",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-01-12 07:55:10.015207",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-13 00:00:03.728458",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "185.220.100.253",
+            "country_iso": "DE",
+            "asn": 205100,
+            "org": "F3 Netze e.V."
+        },
+        "performance": {
+            "score": 37.5,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-01-12",
+            "last_seen": "2026-01-12"
         },
         "anonymity_level": "unknown"
     }

@@ -1,5 +1,40 @@
 [
     {
+        "proxy_id": 502513,
+        "ip": "16.78.41.33",
+        "port": 35585,
+        "endpoint": "16.78.41.33:35585",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-05 09:32:44.519969",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2026-01-13 00:50:14.150745",
+            "uptime_pct": 40,
+            "avg_latency_ms": 4209
+        },
+        "geo": {
+            "exit_ip": "16.78.41.33",
+            "country_iso": "ID",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 24.7143,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-12-08",
+            "last_seen": "2025-12-27"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
         "proxy_id": 574520,
         "ip": "8.215.12.103",
         "port": 8004,
@@ -49,7 +84,7 @@
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-01-13 00:25:09.893932",
+            "last_up": "2026-01-13 00:30:02.481999",
             "uptime_pct": 36.84,
             "avg_latency_ms": 1136
         },
@@ -86,7 +121,7 @@
             "status": "down",
             "last_up": "2026-01-13 00:15:11.675453",
             "uptime_pct": 55.17,
-            "avg_latency_ms": 1879
+            "avg_latency_ms": 1855
         },
         "geo": {
             "exit_ip": "8.215.3.250",
@@ -103,6 +138,41 @@
             "last_seen": "2026-01-13"
         },
         "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 623882,
+        "ip": "103.165.157.241",
+        "port": 8090,
+        "endpoint": "103.165.157.241:8090",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-15 02:50:03.384568",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-13 00:55:09.220578",
+            "uptime_pct": 8,
+            "avg_latency_ms": 301
+        },
+        "geo": {
+            "exit_ip": "103.165.157.241",
+            "country_iso": "ID",
+            "asn": 136873,
+            "org": "MEGADATA-ISP"
+        },
+        "performance": {
+            "score": 29.4573,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-12-15",
+            "last_seen": "2026-01-13"
+        },
+        "anonymity_level": "transparent"
     },
     {
         "proxy_id": 689648,
@@ -188,8 +258,8 @@
             "error": null
         },
         "uptime": {
-            "status": "down",
-            "last_up": "2026-01-13 00:00:18.211303",
+            "status": "up",
+            "last_up": "2026-01-13 00:35:10.774286",
             "uptime_pct": 42.86,
             "avg_latency_ms": 4150
         },
