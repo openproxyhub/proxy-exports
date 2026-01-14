@@ -1,5 +1,40 @@
 [
     {
+        "proxy_id": 506597,
+        "ip": "98.64.128.182",
+        "port": 3128,
+        "endpoint": "98.64.128.182:3128",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-15 02:45:02.970138",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-14 00:33:03.250781",
+            "uptime_pct": 33.33,
+            "avg_latency_ms": 30
+        },
+        "geo": {
+            "exit_ip": "98.64.128.182",
+            "country_iso": "NL",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 54.3463,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-12-15",
+            "last_seen": "2026-01-14"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
         "proxy_id": 507903,
         "ip": "104.248.197.67",
         "port": 1080,
@@ -14,7 +49,7 @@
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-01-14 00:29:01.998067",
+            "last_up": "2026-01-14 00:30:03.356517",
             "uptime_pct": 0,
             "avg_latency_ms": 0
         },
@@ -25,13 +60,48 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 37.7273,
+            "score": 37.6667,
             "status": "inactive"
         },
         "seen": {
             "first_seen": "2025-11-28",
-            "last_seen": "2026-01-13"
+            "last_seen": "2026-01-14"
         },
         "anonymity_level": "elite"
+    },
+    {
+        "proxy_id": 574681,
+        "ip": "165.22.204.47",
+        "port": 3128,
+        "endpoint": "165.22.204.47:3128",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-29 08:13:17.270217",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-14 00:30:02.533205",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "165.22.204.47",
+            "country_iso": "NL",
+            "asn": 14061,
+            "org": "DIGITALOCEAN-ASN"
+        },
+        "performance": {
+            "score": 35.0847,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-29",
+            "last_seen": "2026-01-14"
+        },
+        "anonymity_level": "unknown"
     }
 ]
