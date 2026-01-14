@@ -1,5 +1,40 @@
 [
     {
+        "proxy_id": 569820,
+        "ip": "197.164.101.11",
+        "port": 1981,
+        "endpoint": "197.164.101.11:1981",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-29 06:39:45.320642",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2026-01-14 02:04:03.843055",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "197.164.101.11",
+            "country_iso": "EG",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 36.1538,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-29",
+            "last_seen": "2026-01-14"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
         "proxy_id": 575373,
         "ip": "41.65.67.165",
         "port": 1976,
@@ -14,7 +49,7 @@
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-01-14 01:33:02.342025",
+            "last_up": "2026-01-14 02:12:01.907506",
             "uptime_pct": 0,
             "avg_latency_ms": 0
         },
@@ -68,6 +103,41 @@
             "last_seen": "2026-01-14"
         },
         "anonymity_level": "transparent"
+    },
+    {
+        "proxy_id": 602542,
+        "ip": "41.65.160.172",
+        "port": 1976,
+        "endpoint": "41.65.160.172:1976",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-29 22:16:32.398935",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-14 02:21:02.452884",
+            "uptime_pct": 25,
+            "avg_latency_ms": 617
+        },
+        "geo": {
+            "exit_ip": "154.236.177.100",
+            "country_iso": "EG",
+            "asn": 36992,
+            "org": "Etisalat Misr"
+        },
+        "performance": {
+            "score": 29.2296,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-30",
+            "last_seen": "2026-01-14"
+        },
+        "anonymity_level": "elite"
     },
     {
         "proxy_id": 765177,
