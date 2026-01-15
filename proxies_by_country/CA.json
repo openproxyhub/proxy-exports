@@ -1,5 +1,40 @@
 [
     {
+        "proxy_id": 611137,
+        "ip": "96.1.101.113",
+        "port": 80,
+        "endpoint": "96.1.101.113:80",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-21 00:20:02.920804",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-15 17:14:01.315776",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "96.1.101.113",
+            "country_iso": "CA",
+            "asn": 852,
+            "org": "TELUS Communications"
+        },
+        "performance": {
+            "score": 35,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-12-21",
+            "last_seen": "2026-01-15"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
         "proxy_id": 902348,
         "ip": "40.176.96.235",
         "port": 6061,
@@ -101,6 +136,41 @@
         "seen": {
             "first_seen": "2025-12-29",
             "last_seen": "2025-12-29"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 1058810,
+        "ip": "40.176.96.235",
+        "port": 952,
+        "endpoint": "40.176.96.235:952",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-30 08:50:17.400617",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2026-01-15 17:28:02.628523",
+            "uptime_pct": 0,
+            "avg_latency_ms": 3996
+        },
+        "geo": {
+            "exit_ip": "40.176.96.235",
+            "country_iso": "CA",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 0,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-12-30",
+            "last_seen": "2025-12-30"
         },
         "anonymity_level": "unknown"
     },
