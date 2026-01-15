@@ -1,35 +1,70 @@
 [
     {
-        "proxy_id": 587424,
-        "ip": "190.94.213.80",
+        "proxy_id": 506697,
+        "ip": "190.94.212.43",
         "port": 999,
-        "endpoint": "190.94.213.80:999",
-        "protocol": "http_absolute",
+        "endpoint": "190.94.212.43:999",
+        "protocol": "http_connect",
         "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2025-12-13 21:15:04.677286",
+            "last_check": "2025-12-14 16:20:03.191302",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-01-15 09:46:02.251190",
+            "last_up": "2026-01-15 16:25:02.632341",
             "uptime_pct": 0,
             "avg_latency_ms": 0
         },
         "geo": {
-            "exit_ip": "190.94.213.80",
+            "exit_ip": "190.94.212.43",
             "country_iso": "VE",
-            "asn": 8053,
-            "org": "IFX Networks Venezuela C.A."
+            "asn": 0,
+            "org": "Unknown"
         },
         "performance": {
             "score": 35,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-12-13",
+            "first_seen": "2025-12-14",
+            "last_seen": "2026-01-15"
+        },
+        "anonymity_level": "transparent"
+    },
+    {
+        "proxy_id": 537216,
+        "ip": "190.8.164.245",
+        "port": 999,
+        "endpoint": "190.8.164.245:999",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-24 21:50:12.425052",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-15 16:29:02.204846",
+            "uptime_pct": 5.56,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "190.8.164.245",
+            "country_iso": "VE",
+            "asn": 264628,
+            "org": "CORPORACION FIBEX TELECOM, C.A."
+        },
+        "performance": {
+            "score": 38.5185,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-12-24",
             "last_seen": "2026-01-15"
         },
         "anonymity_level": "unknown"
