@@ -1,36 +1,71 @@
 [
     {
-        "proxy_id": 574500,
-        "ip": "206.84.201.101",
+        "proxy_id": 525277,
+        "ip": "200.121.48.195",
         "port": 999,
-        "endpoint": "206.84.201.101:999",
-        "protocol": "http_connect",
+        "endpoint": "200.121.48.195:999",
+        "protocol": "http_absolute",
         "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2025-12-23 18:40:02.769305",
+            "last_check": "2025-12-05 15:54:44.111295",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2026-01-15 08:53:01.828181",
+            "uptime_pct": 100,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "200.121.48.195",
+            "country_iso": "PE",
+            "asn": 6147,
+            "org": "Telefonica del Peru S.A.A."
+        },
+        "performance": {
+            "score": 95,
+            "status": "active"
+        },
+        "seen": {
+            "first_seen": "2025-12-08",
+            "last_seen": "2026-01-15"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 553380,
+        "ip": "179.43.96.178",
+        "port": 8080,
+        "endpoint": "179.43.96.178:8080",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-12 19:45:15.886489",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-01-14 17:34:01.229398",
-            "uptime_pct": 16,
-            "avg_latency_ms": 584
+            "last_up": "2026-01-15 08:58:02.347806",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
         },
         "geo": {
-            "exit_ip": "206.84.201.101",
+            "exit_ip": "179.43.96.178",
             "country_iso": "PE",
-            "asn": 273101,
-            "org": "REDESVIP E.I.R.L."
+            "asn": 263189,
+            "org": "GLG PERU SAC"
         },
         "performance": {
-            "score": 24.1758,
+            "score": 35.2778,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-12-23",
-            "last_seen": "2026-01-14"
+            "first_seen": "2025-12-12",
+            "last_seen": "2026-01-15"
         },
         "anonymity_level": "unknown"
     }
