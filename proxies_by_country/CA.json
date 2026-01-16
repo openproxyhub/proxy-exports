@@ -15,8 +15,8 @@
         "uptime": {
             "status": "up",
             "last_up": "2026-01-16 05:23:01.943854",
-            "uptime_pct": 0,
-            "avg_latency_ms": 5321
+            "uptime_pct": 50,
+            "avg_latency_ms": 4725
         },
         "geo": {
             "exit_ip": "40.176.96.235",
@@ -25,11 +25,46 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 0,
+            "score": 30,
             "status": "inactive"
         },
         "seen": {
             "first_seen": "2025-12-12",
+            "last_seen": "2026-01-16"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 611137,
+        "ip": "96.1.101.113",
+        "port": 80,
+        "endpoint": "96.1.101.113:80",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-21 00:20:02.920804",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-16 05:56:01.741100",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "96.1.101.113",
+            "country_iso": "CA",
+            "asn": 852,
+            "org": "TELUS Communications"
+        },
+        "performance": {
+            "score": 35,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-12-21",
             "last_seen": "2026-01-16"
         },
         "anonymity_level": "unknown"
@@ -236,6 +271,41 @@
         },
         "performance": {
             "score": 22.5,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-01-03",
+            "last_seen": "2026-01-04"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 1101876,
+        "ip": "40.176.96.235",
+        "port": 23457,
+        "endpoint": "40.176.96.235:23457",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-01-04 01:50:22.103555",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-16 05:31:01.728304",
+            "uptime_pct": 33.33,
+            "avg_latency_ms": 2817
+        },
+        "geo": {
+            "exit_ip": "40.176.96.235",
+            "country_iso": "CA",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 20,
             "status": "inactive"
         },
         "seen": {
