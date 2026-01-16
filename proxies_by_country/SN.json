@@ -1,5 +1,40 @@
 [
     {
+        "proxy_id": 80120,
+        "ip": "196.1.93.16",
+        "port": 80,
+        "endpoint": "196.1.93.16:80",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-22 10:15:03.555602",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2026-01-16 18:48:01.969825",
+            "uptime_pct": 40,
+            "avg_latency_ms": 73
+        },
+        "geo": {
+            "exit_ip": "196.1.93.16",
+            "country_iso": "SN",
+            "asn": 8346,
+            "org": "SONATEL SONATEL-AS Autonomous System"
+        },
+        "performance": {
+            "score": 39.5238,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-08",
+            "last_seen": "2026-01-16"
+        },
+        "anonymity_level": null
+    },
+    {
         "proxy_id": 507660,
         "ip": "154.65.39.8",
         "port": 80,
@@ -13,10 +48,10 @@
             "error": null
         },
         "uptime": {
-            "status": "up",
-            "last_up": "2026-01-16 12:12:01.872924",
+            "status": "down",
+            "last_up": "2026-01-16 18:49:02.140918",
             "uptime_pct": 28.57,
-            "avg_latency_ms": 561
+            "avg_latency_ms": 2243
         },
         "geo": {
             "exit_ip": "154.65.39.8",
@@ -25,7 +60,7 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 32.5166,
+            "score": 17.1429,
             "status": "inactive"
         },
         "seen": {
