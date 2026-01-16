@@ -1,72 +1,37 @@
 [
     {
-        "proxy_id": 553746,
-        "ip": "61.29.96.146",
+        "proxy_id": 572010,
+        "ip": "220.233.184.21",
         "port": 80,
-        "endpoint": "61.29.96.146:80",
+        "endpoint": "220.233.184.21:80",
         "protocol": "http_absolute",
         "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2025-12-11 08:40:01.816173",
+            "last_check": "2025-12-14 03:00:03.918508",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
-            "status": "down",
-            "last_up": "2026-01-15 18:15:03.382757",
-            "uptime_pct": 0,
-            "avg_latency_ms": 0
+            "status": "up",
+            "last_up": "2026-01-16 00:29:02.087085",
+            "uptime_pct": 100,
+            "avg_latency_ms": 697
         },
         "geo": {
-            "exit_ip": "61.29.96.146",
+            "exit_ip": "220.233.184.21",
             "country_iso": "AU",
-            "asn": 2764,
-            "org": "AAPT Limited"
+            "asn": 10143,
+            "org": "Exetel Pty Ltd"
         },
         "performance": {
-            "score": 35,
+            "score": 71.7161,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-12-12",
-            "last_seen": "2026-01-15"
+            "first_seen": "2025-12-14",
+            "last_seen": "2026-01-16"
         },
-        "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 611408,
-        "ip": "103.75.119.185",
-        "port": 80,
-        "endpoint": "103.75.119.185:80",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-12-23 16:50:02.312426",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2026-01-15 18:33:02.447268",
-            "uptime_pct": 0,
-            "avg_latency_ms": 0
-        },
-        "geo": {
-            "exit_ip": "103.75.119.185",
-            "country_iso": "AU",
-            "asn": 136258,
-            "org": "BrainStorm Network, Inc"
-        },
-        "performance": {
-            "score": 35,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-12-23",
-            "last_seen": "2026-01-15"
-        },
-        "anonymity_level": "elite"
+        "anonymity_level": "transparent"
     }
 ]

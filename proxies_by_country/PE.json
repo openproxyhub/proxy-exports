@@ -1,28 +1,63 @@
 [
     {
-        "proxy_id": 602856,
-        "ip": "200.215.229.14",
-        "port": 999,
-        "endpoint": "200.215.229.14:999",
+        "proxy_id": 553380,
+        "ip": "179.43.96.178",
+        "port": 8080,
+        "endpoint": "179.43.96.178:8080",
         "protocol": "http_absolute",
         "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2025-12-18 08:35:02.134079",
+            "last_check": "2025-12-12 19:45:15.886489",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-01-15 17:24:01.934837",
+            "last_up": "2026-01-16 00:18:02.356727",
             "uptime_pct": 0,
             "avg_latency_ms": 0
         },
         "geo": {
-            "exit_ip": "200.215.229.14",
+            "exit_ip": "179.43.96.178",
             "country_iso": "PE",
-            "asn": 271868,
-            "org": "GPON NETWORKS S.A.C."
+            "asn": 263189,
+            "org": "GLG PERU SAC"
+        },
+        "performance": {
+            "score": 35.2941,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-12-12",
+            "last_seen": "2026-01-16"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 575023,
+        "ip": "190.119.160.27",
+        "port": 56160,
+        "endpoint": "190.119.160.27:56160",
+        "protocol": "socks5",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-18 08:35:02.610338",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-16 00:19:01.968920",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "190.119.160.30",
+            "country_iso": "PE",
+            "asn": 12252,
+            "org": "America Movil Peru S.A.C."
         },
         "performance": {
             "score": 35,
@@ -30,7 +65,7 @@
         },
         "seen": {
             "first_seen": "2025-12-18",
-            "last_seen": "2026-01-15"
+            "last_seen": "2026-01-16"
         },
         "anonymity_level": "unknown"
     }
