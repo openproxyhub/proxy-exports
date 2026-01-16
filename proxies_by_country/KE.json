@@ -1,36 +1,71 @@
 [
     {
-        "proxy_id": 570001,
-        "ip": "154.159.247.119",
+        "proxy_id": 569512,
+        "ip": "102.209.76.109",
         "port": 8080,
-        "endpoint": "154.159.247.119:8080",
+        "endpoint": "102.209.76.109:8080",
         "protocol": "http_absolute",
         "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2025-12-13 19:20:03.949904",
+            "last_check": "2025-11-29 06:34:21.604901",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
-            "status": "up",
-            "last_up": "2026-01-15 18:35:02.494985",
-            "uptime_pct": 9.52,
-            "avg_latency_ms": 498
+            "status": "down",
+            "last_up": "2026-01-16 00:50:02.414952",
+            "uptime_pct": 25,
+            "avg_latency_ms": 765
         },
         "geo": {
-            "exit_ip": "154.159.247.119",
+            "exit_ip": "102.209.76.109",
             "country_iso": "KE",
-            "asn": 36926,
-            "org": "CKL1-ASN"
+            "asn": 0,
+            "org": "Unknown"
         },
         "performance": {
-            "score": 23.293,
+            "score": 23.2337,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-12-13",
-            "last_seen": "2026-01-15"
+            "first_seen": "2025-11-29",
+            "last_seen": "2026-01-16"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 580015,
+        "ip": "102.213.219.238",
+        "port": 8080,
+        "endpoint": "102.213.219.238:8080",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-22 12:00:04.935690",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-16 00:54:01.685695",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "102.213.219.238",
+            "country_iso": "KE",
+            "asn": 329198,
+            "org": "CELCOM-NETWORKS-LIMITED"
+        },
+        "performance": {
+            "score": 0,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-12-22",
+            "last_seen": "2026-01-16"
         },
         "anonymity_level": "unknown"
     }
