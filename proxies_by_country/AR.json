@@ -1,35 +1,70 @@
 [
     {
-        "proxy_id": 604181,
-        "ip": "164.163.42.14",
-        "port": 10000,
-        "endpoint": "164.163.42.14:10000",
+        "proxy_id": 500926,
+        "ip": "167.249.52.115",
+        "port": 999,
+        "endpoint": "167.249.52.115:999",
         "protocol": "http_connect",
-        "lifecycle_status": "active_new",
+        "lifecycle_status": "active_low",
         "proto": {
             "status": "ok",
-            "last_check": "2025-11-29 23:17:44.613881",
+            "last_check": "2025-11-27 07:08:16.207338",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-01-17 18:08:02.687842",
+            "last_up": "2026-01-17 22:29:01.204978",
             "uptime_pct": 0,
             "avg_latency_ms": 0
         },
         "geo": {
-            "exit_ip": "164.163.43.102",
+            "exit_ip": "167.249.52.115",
+            "country_iso": "AR",
+            "asn": 263793,
+            "org": "Tecnet Argentina S.A"
+        },
+        "performance": {
+            "score": 35,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-27",
+            "last_seen": "2026-01-17"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 515937,
+        "ip": "190.103.205.253",
+        "port": 9097,
+        "endpoint": "190.103.205.253:9097",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-05 14:20:46.146881",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-17 22:28:02.636674",
+            "uptime_pct": 14.29,
+            "avg_latency_ms": 837
+        },
+        "geo": {
+            "exit_ip": "190.103.205.253",
             "country_iso": "AR",
             "asn": 0,
             "org": "Unknown"
         },
         "performance": {
-            "score": 35.8333,
+            "score": 14.2764,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-11-30",
+            "first_seen": "2025-12-08",
             "last_seen": "2026-01-17"
         },
         "anonymity_level": "unknown"
