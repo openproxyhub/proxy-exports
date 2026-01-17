@@ -1,72 +1,37 @@
 [
     {
-        "proxy_id": 569820,
-        "ip": "197.164.101.11",
-        "port": 1981,
-        "endpoint": "197.164.101.11:1981",
+        "proxy_id": 878866,
+        "ip": "82.129.233.4",
+        "port": 1976,
+        "endpoint": "82.129.233.4:1976",
         "protocol": "http_connect",
-        "lifecycle_status": "active_low",
+        "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2025-11-29 06:39:45.320642",
+            "last_check": "2025-12-04 11:02:00.497566",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-01-17 13:55:02.318220",
+            "last_up": "2026-01-17 17:57:02.291345",
             "uptime_pct": 0,
             "avg_latency_ms": 0
         },
         "geo": {
-            "exit_ip": "197.164.101.11",
+            "exit_ip": "82.129.233.4",
             "country_iso": "EG",
-            "asn": 0,
-            "org": "Unknown"
+            "asn": 24835,
+            "org": "RAYA Telecom - Egypt"
         },
         "performance": {
-            "score": 36.3462,
+            "score": 35,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-11-29",
+            "first_seen": "2025-12-04",
             "last_seen": "2026-01-17"
         },
         "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 578708,
-        "ip": "41.65.55.27",
-        "port": 1981,
-        "endpoint": "41.65.55.27:1981",
-        "protocol": "http_connect",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-12-19 04:20:03.834370",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "up",
-            "last_up": "2026-01-17 13:47:02.313770",
-            "uptime_pct": 20,
-            "avg_latency_ms": 1556
-        },
-        "geo": {
-            "exit_ip": "41.65.55.27",
-            "country_iso": "EG",
-            "asn": 36992,
-            "org": "Etisalat Misr"
-        },
-        "performance": {
-            "score": 12,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-12-19",
-            "last_seen": "2026-01-17"
-        },
-        "anonymity_level": "transparent"
     }
 ]
