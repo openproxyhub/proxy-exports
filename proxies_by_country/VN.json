@@ -1,5 +1,40 @@
 [
     {
+        "proxy_id": 67900,
+        "ip": "115.75.184.174",
+        "port": 8080,
+        "endpoint": "115.75.184.174:8080",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-16 19:05:02.969348",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-17 21:54:02.626741",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "115.75.184.174",
+            "country_iso": "VN",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 62.1702,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-08",
+            "last_seen": "2026-01-17"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
         "proxy_id": 533518,
         "ip": "183.80.54.224",
         "port": 1080,
@@ -35,41 +70,6 @@
         "anonymity_level": "unknown"
     },
     {
-        "proxy_id": 550829,
-        "ip": "27.72.244.228",
-        "port": 8080,
-        "endpoint": "27.72.244.228:8080",
-        "protocol": "http_connect",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-12-12 19:55:12.008483",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "up",
-            "last_up": "2026-01-17 18:01:02.246189",
-            "uptime_pct": 14.29,
-            "avg_latency_ms": 5847
-        },
-        "geo": {
-            "exit_ip": "27.72.244.228",
-            "country_iso": "VN",
-            "asn": 7552,
-            "org": "Viettel Group"
-        },
-        "performance": {
-            "score": 9.28571,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-12-12",
-            "last_seen": "2026-01-17"
-        },
-        "anonymity_level": "transparent"
-    },
-    {
         "proxy_id": 579834,
         "ip": "203.205.33.131",
         "port": 1452,
@@ -100,41 +100,6 @@
         },
         "seen": {
             "first_seen": "2025-12-14",
-            "last_seen": "2026-01-17"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 580006,
-        "ip": "157.66.221.103",
-        "port": 39099,
-        "endpoint": "157.66.221.103:39099",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-12-23 02:50:02.879139",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2026-01-17 17:55:02.783993",
-            "uptime_pct": 0,
-            "avg_latency_ms": 0
-        },
-        "geo": {
-            "exit_ip": "157.66.221.103",
-            "country_iso": "VN",
-            "asn": 150859,
-            "org": "SANDCLOCK SERVICE TRADING COMPANY LIMITED"
-        },
-        "performance": {
-            "score": 35.8333,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-12-23",
             "last_seen": "2026-01-17"
         },
         "anonymity_level": "unknown"
