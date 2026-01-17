@@ -1,5 +1,75 @@
 [
     {
+        "proxy_id": 19138,
+        "ip": "103.35.108.244",
+        "port": 2024,
+        "endpoint": "103.35.108.244:2024",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-14 20:10:04.928909",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-17 02:55:01.485213",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "103.35.108.250",
+            "country_iso": "BD",
+            "asn": 23991,
+            "org": "Ranks ITT Ltd."
+        },
+        "performance": {
+            "score": 35,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-08",
+            "last_seen": "2026-01-17"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 82118,
+        "ip": "103.192.158.115",
+        "port": 46,
+        "endpoint": "103.192.158.115:46",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-13 18:50:02.168215",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-17 02:41:01.821717",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "103.192.158.115",
+            "country_iso": "BD",
+            "asn": 136224,
+            "org": "City Online Ltd."
+        },
+        "performance": {
+            "score": 30.8,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-08",
+            "last_seen": "2026-01-17"
+        },
+        "anonymity_level": null
+    },
+    {
         "proxy_id": 729193,
         "ip": "180.92.239.146",
         "port": 8080,
@@ -68,5 +138,40 @@
             "last_seen": "2026-01-17"
         },
         "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 1093566,
+        "ip": "202.5.47.44",
+        "port": 12225,
+        "endpoint": "202.5.47.44:12225",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-29 08:15:12.412175",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-17 02:42:02.675841",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "202.5.47.44",
+            "country_iso": "BD",
+            "asn": 45326,
+            "org": "Broad Band Telecom Services Ltd"
+        },
+        "performance": {
+            "score": 35,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-12-29",
+            "last_seen": "2026-01-17"
+        },
+        "anonymity_level": "transparent"
     }
 ]
