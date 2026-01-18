@@ -1,35 +1,70 @@
 [
     {
-        "proxy_id": 1081436,
-        "ip": "91.144.45.166",
-        "port": 8082,
-        "endpoint": "91.144.45.166:8082",
+        "proxy_id": 582487,
+        "ip": "193.43.145.200",
+        "port": 8080,
+        "endpoint": "193.43.145.200:8080",
         "protocol": "http_connect",
         "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2026-01-01 02:55:13.631388",
+            "last_check": "2025-12-25 05:00:17.251654",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-01-18 04:59:01.641222",
-            "uptime_pct": 10,
-            "avg_latency_ms": 104
+            "last_up": "2026-01-18 08:41:01.780220",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
         },
         "geo": {
-            "exit_ip": "91.144.45.166",
+            "exit_ip": "193.43.145.200",
             "country_iso": "SY",
-            "asn": 0,
-            "org": "Unknown"
+            "asn": 29256,
+            "org": "Syrian Telecommunication Private Closed Joint Stock Company"
         },
         "performance": {
-            "score": 38.0887,
+            "score": 35,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2026-01-01",
+            "first_seen": "2025-12-25",
+            "last_seen": "2026-01-18"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 604497,
+        "ip": "193.43.140.82",
+        "port": 8080,
+        "endpoint": "193.43.140.82:8080",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-21 03:25:02.735449",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-18 08:48:01.872651",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "193.43.140.82",
+            "country_iso": "SY",
+            "asn": 29256,
+            "org": "Syrian Telecommunication Private Closed Joint Stock Company"
+        },
+        "performance": {
+            "score": 35,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-12-21",
             "last_seen": "2026-01-18"
         },
         "anonymity_level": "unknown"

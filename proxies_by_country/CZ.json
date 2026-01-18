@@ -1,5 +1,40 @@
 [
     {
+        "proxy_id": 569846,
+        "ip": "188.119.98.126",
+        "port": 9999,
+        "endpoint": "188.119.98.126:9999",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-29 19:45:15.482389",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2026-01-18 08:43:02.384954",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "188.119.98.126",
+            "country_iso": "CZ",
+            "asn": 42908,
+            "org": "O2 Czech Republic, a.s."
+        },
+        "performance": {
+            "score": 36,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-12-29",
+            "last_seen": "2026-01-18"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
         "proxy_id": 610775,
         "ip": "213.250.198.146",
         "port": 8080,
@@ -15,8 +50,8 @@
         "uptime": {
             "status": "up",
             "last_up": "2026-01-18 08:28:02.047193",
-            "uptime_pct": 0,
-            "avg_latency_ms": 0
+            "uptime_pct": 20,
+            "avg_latency_ms": 641
         },
         "geo": {
             "exit_ip": "213.250.198.146",
@@ -25,7 +60,7 @@
             "org": "Nordictelecomregional"
         },
         "performance": {
-            "score": 35,
+            "score": 24.565,
             "status": "inactive"
         },
         "seen": {
