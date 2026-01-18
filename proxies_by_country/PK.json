@@ -1,36 +1,106 @@
 [
     {
-        "proxy_id": 568975,
-        "ip": "103.205.178.226",
-        "port": 8080,
-        "endpoint": "103.205.178.226:8080",
-        "protocol": "http_absolute",
+        "proxy_id": 106507,
+        "ip": "103.155.62.141",
+        "port": 8081,
+        "endpoint": "103.155.62.141:8081",
+        "protocol": "http_connect",
         "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2025-12-13 21:50:15.179280",
+            "last_check": "2025-12-05 02:29:35.698682",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-01-17 14:38:02.153061",
-            "uptime_pct": 27.27,
-            "avg_latency_ms": 82
+            "last_up": "2026-01-18 03:20:03.565987",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
         },
         "geo": {
-            "exit_ip": "103.205.178.226",
+            "exit_ip": "103.155.62.141",
             "country_iso": "PK",
-            "asn": 38713,
-            "org": "Broadband ISP, FTTH and Cable Service Provider"
+            "asn": 0,
+            "org": "Unknown"
         },
         "performance": {
-            "score": 48.498,
+            "score": 26.6,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-08",
+            "last_seen": "2026-01-18"
+        },
+        "anonymity_level": null
+    },
+    {
+        "proxy_id": 508882,
+        "ip": "103.153.39.35",
+        "port": 8083,
+        "endpoint": "103.153.39.35:8083",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-23 22:00:04.592735",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2026-01-18 03:18:02.722522",
+            "uptime_pct": 33.33,
+            "avg_latency_ms": 170
+        },
+        "geo": {
+            "exit_ip": "103.153.39.35",
+            "country_iso": "PK",
+            "asn": 140900,
+            "org": "Getlinks SMC-Private Limited"
+        },
+        "performance": {
+            "score": 51.5383,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-12-23",
+            "last_seen": "2026-01-18"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 570457,
+        "ip": "115.42.67.186",
+        "port": 8080,
+        "endpoint": "115.42.67.186:8080",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-13 14:15:03.761956",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-18 03:26:02.432349",
+            "uptime_pct": 25,
+            "avg_latency_ms": 786
+        },
+        "geo": {
+            "exit_ip": "115.42.67.186",
+            "country_iso": "PK",
+            "asn": 132165,
+            "org": "Connect Communications"
+        },
+        "performance": {
+            "score": 22.4988,
             "status": "inactive"
         },
         "seen": {
             "first_seen": "2025-12-13",
-            "last_seen": "2026-01-17"
+            "last_seen": "2026-01-18"
         },
         "anonymity_level": "unknown"
     }
