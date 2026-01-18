@@ -1,5 +1,40 @@
 [
     {
+        "proxy_id": 87907,
+        "ip": "209.13.186.20",
+        "port": 80,
+        "endpoint": "209.13.186.20:80",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-05 02:26:39.011541",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-18 02:57:02.936645",
+            "uptime_pct": 50,
+            "avg_latency_ms": 1025
+        },
+        "geo": {
+            "exit_ip": "209.13.186.20",
+            "country_iso": "AR",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 18.65,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-08",
+            "last_seen": "2026-01-18"
+        },
+        "anonymity_level": null
+    },
+    {
         "proxy_id": 730296,
         "ip": "181.209.111.148",
         "port": 999,
@@ -84,7 +119,7 @@
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-01-18 00:24:01.705795",
+            "last_up": "2026-01-18 02:49:02.390779",
             "uptime_pct": 0,
             "avg_latency_ms": 0
         },
@@ -118,10 +153,10 @@
             "error": null
         },
         "uptime": {
-            "status": "up",
-            "last_up": "2026-01-18 00:19:01.320759",
+            "status": "down",
+            "last_up": "2026-01-18 02:52:01.593484",
             "uptime_pct": 10,
-            "avg_latency_ms": 670
+            "avg_latency_ms": 861
         },
         "geo": {
             "exit_ip": "181.209.122.114",
@@ -130,7 +165,7 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 17.55,
+            "score": 10.85,
             "status": "inactive"
         },
         "seen": {
@@ -138,5 +173,40 @@
             "last_seen": "2026-01-18"
         },
         "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 1098528,
+        "ip": "170.80.92.193",
+        "port": 11211,
+        "endpoint": "170.80.92.193:11211",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-01-01 15:25:18.723244",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-18 02:53:02.070456",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "45.229.31.42",
+            "country_iso": "AR",
+            "asn": 270089,
+            "org": "FIBRAS OPTICAS DE MAR DEL PLATA S.A."
+        },
+        "performance": {
+            "score": 35,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-01-01",
+            "last_seen": "2026-01-18"
+        },
+        "anonymity_level": "transparent"
     }
 ]
