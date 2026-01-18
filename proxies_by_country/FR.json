@@ -226,7 +226,7 @@
             "status": "up",
             "last_up": "2026-01-18 12:36:02.024934",
             "uptime_pct": 14.29,
-            "avg_latency_ms": 19
+            "avg_latency_ms": 77
         },
         "geo": {
             "exit_ip": "163.172.53.142",
@@ -235,7 +235,7 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 42.8977,
+            "score": 40.8764,
             "status": "inactive"
         },
         "seen": {
@@ -260,8 +260,8 @@
         "uptime": {
             "status": "up",
             "last_up": "2026-01-18 14:04:03.282544",
-            "uptime_pct": 100,
-            "avg_latency_ms": 2117
+            "uptime_pct": 80,
+            "avg_latency_ms": 2000
         },
         "geo": {
             "exit_ip": "45.92.108.112",
@@ -270,11 +270,81 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 60.8333,
+            "score": 48.8333,
             "status": "inactive"
         },
         "seen": {
             "first_seen": "2025-12-12",
+            "last_seen": "2026-01-18"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 581142,
+        "ip": "62.210.37.74",
+        "port": 8012,
+        "endpoint": "62.210.37.74:8012",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-14 01:25:02.429713",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-18 14:59:01.982770",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "62.210.37.74",
+            "country_iso": "FR",
+            "asn": 12876,
+            "org": "Scaleway S.a.s."
+        },
+        "performance": {
+            "score": 35,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-12-14",
+            "last_seen": "2026-01-18"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 600536,
+        "ip": "37.187.29.43",
+        "port": 42450,
+        "endpoint": "37.187.29.43:42450",
+        "protocol": "socks5",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-14 04:55:02.525703",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-18 14:56:02.055356",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "37.187.29.43",
+            "country_iso": "FR",
+            "asn": 16276,
+            "org": "OVH SAS"
+        },
+        "performance": {
+            "score": 35,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-12-14",
             "last_seen": "2026-01-18"
         },
         "anonymity_level": "unknown"
@@ -315,41 +385,6 @@
         "anonymity_level": "unknown"
     },
     {
-        "proxy_id": 903112,
-        "ip": "52.47.164.226",
-        "port": 7897,
-        "endpoint": "52.47.164.226:7897",
-        "protocol": "http_connect",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-12-04 18:19:45.636503",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "up",
-            "last_up": "2026-01-18 10:52:02.466420",
-            "uptime_pct": 33.33,
-            "avg_latency_ms": 3415
-        },
-        "geo": {
-            "exit_ip": "52.47.164.226",
-            "country_iso": "FR",
-            "asn": 0,
-            "org": "Unknown"
-        },
-        "performance": {
-            "score": 20.4167,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-12-04",
-            "last_seen": "2025-12-26"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
         "proxy_id": 940636,
         "ip": "52.47.164.226",
         "port": 15081,
@@ -363,8 +398,8 @@
             "error": null
         },
         "uptime": {
-            "status": "down",
-            "last_up": "2026-01-18 11:38:01.922767",
+            "status": "up",
+            "last_up": "2026-01-18 14:55:02.420471",
             "uptime_pct": 63.64,
             "avg_latency_ms": 1823
         },

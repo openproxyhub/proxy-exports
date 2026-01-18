@@ -1,35 +1,105 @@
 [
     {
-        "proxy_id": 585448,
-        "ip": "159.13.44.239",
-        "port": 8080,
-        "endpoint": "159.13.44.239:8080",
-        "protocol": "http_connect",
+        "proxy_id": 553746,
+        "ip": "61.29.96.146",
+        "port": 80,
+        "endpoint": "61.29.96.146:80",
+        "protocol": "http_absolute",
         "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2025-12-20 18:00:05.519147",
+            "last_check": "2025-12-11 08:40:01.816173",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-01-18 08:21:02.166140",
+            "last_up": "2026-01-18 14:50:01.896748",
             "uptime_pct": 0,
             "avg_latency_ms": 0
         },
         "geo": {
-            "exit_ip": "159.13.44.239",
+            "exit_ip": "61.29.96.146",
             "country_iso": "AU",
-            "asn": 31898,
-            "org": "ORACLE-BMC-31898"
+            "asn": 2764,
+            "org": "AAPT Limited"
         },
         "performance": {
             "score": 35,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-12-21",
+            "first_seen": "2025-12-12",
+            "last_seen": "2026-01-18"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 572010,
+        "ip": "220.233.184.21",
+        "port": 80,
+        "endpoint": "220.233.184.21:80",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-14 03:00:03.918508",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-18 14:57:01.979194",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "220.233.184.21",
+            "country_iso": "AU",
+            "asn": 10143,
+            "org": "Exetel Pty Ltd"
+        },
+        "performance": {
+            "score": 36.4286,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-12-14",
+            "last_seen": "2026-01-18"
+        },
+        "anonymity_level": "transparent"
+    },
+    {
+        "proxy_id": 703327,
+        "ip": "16.51.157.105",
+        "port": 57998,
+        "endpoint": "16.51.157.105:57998",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-01-16 05:41:02.044528",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2026-01-18 14:56:02.476175",
+            "uptime_pct": 100,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "16.51.157.105",
+            "country_iso": "AU",
+            "asn": 16509,
+            "org": "AMAZON-02"
+        },
+        "performance": {
+            "score": 95,
+            "status": "active"
+        },
+        "seen": {
+            "first_seen": "2026-01-16",
             "last_seen": "2026-01-18"
         },
         "anonymity_level": "unknown"
