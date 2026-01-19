@@ -1,38 +1,38 @@
 [
     {
-        "proxy_id": 510992,
-        "ip": "186.96.111.214",
+        "proxy_id": 105037,
+        "ip": "181.119.67.133",
         "port": 999,
-        "endpoint": "186.96.111.214:999",
+        "endpoint": "181.119.67.133:999",
         "protocol": "http_absolute",
         "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2025-12-12 21:55:12.008795",
+            "last_check": "2025-12-23 21:40:02.542930",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-01-19 12:15:03.499358",
-            "uptime_pct": 7.14,
+            "last_up": "2026-01-19 16:21:01.863017",
+            "uptime_pct": 0,
             "avg_latency_ms": 0
         },
         "geo": {
-            "exit_ip": "186.96.111.214",
+            "exit_ip": "181.119.67.133",
             "country_iso": "CO",
-            "asn": 0,
-            "org": "Unknown"
+            "asn": 52468,
+            "org": "UFINET PANAMA S.A."
         },
         "performance": {
-            "score": 40,
+            "score": 27.4333,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-12-12",
+            "first_seen": "2025-11-08",
             "last_seen": "2026-01-19"
         },
-        "anonymity_level": "unknown"
+        "anonymity_level": null
     },
     {
         "proxy_id": 526426,
@@ -49,7 +49,7 @@
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-01-19 15:54:03.233367",
+            "last_up": "2026-01-19 16:11:01.850193",
             "uptime_pct": 0,
             "avg_latency_ms": 0
         },
@@ -65,41 +65,6 @@
         },
         "seen": {
             "first_seen": "2025-11-28",
-            "last_seen": "2026-01-19"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 548258,
-        "ip": "67.73.240.1",
-        "port": 8081,
-        "endpoint": "67.73.240.1:8081",
-        "protocol": "http_connect",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-12-07 18:52:38.323374",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2026-01-19 12:19:01.955609",
-            "uptime_pct": 0,
-            "avg_latency_ms": 0
-        },
-        "geo": {
-            "exit_ip": "67.73.184.178",
-            "country_iso": "CO",
-            "asn": 3549,
-            "org": "LVLT-3549"
-        },
-        "performance": {
-            "score": 35,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-12-08",
             "last_seen": "2026-01-19"
         },
         "anonymity_level": "unknown"
@@ -175,6 +140,41 @@
         "anonymity_level": "unknown"
     },
     {
+        "proxy_id": 569658,
+        "ip": "179.1.240.219",
+        "port": 999,
+        "endpoint": "179.1.240.219:999",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-29 06:36:47.553394",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2026-01-19 16:20:03.647366",
+            "uptime_pct": 33.33,
+            "avg_latency_ms": 1525
+        },
+        "geo": {
+            "exit_ip": "179.1.240.219",
+            "country_iso": "CO",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 20.3333,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-29",
+            "last_seen": "2026-01-19"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
         "proxy_id": 569765,
         "ip": "181.129.147.163",
         "port": 8080,
@@ -205,6 +205,76 @@
         },
         "seen": {
             "first_seen": "2025-12-24",
+            "last_seen": "2026-01-19"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 569988,
+        "ip": "181.57.183.26",
+        "port": 8080,
+        "endpoint": "181.57.183.26:8080",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-29 06:43:25.758172",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2026-01-19 16:11:02.057119",
+            "uptime_pct": 14.29,
+            "avg_latency_ms": 823
+        },
+        "geo": {
+            "exit_ip": "181.57.183.26",
+            "country_iso": "CO",
+            "asn": 14080,
+            "org": "Telmex Colombia S.A."
+        },
+        "performance": {
+            "score": 15.4807,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-29",
+            "last_seen": "2026-01-19"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 571343,
+        "ip": "209.14.98.5",
+        "port": 8080,
+        "endpoint": "209.14.98.5:8080",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-29 07:10:56.488255",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-19 16:28:01.868026",
+            "uptime_pct": 11.11,
+            "avg_latency_ms": 1091
+        },
+        "geo": {
+            "exit_ip": "209.14.98.5",
+            "country_iso": "CO",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 6.66667,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-29",
             "last_seen": "2026-01-19"
         },
         "anonymity_level": "unknown"
@@ -305,7 +375,7 @@
             "org": "Telmex Colombia S.A."
         },
         "performance": {
-            "score": 35.5556,
+            "score": 35.5,
             "status": "inactive"
         },
         "seen": {
@@ -504,7 +574,7 @@
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-01-19 14:19:01.511262",
+            "last_up": "2026-01-19 16:28:02.187748",
             "uptime_pct": 0,
             "avg_latency_ms": 0
         },
@@ -539,9 +609,9 @@
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-01-19 13:49:01.876975",
-            "uptime_pct": 12.5,
-            "avg_latency_ms": 489
+            "last_up": "2026-01-19 16:27:02.253816",
+            "uptime_pct": 11.11,
+            "avg_latency_ms": 435
         },
         "geo": {
             "exit_ip": "186.116.148.52",
@@ -550,7 +620,7 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 26.5005,
+            "score": 27.5683,
             "status": "inactive"
         },
         "seen": {
