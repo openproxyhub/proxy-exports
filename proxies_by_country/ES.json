@@ -385,6 +385,41 @@
         "anonymity_level": "unknown"
     },
     {
+        "proxy_id": 1097429,
+        "ip": "51.48.124.225",
+        "port": 9469,
+        "endpoint": "51.48.124.225:9469",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-01-03 22:45:14.243470",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-19 15:28:01.858446",
+            "uptime_pct": 33.33,
+            "avg_latency_ms": 3643
+        },
+        "geo": {
+            "exit_ip": "51.48.124.225",
+            "country_iso": "ES",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 20,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-01-03",
+            "last_seen": "2026-01-04"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
         "proxy_id": 1123967,
         "ip": "51.48.124.225",
         "port": 10858,
@@ -418,5 +453,40 @@
             "last_seen": "2026-01-19"
         },
         "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 1130011,
+        "ip": "192.71.213.85",
+        "port": 9800,
+        "endpoint": "192.71.213.85:9800",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-01-17 17:22:04.086718",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2026-01-19 15:20:02.229480",
+            "uptime_pct": 25,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "192.71.213.85",
+            "country_iso": "ES",
+            "asn": 39020,
+            "org": "Comvive Servidores S.L."
+        },
+        "performance": {
+            "score": 55,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-01-17",
+            "last_seen": "2026-01-19"
+        },
+        "anonymity_level": "transparent"
     }
 ]
