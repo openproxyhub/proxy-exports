@@ -434,7 +434,7 @@
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-01-20 08:59:01.241557",
+            "last_up": "2026-01-20 09:04:01.871751",
             "uptime_pct": 0,
             "avg_latency_ms": 0
         },
@@ -470,8 +470,8 @@
         "uptime": {
             "status": "up",
             "last_up": "2026-01-20 08:49:01.296156",
-            "uptime_pct": 0,
-            "avg_latency_ms": 0
+            "uptime_pct": 16.67,
+            "avg_latency_ms": 367
         },
         "geo": {
             "exit_ip": "189.73.53.94",
@@ -480,11 +480,81 @@
             "org": "V tal"
         },
         "performance": {
-            "score": 35,
+            "score": 32.155,
             "status": "inactive"
         },
         "seen": {
             "first_seen": "2026-01-17",
+            "last_seen": "2026-01-20"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 604452,
+        "ip": "138.59.20.140",
+        "port": 9999,
+        "endpoint": "138.59.20.140:9999",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-29 23:45:15.969405",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2026-01-20 09:04:01.762760",
+            "uptime_pct": 9.09,
+            "avg_latency_ms": 382
+        },
+        "geo": {
+            "exit_ip": "138.59.20.140",
+            "country_iso": "BR",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 27.4755,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-30",
+            "last_seen": "2026-01-20"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 610728,
+        "ip": "189.124.91.145",
+        "port": 7171,
+        "endpoint": "189.124.91.145:7171",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-23 01:25:01.743892",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-20 09:28:02.291196",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "189.124.91.145",
+            "country_iso": "BR",
+            "asn": 28287,
+            "org": "America-NET Ltda."
+        },
+        "performance": {
+            "score": 35,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-12-23",
             "last_seen": "2026-01-20"
         },
         "anonymity_level": "unknown"
