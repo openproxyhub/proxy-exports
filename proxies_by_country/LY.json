@@ -1,35 +1,70 @@
 [
     {
-        "proxy_id": 707249,
-        "ip": "165.16.59.65",
-        "port": 8080,
-        "endpoint": "165.16.59.65:8080",
+        "proxy_id": 492540,
+        "ip": "41.254.48.192",
+        "port": 1978,
+        "endpoint": "41.254.48.192:1978",
         "protocol": "http_connect",
         "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2025-12-01 13:27:20.763462",
+            "last_check": "2025-12-19 08:20:03.712097",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
-            "status": "down",
-            "last_up": "2026-01-20 10:27:01.362100",
-            "uptime_pct": 20,
-            "avg_latency_ms": 0
+            "status": "up",
+            "last_up": "2026-01-20 15:28:01.684124",
+            "uptime_pct": 30,
+            "avg_latency_ms": 1094
         },
         "geo": {
-            "exit_ip": "165.16.59.65",
+            "exit_ip": "41.254.48.192",
             "country_iso": "LY",
             "asn": 0,
             "org": "Unknown"
         },
         "performance": {
-            "score": 47.625,
+            "score": 18.5556,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-12-01",
+            "first_seen": "2025-12-19",
+            "last_seen": "2026-01-20"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 570278,
+        "ip": "41.254.48.190",
+        "port": 1976,
+        "endpoint": "41.254.48.190:1976",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-29 06:51:31.892445",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-20 15:17:01.868781",
+            "uptime_pct": 42.86,
+            "avg_latency_ms": 4392
+        },
+        "geo": {
+            "exit_ip": "41.254.48.190",
+            "country_iso": "LY",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 25.7143,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-29",
             "last_seen": "2026-01-20"
         },
         "anonymity_level": "unknown"
