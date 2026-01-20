@@ -1,22 +1,22 @@
 [
     {
-        "proxy_id": 586639,
-        "ip": "46.36.123.60",
+        "proxy_id": 85151,
+        "ip": "46.36.123.53",
         "port": 81,
-        "endpoint": "46.36.123.60:81",
-        "protocol": "http_connect",
+        "endpoint": "46.36.123.53:81",
+        "protocol": "http_absolute",
         "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2025-12-20 13:55:02.890087",
+            "last_check": "2025-11-28 02:39:58.534027",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-01-20 09:13:01.330554",
-            "uptime_pct": 5.88,
-            "avg_latency_ms": 510
+            "last_up": "2026-01-20 14:15:03.946116",
+            "uptime_pct": 14.29,
+            "avg_latency_ms": 145
         },
         "geo": {
             "exit_ip": "46.36.123.50",
@@ -25,48 +25,13 @@
             "org": "LikeNet LLC"
         },
         "performance": {
-            "score": 20.6794,
+            "score": 27.1475,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-12-21",
+            "first_seen": "2025-11-08",
             "last_seen": "2026-01-20"
         },
-        "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 818013,
-        "ip": "45.133.107.234",
-        "port": 81,
-        "endpoint": "45.133.107.234:81",
-        "protocol": "http_connect",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-12-03 05:15:35.206548",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2026-01-20 09:18:02.103554",
-            "uptime_pct": 11.76,
-            "avg_latency_ms": 247
-        },
-        "geo": {
-            "exit_ip": "45.133.107.234",
-            "country_iso": "AM",
-            "asn": 216086,
-            "org": "Art-net LLC"
-        },
-        "performance": {
-            "score": 33.43,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-12-03",
-            "last_seen": "2026-01-20"
-        },
-        "anonymity_level": "unknown"
+        "anonymity_level": null
     }
 ]
