@@ -1,37 +1,72 @@
 [
     {
-        "proxy_id": 600799,
-        "ip": "212.252.73.13",
+        "proxy_id": 39165,
+        "ip": "212.252.39.103",
         "port": 8080,
-        "endpoint": "212.252.73.13:8080",
+        "endpoint": "212.252.39.103:8080",
         "protocol": "http_connect",
         "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2025-12-15 02:25:02.930635",
+            "last_check": "2025-12-17 15:30:06.660939",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2026-01-20 05:40:02.188799",
+            "uptime_pct": 7.69,
+            "avg_latency_ms": 279
+        },
+        "geo": {
+            "exit_ip": "212.252.39.103",
+            "country_iso": "TR",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 29.8574,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-08",
+            "last_seen": "2026-01-20"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 77244,
+        "ip": "213.74.191.35",
+        "port": 8080,
+        "endpoint": "213.74.191.35:8080",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-13 12:40:06.474179",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-01-20 00:08:01.851801",
+            "last_up": "2026-01-20 05:52:02.169590",
             "uptime_pct": 0,
             "avg_latency_ms": 0
         },
         "geo": {
-            "exit_ip": "212.252.73.13",
+            "exit_ip": "213.74.191.35",
             "country_iso": "TR",
             "asn": 34984,
             "org": "Superonline Iletisim Hizmetleri A.S."
         },
         "performance": {
-            "score": 35.5556,
+            "score": 27.5,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-12-15",
+            "first_seen": "2025-11-08",
             "last_seen": "2026-01-20"
         },
-        "anonymity_level": "unknown"
+        "anonymity_level": null
     }
 ]
