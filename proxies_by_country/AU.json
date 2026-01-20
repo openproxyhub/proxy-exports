@@ -1,75 +1,5 @@
 [
     {
-        "proxy_id": 507794,
-        "ip": "139.99.237.62",
-        "port": 80,
-        "endpoint": "139.99.237.62:80",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_low",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-11-28 05:24:24.021239",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "up",
-            "last_up": "2026-01-20 07:41:01.537427",
-            "uptime_pct": 41.67,
-            "avg_latency_ms": 300
-        },
-        "geo": {
-            "exit_ip": "139.99.237.62",
-            "country_iso": "AU",
-            "asn": 0,
-            "org": "Unknown"
-        },
-        "performance": {
-            "score": 50.5044,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-11-28",
-            "last_seen": "2026-01-20"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 553746,
-        "ip": "61.29.96.146",
-        "port": 80,
-        "endpoint": "61.29.96.146:80",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-12-11 08:40:01.816173",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2026-01-20 08:01:03.589120",
-            "uptime_pct": 0,
-            "avg_latency_ms": 0
-        },
-        "geo": {
-            "exit_ip": "61.29.96.146",
-            "country_iso": "AU",
-            "asn": 2764,
-            "org": "AAPT Limited"
-        },
-        "performance": {
-            "score": 35,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-12-12",
-            "last_seen": "2026-01-20"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
         "proxy_id": 572010,
         "ip": "220.233.184.21",
         "port": 80,
@@ -103,5 +33,40 @@
             "last_seen": "2026-01-20"
         },
         "anonymity_level": "transparent"
+    },
+    {
+        "proxy_id": 703327,
+        "ip": "16.51.157.105",
+        "port": 57998,
+        "endpoint": "16.51.157.105:57998",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-01-16 05:41:02.044528",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2026-01-20 11:58:02.233817",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "16.51.157.105",
+            "country_iso": "AU",
+            "asn": 16509,
+            "org": "AMAZON-02"
+        },
+        "performance": {
+            "score": 35,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-01-16",
+            "last_seen": "2026-01-20"
+        },
+        "anonymity_level": "unknown"
     }
 ]
