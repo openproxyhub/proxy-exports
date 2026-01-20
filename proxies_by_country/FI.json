@@ -1,22 +1,22 @@
 [
     {
-        "proxy_id": 507259,
+        "proxy_id": 610284,
         "ip": "65.108.159.129",
-        "port": 8081,
-        "endpoint": "65.108.159.129:8081",
+        "port": 5678,
+        "endpoint": "65.108.159.129:5678",
         "protocol": "http_connect",
         "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2025-12-22 14:05:03.056524",
+            "last_check": "2025-12-14 23:00:04.106536",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-01-19 21:45:02.800614",
+            "last_up": "2026-01-20 00:13:01.614943",
             "uptime_pct": 0,
-            "avg_latency_ms": 24
+            "avg_latency_ms": 1823
         },
         "geo": {
             "exit_ip": "65.108.159.129",
@@ -25,48 +25,13 @@
             "org": "Hetzner Online GmbH"
         },
         "performance": {
-            "score": 35.1731,
+            "score": 1.875,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-12-22",
-            "last_seen": "2026-01-19"
+            "first_seen": "2025-12-14",
+            "last_seen": "2026-01-20"
         },
-        "anonymity_level": "elite"
-    },
-    {
-        "proxy_id": 1089008,
-        "ip": "45.144.234.129",
-        "port": 52957,
-        "endpoint": "45.144.234.129:52957",
-        "protocol": "socks5",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2026-01-01 15:05:17.875073",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2026-01-19 19:39:01.853766",
-            "uptime_pct": 0,
-            "avg_latency_ms": 0
-        },
-        "geo": {
-            "exit_ip": "45.144.234.129",
-            "country_iso": "FI",
-            "asn": 0,
-            "org": "Unknown"
-        },
-        "performance": {
-            "score": 35,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2026-01-01",
-            "last_seen": "2026-01-19"
-        },
-        "anonymity_level": "elite"
+        "anonymity_level": "unknown"
     }
 ]
