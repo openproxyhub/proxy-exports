@@ -1,5 +1,75 @@
 [
     {
+        "proxy_id": 66796,
+        "ip": "190.12.150.244",
+        "port": 999,
+        "endpoint": "190.12.150.244:999",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-22 14:00:05.693974",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2026-01-20 11:18:01.547611",
+            "uptime_pct": 100,
+            "avg_latency_ms": 5160
+        },
+        "geo": {
+            "exit_ip": "190.12.150.244",
+            "country_iso": "EC",
+            "asn": 271795,
+            "org": "SERVITELCONET CIA. LTDA."
+        },
+        "performance": {
+            "score": 63,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-08",
+            "last_seen": "2026-01-20"
+        },
+        "anonymity_level": "transparent"
+    },
+    {
+        "proxy_id": 73572,
+        "ip": "181.78.198.7",
+        "port": 8080,
+        "endpoint": "181.78.198.7:8080",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-22 07:15:03.176843",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2026-01-20 11:26:01.677876",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "181.78.198.7",
+            "country_iso": "EC",
+            "asn": 52468,
+            "org": "UFINET PANAMA S.A."
+        },
+        "performance": {
+            "score": 35,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-08",
+            "last_seen": "2026-01-20"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
         "proxy_id": 509053,
         "ip": "45.171.111.255",
         "port": 999,
@@ -30,41 +100,6 @@
         },
         "seen": {
             "first_seen": "2025-11-28",
-            "last_seen": "2026-01-20"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 509159,
-        "ip": "45.4.202.170",
-        "port": 999,
-        "endpoint": "45.4.202.170:999",
-        "protocol": "http_connect",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-12-05 13:42:13.930450",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "up",
-            "last_up": "2026-01-20 07:19:01.738528",
-            "uptime_pct": 16.67,
-            "avg_latency_ms": 851
-        },
-        "geo": {
-            "exit_ip": "45.4.202.171",
-            "country_iso": "EC",
-            "asn": 263238,
-            "org": "Eliana Vanessa Morocho Ona"
-        },
-        "performance": {
-            "score": 15.7267,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-12-08",
             "last_seen": "2026-01-20"
         },
         "anonymity_level": "unknown"
@@ -328,8 +363,8 @@
             "error": null
         },
         "uptime": {
-            "status": "up",
-            "last_up": "2026-01-20 08:08:01.608570",
+            "status": "down",
+            "last_up": "2026-01-20 11:26:01.534394",
             "uptime_pct": 20,
             "avg_latency_ms": 116
         },
