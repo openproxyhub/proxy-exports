@@ -105,6 +105,41 @@
         "anonymity_level": "unknown"
     },
     {
+        "proxy_id": 770300,
+        "ip": "200.24.130.149",
+        "port": 999,
+        "endpoint": "200.24.130.149:999",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-02 11:07:23.326772",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-20 06:11:01.740913",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "200.24.130.149",
+            "country_iso": "EC",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 35,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-12-02",
+            "last_seen": "2026-01-20"
+        },
+        "anonymity_level": "transparent"
+    },
+    {
         "proxy_id": 770301,
         "ip": "200.24.130.150",
         "port": 999,
@@ -191,7 +226,7 @@
             "status": "down",
             "last_up": "2026-01-20 03:07:01.452875",
             "uptime_pct": 25,
-            "avg_latency_ms": 931
+            "avg_latency_ms": 1241
         },
         "geo": {
             "exit_ip": "181.78.200.125",
@@ -200,7 +235,7 @@
             "org": "UFINET PANAMA S.A."
         },
         "performance": {
-            "score": 17.415,
+            "score": 15,
             "status": "inactive"
         },
         "seen": {
