@@ -1,72 +1,37 @@
 [
     {
-        "proxy_id": 508882,
-        "ip": "103.153.39.35",
-        "port": 8083,
-        "endpoint": "103.153.39.35:8083",
+        "proxy_id": 106507,
+        "ip": "103.155.62.141",
+        "port": 8081,
+        "endpoint": "103.155.62.141:8081",
         "protocol": "http_connect",
         "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2025-12-23 22:00:04.592735",
+            "last_check": "2025-12-05 02:29:35.698682",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-01-21 08:48:01.708247",
-            "uptime_pct": 0,
+            "last_up": "2026-01-21 17:28:02.053930",
+            "uptime_pct": 16.67,
             "avg_latency_ms": 0
         },
         "geo": {
-            "exit_ip": "103.153.39.35",
+            "exit_ip": "103.155.62.141",
             "country_iso": "PK",
-            "asn": 140900,
-            "org": "Getlinks SMC-Private Limited"
+            "asn": 0,
+            "org": "Unknown"
         },
         "performance": {
-            "score": 36.4286,
+            "score": 31.6,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-12-23",
+            "first_seen": "2025-11-08",
             "last_seen": "2026-01-21"
         },
-        "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 568975,
-        "ip": "103.205.178.226",
-        "port": 8080,
-        "endpoint": "103.205.178.226:8080",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-12-13 21:50:15.179280",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "up",
-            "last_up": "2026-01-21 08:55:01.797964",
-            "uptime_pct": 33.33,
-            "avg_latency_ms": 908
-        },
-        "geo": {
-            "exit_ip": "103.205.178.226",
-            "country_iso": "PK",
-            "asn": 38713,
-            "org": "Broadband ISP, FTTH and Cable Service Provider"
-        },
-        "performance": {
-            "score": 23.2317,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-12-13",
-            "last_seen": "2026-01-21"
-        },
-        "anonymity_level": "unknown"
+        "anonymity_level": null
     }
 ]
