@@ -1,5 +1,40 @@
 [
     {
+        "proxy_id": 105037,
+        "ip": "181.119.67.133",
+        "port": 999,
+        "endpoint": "181.119.67.133:999",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-23 21:40:02.542930",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-21 00:45:02.696750",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "181.119.67.133",
+            "country_iso": "CO",
+            "asn": 52468,
+            "org": "UFINET PANAMA S.A."
+        },
+        "performance": {
+            "score": 27.3143,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-08",
+            "last_seen": "2026-01-21"
+        },
+        "anonymity_level": null
+    },
+    {
         "proxy_id": 822562,
         "ip": "45.167.124.236",
         "port": 999,
@@ -50,8 +85,8 @@
         "uptime": {
             "status": "down",
             "last_up": "2026-01-21 00:21:02.357827",
-            "uptime_pct": 25,
-            "avg_latency_ms": 1525
+            "uptime_pct": 18.18,
+            "avg_latency_ms": 1109
         },
         "geo": {
             "exit_ip": "190.7.138.78",
@@ -60,11 +95,46 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 15.5556,
+            "score": 11.4646,
             "status": "inactive"
         },
         "seen": {
             "first_seen": "2025-12-04",
+            "last_seen": "2026-01-21"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 943266,
+        "ip": "http://45.65.138.48",
+        "port": 999,
+        "endpoint": "http://45.65.138.48:999",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-29 07:40:13.111913",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-21 00:43:01.895223",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "45.65.137.218",
+            "country_iso": "CO",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 35.625,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-12-29",
             "last_seen": "2026-01-21"
         },
         "anonymity_level": "unknown"
