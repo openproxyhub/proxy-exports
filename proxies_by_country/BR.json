@@ -175,26 +175,61 @@
         "anonymity_level": null
     },
     {
-        "proxy_id": 911657,
-        "ip": "187.86.59.122",
-        "port": 80,
-        "endpoint": "187.86.59.122:80",
-        "protocol": "http_absolute",
+        "proxy_id": 505952,
+        "ip": "201.182.204.18",
+        "port": 9999,
+        "endpoint": "201.182.204.18:9999",
+        "protocol": "http_connect",
         "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2025-12-07 18:17:15.439548",
+            "last_check": "2025-12-12 11:20:03.523690",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-01-21 14:34:01.391587",
+            "last_up": "2026-01-21 18:52:02.830999",
+            "uptime_pct": 16.67,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "201.182.204.18",
+            "country_iso": "BR",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 45,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-12-12",
+            "last_seen": "2026-01-21"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 506944,
+        "ip": "177.130.25.76",
+        "port": 8080,
+        "endpoint": "177.130.25.76:8080",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-17 23:10:04.988925",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-21 18:57:02.682126",
             "uptime_pct": 0,
             "avg_latency_ms": 0
         },
         "geo": {
-            "exit_ip": "187.86.59.122",
+            "exit_ip": "177.130.25.76",
             "country_iso": "BR",
             "asn": 0,
             "org": "Unknown"
@@ -204,7 +239,7 @@
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-12-08",
+            "first_seen": "2025-12-17",
             "last_seen": "2026-01-21"
         },
         "anonymity_level": "unknown"
