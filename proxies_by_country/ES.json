@@ -1,5 +1,40 @@
 [
     {
+        "proxy_id": 77022,
+        "ip": "51.48.124.225",
+        "port": 246,
+        "endpoint": "51.48.124.225:246",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-17 11:25:05.249665",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2026-01-21 23:00:03.860317",
+            "uptime_pct": 0,
+            "avg_latency_ms": 1904
+        },
+        "geo": {
+            "exit_ip": "51.48.124.225",
+            "country_iso": "ES",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 1.5625,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-08",
+            "last_seen": "2026-01-14"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
         "proxy_id": 493986,
         "ip": "51.48.124.225",
         "port": 9269,
@@ -66,41 +101,6 @@
         "seen": {
             "first_seen": "2025-12-12",
             "last_seen": "2026-01-21"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 499669,
-        "ip": "51.48.124.225",
-        "port": 30840,
-        "endpoint": "51.48.124.225:30840",
-        "protocol": "http_connect",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-12-15 19:55:06.448796",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "up",
-            "last_up": "2026-01-21 19:20:03.014207",
-            "uptime_pct": 40,
-            "avg_latency_ms": 2546
-        },
-        "geo": {
-            "exit_ip": "51.48.124.225",
-            "country_iso": "ES",
-            "asn": 0,
-            "org": "Unknown"
-        },
-        "performance": {
-            "score": 25.9048,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-12-15",
-            "last_seen": "2025-12-27"
         },
         "anonymity_level": "unknown"
     },
@@ -260,8 +260,8 @@
         "uptime": {
             "status": "up",
             "last_up": "2026-01-21 22:42:01.991604",
-            "uptime_pct": 11.11,
-            "avg_latency_ms": 0
+            "uptime_pct": 20,
+            "avg_latency_ms": 878
         },
         "geo": {
             "exit_ip": "80.78.128.94",
@@ -270,7 +270,7 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 42.6667,
+            "score": 17.2817,
             "status": "inactive"
         },
         "seen": {
@@ -305,7 +305,7 @@
             "org": "Comvive Servidores S.L."
         },
         "performance": {
-            "score": 9.28571,
+            "score": 9.19643,
             "status": "inactive"
         },
         "seen": {
@@ -329,7 +329,7 @@
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-01-21 19:57:01.965417",
+            "last_up": "2026-01-21 23:19:01.938621",
             "uptime_pct": 0,
             "avg_latency_ms": 0
         },
@@ -364,9 +364,9 @@
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-01-21 22:57:02.046938",
-            "uptime_pct": 25,
-            "avg_latency_ms": 1605
+            "last_up": "2026-01-21 23:03:01.320557",
+            "uptime_pct": 14.29,
+            "avg_latency_ms": 917
         },
         "geo": {
             "exit_ip": "188.227.140.181",
@@ -375,11 +375,46 @@
             "org": "Aire Networks Del Mediterraneo Sl Unipersonal"
         },
         "performance": {
-            "score": 15,
+            "score": 11.4664,
             "status": "inactive"
         },
         "seen": {
             "first_seen": "2025-12-23",
+            "last_seen": "2026-01-21"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 601652,
+        "ip": "217.160.227.229",
+        "port": 8888,
+        "endpoint": "217.160.227.229:8888",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-11 10:30:02.423757",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-21 23:29:01.907226",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "217.160.227.229",
+            "country_iso": "ES",
+            "asn": 8560,
+            "org": "IONOS SE"
+        },
+        "performance": {
+            "score": 35,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-12-12",
             "last_seen": "2026-01-21"
         },
         "anonymity_level": "unknown"
