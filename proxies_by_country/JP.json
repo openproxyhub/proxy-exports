@@ -560,6 +560,41 @@
         "anonymity_level": "unknown"
     },
     {
+        "proxy_id": 571185,
+        "ip": "8.221.139.222",
+        "port": 8080,
+        "endpoint": "8.221.139.222:8080",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-29 07:07:30.178608",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-22 14:40:02.952156",
+            "uptime_pct": 50,
+            "avg_latency_ms": 1020
+        },
+        "geo": {
+            "exit_ip": "8.221.139.222",
+            "country_iso": "JP",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 31.6667,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-29",
+            "last_seen": "2026-01-22"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
         "proxy_id": 571374,
         "ip": "47.91.29.151",
         "port": 33427,
@@ -959,9 +994,9 @@
         },
         "uptime": {
             "status": "up",
-            "last_up": "2026-01-22 14:12:02.934797",
-            "uptime_pct": 44.44,
-            "avg_latency_ms": 1832
+            "last_up": "2026-01-22 16:30:02.331351",
+            "uptime_pct": 50,
+            "avg_latency_ms": 1952
         },
         "geo": {
             "exit_ip": "47.74.46.81",
@@ -970,7 +1005,7 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 28.5897,
+            "score": 31.9231,
             "status": "inactive"
         },
         "seen": {
@@ -1048,40 +1083,5 @@
             "last_seen": "2026-01-22"
         },
         "anonymity_level": "transparent"
-    },
-    {
-        "proxy_id": 1032183,
-        "ip": "8.221.138.111",
-        "port": 10002,
-        "endpoint": "8.221.138.111:10002",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2026-01-16 08:38:02.161129",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "up",
-            "last_up": "2026-01-22 12:36:02.114431",
-            "uptime_pct": 100,
-            "avg_latency_ms": 2566
-        },
-        "geo": {
-            "exit_ip": "8.221.138.111",
-            "country_iso": "JP",
-            "asn": 0,
-            "org": "Unknown"
-        },
-        "performance": {
-            "score": 63,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2026-01-16",
-            "last_seen": "2026-01-22"
-        },
-        "anonymity_level": "unknown"
     }
 ]
