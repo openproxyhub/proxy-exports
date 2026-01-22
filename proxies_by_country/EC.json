@@ -1,5 +1,40 @@
 [
     {
+        "proxy_id": 66796,
+        "ip": "190.12.150.244",
+        "port": 999,
+        "endpoint": "190.12.150.244:999",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-22 14:00:05.693974",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2026-01-22 13:17:02.559923",
+            "uptime_pct": 100,
+            "avg_latency_ms": 634
+        },
+        "geo": {
+            "exit_ip": "190.12.150.244",
+            "country_iso": "EC",
+            "asn": 271795,
+            "org": "SERVITELCONET CIA. LTDA."
+        },
+        "performance": {
+            "score": 74.9529,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-08",
+            "last_seen": "2026-01-22"
+        },
+        "anonymity_level": "transparent"
+    },
+    {
         "proxy_id": 603644,
         "ip": "177.234.217.235",
         "port": 999,
@@ -13,10 +48,10 @@
             "error": null
         },
         "uptime": {
-            "status": "up",
-            "last_up": "2026-01-22 09:35:01.631860",
-            "uptime_pct": 25,
-            "avg_latency_ms": 989
+            "status": "down",
+            "last_up": "2026-01-22 13:16:02.216997",
+            "uptime_pct": 20,
+            "avg_latency_ms": 791
         },
         "geo": {
             "exit_ip": "177.234.217.235",
@@ -25,7 +60,7 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 15.9581,
+            "score": 19.8776,
             "status": "inactive"
         },
         "seen": {
@@ -68,6 +103,41 @@
             "last_seen": "2026-01-22"
         },
         "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 770300,
+        "ip": "200.24.130.149",
+        "port": 999,
+        "endpoint": "200.24.130.149:999",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-02 11:07:23.326772",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-22 13:27:01.394899",
+            "uptime_pct": 25,
+            "avg_latency_ms": 1422
+        },
+        "geo": {
+            "exit_ip": "200.24.130.149",
+            "country_iso": "EC",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 15,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-12-02",
+            "last_seen": "2026-01-22"
+        },
+        "anonymity_level": "transparent"
     },
     {
         "proxy_id": 824596,
@@ -135,6 +205,41 @@
         },
         "seen": {
             "first_seen": "2025-12-04",
+            "last_seen": "2026-01-22"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 1104998,
+        "ip": "45.236.169.166",
+        "port": 999,
+        "endpoint": "45.236.169.166:999",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-01-04 02:10:23.875513",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-22 13:24:02.325466",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "45.236.170.178",
+            "country_iso": "EC",
+            "asn": 266802,
+            "org": "CODGREC S.A."
+        },
+        "performance": {
+            "score": 35,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-01-04",
             "last_seen": "2026-01-22"
         },
         "anonymity_level": "unknown"
