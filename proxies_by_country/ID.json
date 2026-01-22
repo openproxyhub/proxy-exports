@@ -1,980 +1,280 @@
 [
     {
-        "proxy_id": 568942,
-        "ip": "103.193.144.223",
+        "proxy_id": 67347,
+        "ip": "103.155.199.181",
         "port": 8080,
-        "endpoint": "103.193.144.223:8080",
+        "endpoint": "103.155.199.181:8080",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-28 01:18:35.269483",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-22 22:49:01.884296",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "103.155.199.181",
+            "country_iso": "ID",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 26.12,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-08",
+            "last_seen": "2026-01-22"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 77451,
+        "ip": "163.223.172.29",
+        "port": 1080,
+        "endpoint": "163.223.172.29:1080",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-12 18:10:07.067673",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-22 22:57:01.663310",
+            "uptime_pct": 22.22,
+            "avg_latency_ms": 484
+        },
+        "geo": {
+            "exit_ip": "163.223.172.29",
+            "country_iso": "ID",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 24.3872,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-08",
+            "last_seen": "2026-01-22"
+        },
+        "anonymity_level": null
+    },
+    {
+        "proxy_id": 78822,
+        "ip": "103.229.14.114",
+        "port": 8080,
+        "endpoint": "103.229.14.114:8080",
         "protocol": "http_absolute",
         "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2025-12-20 13:20:05.598644",
+            "last_check": "2025-12-13 20:10:03.062076",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-22 22:50:03.063141",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "103.229.14.114",
+            "country_iso": "ID",
+            "asn": 150196,
+            "org": "PT Arthaloka Reka Teknologi"
+        },
+        "performance": {
+            "score": 26.72,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-08",
+            "last_seen": "2026-01-22"
+        },
+        "anonymity_level": null
+    },
+    {
+        "proxy_id": 79746,
+        "ip": "103.227.187.13",
+        "port": 6080,
+        "endpoint": "103.227.187.13:6080",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-28 02:43:11.849716",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-22 22:48:02.607294",
+            "uptime_pct": 7.14,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "103.227.187.13",
+            "country_iso": "ID",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 29.2984,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-08",
+            "last_seen": "2026-01-22"
+        },
+        "anonymity_level": null
+    },
+    {
+        "proxy_id": 80704,
+        "ip": "8.215.12.103",
+        "port": 8011,
+        "endpoint": "8.215.12.103:8011",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-17 05:40:05.137896",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "up",
-            "last_up": "2026-01-22 18:49:01.533297",
-            "uptime_pct": 11.11,
-            "avg_latency_ms": 1624
-        },
-        "geo": {
-            "exit_ip": "103.193.144.223",
-            "country_iso": "ID",
-            "asn": 58821,
-            "org": "PT Lintas Jaringan Nusantara"
-        },
-        "performance": {
-            "score": 6.66667,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-12-21",
-            "last_seen": "2026-01-22"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 568974,
-        "ip": "157.66.138.79",
-        "port": 1080,
-        "endpoint": "157.66.138.79:1080",
-        "protocol": "http_connect",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-12-14 04:50:03.206675",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2026-01-22 18:35:01.768038",
-            "uptime_pct": 0,
-            "avg_latency_ms": 0
-        },
-        "geo": {
-            "exit_ip": "157.66.138.79",
-            "country_iso": "ID",
-            "asn": 141662,
-            "org": "PT Neo Fiber Teknologi"
-        },
-        "performance": {
-            "score": 35,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-12-14",
-            "last_seen": "2026-01-22"
-        },
-        "anonymity_level": "transparent"
-    },
-    {
-        "proxy_id": 569074,
-        "ip": "103.163.13.126",
-        "port": 3128,
-        "endpoint": "103.163.13.126:3128",
-        "protocol": "http_connect",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-12-24 14:05:02.250901",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2026-01-22 18:45:03.109484",
-            "uptime_pct": 18.18,
-            "avg_latency_ms": 0
-        },
-        "geo": {
-            "exit_ip": "103.163.13.126",
-            "country_iso": "ID",
-            "asn": 141889,
-            "org": "PT Solusi Media Telekomunikasi"
-        },
-        "performance": {
-            "score": 45.9091,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-12-24",
-            "last_seen": "2026-01-22"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 569128,
-        "ip": "103.175.240.87",
-        "port": 8090,
-        "endpoint": "103.175.240.87:8090",
-        "protocol": "http_connect",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-12-13 13:40:03.985744",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "up",
-            "last_up": "2026-01-22 18:47:01.852969",
-            "uptime_pct": 27.27,
-            "avg_latency_ms": 1158
-        },
-        "geo": {
-            "exit_ip": "103.175.240.87",
-            "country_iso": "ID",
-            "asn": 45305,
-            "org": "Lintas Data Prima, PT"
-        },
-        "performance": {
-            "score": 16.9192,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-12-13",
-            "last_seen": "2026-01-22"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 569446,
-        "ip": "182.253.38.179",
-        "port": 3128,
-        "endpoint": "182.253.38.179:3128",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-12-29 19:35:20.848443",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2026-01-22 18:40:02.164172",
-            "uptime_pct": 0,
-            "avg_latency_ms": 0
-        },
-        "geo": {
-            "exit_ip": "182.253.38.179",
-            "country_iso": "ID",
-            "asn": 17451,
-            "org": "BIZNET NETWORKS"
-        },
-        "performance": {
-            "score": 35,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-12-29",
-            "last_seen": "2026-01-22"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 570428,
-        "ip": "103.36.10.27",
-        "port": 1080,
-        "endpoint": "103.36.10.27:1080",
-        "protocol": "http_connect",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-12-13 01:20:03.177294",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2026-01-22 18:44:01.290393",
+            "last_up": "2026-01-22 22:56:02.577154",
             "uptime_pct": 20,
-            "avg_latency_ms": 541
+            "avg_latency_ms": 1210
         },
         "geo": {
-            "exit_ip": "103.36.10.27",
-            "country_iso": "ID",
-            "asn": 133360,
-            "org": "PT Awinet Global Mandiri"
-        },
-        "performance": {
-            "score": 28.6206,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-12-13",
-            "last_seen": "2026-01-22"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 573304,
-        "ip": "157.15.41.198",
-        "port": 8082,
-        "endpoint": "157.15.41.198:8082",
-        "protocol": "http_connect",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-12-13 15:25:01.571185",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2026-01-22 18:44:01.374269",
-            "uptime_pct": 0,
-            "avg_latency_ms": 0
-        },
-        "geo": {
-            "exit_ip": "157.15.41.198",
-            "country_iso": "ID",
-            "asn": 139952,
-            "org": "PT Trisari Data Indonusa"
-        },
-        "performance": {
-            "score": 35.5556,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-12-13",
-            "last_seen": "2026-01-22"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 573690,
-        "ip": "203.111.253.106",
-        "port": 8080,
-        "endpoint": "203.111.253.106:8080",
-        "protocol": "http_connect",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-11-29 07:54:02.828161",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "up",
-            "last_up": "2026-01-22 18:44:02.039710",
-            "uptime_pct": 11.11,
-            "avg_latency_ms": 2031
-        },
-        "geo": {
-            "exit_ip": "203.111.253.106",
+            "exit_ip": "8.215.12.103",
             "country_iso": "ID",
             "asn": 0,
             "org": "Unknown"
         },
         "performance": {
-            "score": 6.66667,
+            "score": 15.6533,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-11-29",
+            "first_seen": "2025-11-08",
             "last_seen": "2026-01-22"
         },
-        "anonymity_level": "unknown"
+        "anonymity_level": null
     },
     {
-        "proxy_id": 574095,
-        "ip": "103.156.17.111",
-        "port": 8080,
-        "endpoint": "103.156.17.111:8080",
-        "protocol": "http_absolute",
+        "proxy_id": 106247,
+        "ip": "16.78.93.162",
+        "port": 9025,
+        "endpoint": "16.78.93.162:9025",
+        "protocol": "http_connect",
         "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2025-12-20 21:40:02.754589",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2026-01-22 18:39:02.569912",
-            "uptime_pct": 14.29,
-            "avg_latency_ms": 101
-        },
-        "geo": {
-            "exit_ip": "103.156.17.111",
-            "country_iso": "ID",
-            "asn": 141077,
-            "org": "RSTNET"
-        },
-        "performance": {
-            "score": 40.046,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-12-21",
-            "last_seen": "2026-01-22"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 574112,
-        "ip": "103.144.209.104",
-        "port": 8715,
-        "endpoint": "103.144.209.104:8715",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-12-13 14:15:02.902434",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2026-01-22 18:47:01.601607",
-            "uptime_pct": 0,
-            "avg_latency_ms": 0
-        },
-        "geo": {
-            "exit_ip": "103.144.209.104",
-            "country_iso": "ID",
-            "asn": 9341,
-            "org": "PT INDONESIA COMNETS PLUS"
-        },
-        "performance": {
-            "score": 35,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-12-13",
-            "last_seen": "2026-01-22"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 575530,
-        "ip": "103.247.23.239",
-        "port": 8080,
-        "endpoint": "103.247.23.239:8080",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-12-20 16:45:07.172816",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2026-01-22 18:36:02.828839",
-            "uptime_pct": 0,
-            "avg_latency_ms": 0
-        },
-        "geo": {
-            "exit_ip": "103.247.23.239",
-            "country_iso": "ID",
-            "asn": 58485,
-            "org": "WIFIAN"
-        },
-        "performance": {
-            "score": 35,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-12-21",
-            "last_seen": "2026-01-22"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 580287,
-        "ip": "103.203.234.20",
-        "port": 7777,
-        "endpoint": "103.203.234.20:7777",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-12-13 05:15:02.431720",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2026-01-22 18:46:01.878388",
-            "uptime_pct": 0,
-            "avg_latency_ms": 0
-        },
-        "geo": {
-            "exit_ip": "103.203.234.20",
-            "country_iso": "ID",
-            "asn": 151006,
-            "org": "PT Nesta Indo Media"
-        },
-        "performance": {
-            "score": 35,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-12-13",
-            "last_seen": "2026-01-22"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 580861,
-        "ip": "203.210.85.215",
-        "port": 3128,
-        "endpoint": "203.210.85.215:3128",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-12-28 14:50:16.255388",
+            "last_check": "2025-12-17 13:15:04.913012",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "up",
-            "last_up": "2026-01-22 18:40:01.426791",
-            "uptime_pct": 16.67,
-            "avg_latency_ms": 779
+            "last_up": "2026-01-22 22:55:01.452239",
+            "uptime_pct": 25,
+            "avg_latency_ms": 4646
         },
         "geo": {
-            "exit_ip": "203.210.85.215",
+            "exit_ip": "16.78.93.162",
             "country_iso": "ID",
-            "asn": 55699,
-            "org": "PT. Cemerlang Multimedia"
+            "asn": 0,
+            "org": "Unknown"
         },
         "performance": {
-            "score": 17.7408,
+            "score": 20.1717,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-12-28",
-            "last_seen": "2026-01-22"
+            "first_seen": "2025-11-08",
+            "last_seen": "2025-12-27"
         },
         "anonymity_level": "unknown"
     },
     {
-        "proxy_id": 584207,
-        "ip": "103.156.118.104",
+        "proxy_id": 107094,
+        "ip": "103.80.88.75",
         "port": 8080,
-        "endpoint": "103.156.118.104:8080",
-        "protocol": "http_connect",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-12-22 16:05:02.351059",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "up",
-            "last_up": "2026-01-22 18:40:02.488027",
-            "uptime_pct": 12.5,
-            "avg_latency_ms": 670
-        },
-        "geo": {
-            "exit_ip": "103.156.118.104",
-            "country_iso": "ID",
-            "asn": 63859,
-            "org": "PT. Eka Mas Republik"
-        },
-        "performance": {
-            "score": 19.8983,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-12-22",
-            "last_seen": "2026-01-22"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 585715,
-        "ip": "103.156.16.227",
-        "port": 8080,
-        "endpoint": "103.156.16.227:8080",
+        "endpoint": "103.80.88.75:8080",
         "protocol": "http_absolute",
         "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2026-01-17 08:01:01.883731",
+            "last_check": "2025-12-22 06:00:06.994042",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-01-22 18:45:02.697566",
-            "uptime_pct": 0,
-            "avg_latency_ms": 0
-        },
-        "geo": {
-            "exit_ip": "103.156.16.227",
-            "country_iso": "ID",
-            "asn": 141077,
-            "org": "RSTNET"
-        },
-        "performance": {
-            "score": 35,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2026-01-17",
-            "last_seen": "2026-01-22"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 587296,
-        "ip": "103.189.254.28",
-        "port": 2222,
-        "endpoint": "103.189.254.28:2222",
-        "protocol": "http_connect",
-        "lifecycle_status": "active_low",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-11-29 13:25:11.410400",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2026-01-22 18:42:01.938666",
-            "uptime_pct": 14.29,
-            "avg_latency_ms": 512
-        },
-        "geo": {
-            "exit_ip": "103.189.254.28",
-            "country_iso": "ID",
-            "asn": 149915,
-            "org": "PT Lintas Daya Nusantara"
-        },
-        "performance": {
-            "score": 26.4804,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-11-30",
-            "last_seen": "2026-01-22"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 587373,
-        "ip": "103.156.14.227",
-        "port": 8080,
-        "endpoint": "103.156.14.227:8080",
-        "protocol": "http_connect",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-11-29 13:27:11.493315",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2026-01-22 18:37:01.800961",
+            "last_up": "2026-01-22 22:57:01.840950",
             "uptime_pct": 10,
-            "avg_latency_ms": 637
-        },
-        "geo": {
-            "exit_ip": "103.156.14.227",
-            "country_iso": "ID",
-            "asn": 58821,
-            "org": "PT Lintas Jaringan Nusantara"
-        },
-        "performance": {
-            "score": 18.69,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-11-30",
-            "last_seen": "2026-01-22"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 587395,
-        "ip": "103.247.23.28",
-        "port": 9223,
-        "endpoint": "103.247.23.28:9223",
-        "protocol": "http_connect",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2026-01-21 05:05:02.172603",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "up",
-            "last_up": "2026-01-22 18:43:01.565282",
-            "uptime_pct": 14.29,
-            "avg_latency_ms": 454
-        },
-        "geo": {
-            "exit_ip": "103.247.23.31",
-            "country_iso": "ID",
-            "asn": 58485,
-            "org": "WIFIAN"
-        },
-        "performance": {
-            "score": 27.6659,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2026-01-21",
-            "last_seen": "2026-01-22"
-        },
-        "anonymity_level": null
-    },
-    {
-        "proxy_id": 587447,
-        "ip": "103.247.240.12",
-        "port": 7777,
-        "endpoint": "103.247.240.12:7777",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_low",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-11-29 13:28:43.448849",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2026-01-22 18:38:01.782798",
-            "uptime_pct": 9.09,
-            "avg_latency_ms": 415
-        },
-        "geo": {
-            "exit_ip": "103.247.240.12",
-            "country_iso": "ID",
-            "asn": 151560,
-            "org": "PT Media Kerinci Network"
-        },
-        "performance": {
-            "score": 25.9208,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-11-30",
-            "last_seen": "2026-01-22"
-        },
-        "anonymity_level": "transparent"
-    },
-    {
-        "proxy_id": 587451,
-        "ip": "103.247.82.6",
-        "port": 8081,
-        "endpoint": "103.247.82.6:8081",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-11-29 13:28:51.338406",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2026-01-22 18:51:01.739920",
-            "uptime_pct": 0,
             "avg_latency_ms": 0
         },
         "geo": {
-            "exit_ip": "103.247.82.6",
-            "country_iso": "ID",
-            "asn": 151579,
-            "org": "PT Multimedia Data Sentra"
-        },
-        "performance": {
-            "score": 35,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-11-30",
-            "last_seen": "2026-01-22"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 601676,
-        "ip": "203.153.121.131",
-        "port": 8080,
-        "endpoint": "203.153.121.131:8080",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-12-14 16:15:01.680249",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2026-01-22 18:44:01.735034",
-            "uptime_pct": 0,
-            "avg_latency_ms": 0
-        },
-        "geo": {
-            "exit_ip": "203.128.71.90",
-            "country_iso": "ID",
-            "asn": 18103,
-            "org": "Neuviz Net"
-        },
-        "performance": {
-            "score": 35,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-12-14",
-            "last_seen": "2026-01-22"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 603083,
-        "ip": "149.129.226.9",
-        "port": 2020,
-        "endpoint": "149.129.226.9:2020",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-12-11 09:25:02.220604",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "up",
-            "last_up": "2026-01-22 18:41:01.265202",
-            "uptime_pct": 100,
-            "avg_latency_ms": 2570
-        },
-        "geo": {
-            "exit_ip": "149.129.226.9",
-            "country_iso": "ID",
-            "asn": 0,
-            "org": "Unknown"
-        },
-        "performance": {
-            "score": 60.8333,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-12-12",
-            "last_seen": "2026-01-22"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 603863,
-        "ip": "103.238.232.126",
-        "port": 8080,
-        "endpoint": "103.238.232.126:8080",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2026-01-18 18:34:02.154868",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2026-01-22 18:54:02.203216",
-            "uptime_pct": 8.33,
-            "avg_latency_ms": 0
-        },
-        "geo": {
-            "exit_ip": "103.238.232.126",
-            "country_iso": "ID",
-            "asn": 151540,
-            "org": "PT Digital Netcom Solution"
-        },
-        "performance": {
-            "score": 40,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2026-01-18",
-            "last_seen": "2026-01-22"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 603896,
-        "ip": "103.190.60.27",
-        "port": 9090,
-        "endpoint": "103.190.60.27:9090",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2026-01-16 19:10:04.314600",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2026-01-22 18:59:01.473765",
-            "uptime_pct": 11.11,
-            "avg_latency_ms": 660
-        },
-        "geo": {
-            "exit_ip": "103.190.60.6",
-            "country_iso": "ID",
-            "asn": 149901,
-            "org": "PT Garuda Super Link"
-        },
-        "performance": {
-            "score": 19.3922,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2026-01-16",
-            "last_seen": "2026-01-22"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 603900,
-        "ip": "103.76.109.107",
-        "port": 1081,
-        "endpoint": "103.76.109.107:1081",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2026-01-18 13:54:03.634324",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2026-01-22 19:01:01.344386",
-            "uptime_pct": 16.67,
-            "avg_latency_ms": 0
-        },
-        "geo": {
-            "exit_ip": "103.76.109.107",
-            "country_iso": "ID",
-            "asn": 151576,
-            "org": "PT Mahawira Nusantara Grup"
-        },
-        "performance": {
-            "score": 45,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2026-01-18",
-            "last_seen": "2026-01-22"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 604005,
-        "ip": "202.137.8.151",
-        "port": 8080,
-        "endpoint": "202.137.8.151:8080",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2026-01-20 04:34:02.450640",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2026-01-22 18:53:01.355604",
-            "uptime_pct": 0,
-            "avg_latency_ms": 0
-        },
-        "geo": {
-            "exit_ip": "202.137.8.151",
-            "country_iso": "ID",
-            "asn": 9905,
-            "org": "Linknet ASN"
-        },
-        "performance": {
-            "score": 35,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2026-01-20",
-            "last_seen": "2026-01-22"
-        },
-        "anonymity_level": null
-    },
-    {
-        "proxy_id": 604013,
-        "ip": "202.145.5.184",
-        "port": 8080,
-        "endpoint": "202.145.5.184:8080",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-12-21 05:00:04.288052",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "up",
-            "last_up": "2026-01-22 18:51:01.661188",
-            "uptime_pct": 15.38,
-            "avg_latency_ms": 137
-        },
-        "geo": {
-            "exit_ip": "202.145.5.184",
+            "exit_ip": "103.80.88.74",
             "country_iso": "ID",
             "asn": 55685,
             "org": "PT Jala Lintas Media"
         },
         "performance": {
-            "score": 39.4299,
+            "score": 41,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-12-21",
+            "first_seen": "2025-11-08",
             "last_seen": "2026-01-22"
         },
         "anonymity_level": "unknown"
     },
     {
-        "proxy_id": 610384,
-        "ip": "103.157.79.82",
-        "port": 1111,
-        "endpoint": "103.157.79.82:1111",
-        "protocol": "http_connect",
+        "proxy_id": 411047,
+        "ip": "16.78.93.162",
+        "port": 28635,
+        "endpoint": "16.78.93.162:28635",
+        "protocol": "http_absolute",
         "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2025-12-18 01:35:02.477062",
+            "last_check": "2025-12-12 19:35:18.645098",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
-            "status": "down",
-            "last_up": "2026-01-22 18:35:02.135443",
+            "status": "up",
+            "last_up": "2026-01-22 22:55:02.009334",
             "uptime_pct": 25,
-            "avg_latency_ms": 0
+            "avg_latency_ms": 5575
         },
         "geo": {
-            "exit_ip": "103.157.79.82",
+            "exit_ip": "16.78.93.162",
             "country_iso": "ID",
-            "asn": 141114,
-            "org": "PT Super Media Indonesia"
+            "asn": 0,
+            "org": "Unknown"
         },
         "performance": {
-            "score": 50,
+            "score": 13.28,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-12-18",
+            "first_seen": "2025-11-08",
             "last_seen": "2026-01-22"
         },
         "anonymity_level": "unknown"
@@ -1010,146 +310,6 @@
         },
         "seen": {
             "first_seen": "2025-12-15",
-            "last_seen": "2026-01-22"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 611646,
-        "ip": "149.129.255.179",
-        "port": 1081,
-        "endpoint": "149.129.255.179:1081",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-12-15 03:25:02.224467",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "up",
-            "last_up": "2026-01-22 18:44:01.966273",
-            "uptime_pct": 100,
-            "avg_latency_ms": 2669
-        },
-        "geo": {
-            "exit_ip": "149.129.255.179",
-            "country_iso": "ID",
-            "asn": 0,
-            "org": "Unknown"
-        },
-        "performance": {
-            "score": 61,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-12-15",
-            "last_seen": "2026-01-22"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 612101,
-        "ip": "115.178.53.114",
-        "port": 8080,
-        "endpoint": "115.178.53.114:8080",
-        "protocol": "http_connect",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-12-18 08:45:03.368076",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2026-01-22 19:02:02.002405",
-            "uptime_pct": 8.33,
-            "avg_latency_ms": 0
-        },
-        "geo": {
-            "exit_ip": "115.178.53.114",
-            "country_iso": "ID",
-            "asn": 131717,
-            "org": "PT Citra Jelajah Informatika"
-        },
-        "performance": {
-            "score": 40,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-12-18",
-            "last_seen": "2026-01-22"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 620031,
-        "ip": "103.137.83.120",
-        "port": 8080,
-        "endpoint": "103.137.83.120:8080",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-12-11 12:50:03.123402",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2026-01-22 18:59:01.528060",
-            "uptime_pct": 8.33,
-            "avg_latency_ms": 0
-        },
-        "geo": {
-            "exit_ip": "103.137.83.120",
-            "country_iso": "ID",
-            "asn": 138828,
-            "org": "PT TELIO INTI NUSA"
-        },
-        "performance": {
-            "score": 40.5556,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-12-13",
-            "last_seen": "2026-01-22"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 622893,
-        "ip": "103.159.195.247",
-        "port": 8080,
-        "endpoint": "103.159.195.247:8080",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-12-25 18:55:01.836658",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2026-01-22 19:02:02.017860",
-            "uptime_pct": 13.33,
-            "avg_latency_ms": 618
-        },
-        "geo": {
-            "exit_ip": "103.159.195.247",
-            "country_iso": "ID",
-            "asn": 141145,
-            "org": "PT Giga Digital Nusantara"
-        },
-        "performance": {
-            "score": 21.3595,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-12-25",
             "last_seen": "2026-01-22"
         },
         "anonymity_level": "unknown"
@@ -1505,6 +665,41 @@
         "anonymity_level": null
     },
     {
+        "proxy_id": 773971,
+        "ip": "202.51.214.81",
+        "port": 8080,
+        "endpoint": "202.51.214.81:8080",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-26 01:25:13.834474",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-22 21:28:02.383651",
+            "uptime_pct": 4.76,
+            "avg_latency_ms": 363
+        },
+        "geo": {
+            "exit_ip": "202.51.214.38",
+            "country_iso": "ID",
+            "asn": 10220,
+            "org": "PT. Kreasi Sejahtera Teknologi"
+        },
+        "performance": {
+            "score": 25.1541,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-12-26",
+            "last_seen": "2026-01-22"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
         "proxy_id": 806606,
         "ip": "36.88.148.142",
         "port": 8080,
@@ -1530,7 +725,7 @@
             "org": "PT Telekomunikasi Indonesia"
         },
         "performance": {
-            "score": 35.625,
+            "score": 35,
             "status": "inactive"
         },
         "seen": {
@@ -1705,7 +900,7 @@
             "org": "PT Trinity Teknologi Nusantara"
         },
         "performance": {
-            "score": 41.0101,
+            "score": 41.0795,
             "status": "inactive"
         },
         "seen": {
@@ -1775,7 +970,7 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 8.95604,
+            "score": 8.57143,
             "status": "inactive"
         },
         "seen": {
@@ -1869,7 +1064,7 @@
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-01-22 22:14:01.737498",
+            "last_up": "2026-01-22 22:45:01.773972",
             "uptime_pct": 0,
             "avg_latency_ms": 0
         },
@@ -1974,7 +1169,7 @@
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-01-22 22:22:02.038966",
+            "last_up": "2026-01-22 22:57:01.970590",
             "uptime_pct": 0,
             "avg_latency_ms": 0
         },
@@ -2044,7 +1239,7 @@
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-01-22 22:17:01.799271",
+            "last_up": "2026-01-22 22:33:02.019391",
             "uptime_pct": 45.45,
             "avg_latency_ms": 2943
         },
@@ -2359,7 +1554,7 @@
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-01-22 22:26:01.635866",
+            "last_up": "2026-01-22 22:59:02.282245",
             "uptime_pct": 25,
             "avg_latency_ms": 5500
         },
@@ -2429,7 +1624,7 @@
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-01-22 18:46:01.928371",
+            "last_up": "2026-01-22 22:55:01.474559",
             "uptime_pct": 0,
             "avg_latency_ms": 5921
         },
@@ -2441,41 +1636,6 @@
         },
         "performance": {
             "score": 0,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-12-29",
-            "last_seen": "2025-12-29"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 955948,
-        "ip": "16.78.93.162",
-        "port": 9056,
-        "endpoint": "16.78.93.162:9056",
-        "protocol": "http_connect",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-12-29 06:50:13.031737",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2026-01-22 18:38:02.090030",
-            "uptime_pct": 42.86,
-            "avg_latency_ms": 4150
-        },
-        "geo": {
-            "exit_ip": "16.78.93.162",
-            "country_iso": "ID",
-            "asn": 0,
-            "org": "Unknown"
-        },
-        "performance": {
-            "score": 25.7143,
             "status": "inactive"
         },
         "seen": {
@@ -2568,10 +1728,10 @@
             "error": null
         },
         "uptime": {
-            "status": "down",
-            "last_up": "2026-01-22 20:51:01.886549",
-            "uptime_pct": 50,
-            "avg_latency_ms": 1311
+            "status": "up",
+            "last_up": "2026-01-22 22:46:01.591013",
+            "uptime_pct": 57.14,
+            "avg_latency_ms": 1525
         },
         "geo": {
             "exit_ip": "8.215.3.250",
@@ -2580,7 +1740,7 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 32.5,
+            "score": 36.7857,
             "status": "inactive"
         },
         "seen": {
@@ -2796,6 +1956,41 @@
         "seen": {
             "first_seen": "2025-12-30",
             "last_seen": "2026-01-22"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 1054873,
+        "ip": "16.78.104.244",
+        "port": 9440,
+        "endpoint": "16.78.104.244:9440",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-29 15:05:18.447652",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-22 22:58:01.780490",
+            "uptime_pct": 0,
+            "avg_latency_ms": 3943
+        },
+        "geo": {
+            "exit_ip": "16.78.104.244",
+            "country_iso": "ID",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 0,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-12-29",
+            "last_seen": "2025-12-29"
         },
         "anonymity_level": "unknown"
     },
@@ -3105,7 +2300,7 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 62.2727,
+            "score": 62,
             "status": "inactive"
         },
         "seen": {
@@ -3129,8 +2324,8 @@
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-01-22 22:17:01.730087",
-            "uptime_pct": 8.33,
+            "last_up": "2026-01-22 22:48:02.506302",
+            "uptime_pct": 6.67,
             "avg_latency_ms": 0
         },
         "geo": {
@@ -3140,7 +2335,7 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 41,
+            "score": 40,
             "status": "inactive"
         },
         "seen": {
@@ -3181,6 +2376,41 @@
         "seen": {
             "first_seen": "2025-12-29",
             "last_seen": "2025-12-30"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 1090903,
+        "ip": "149.129.255.179",
+        "port": 82,
+        "endpoint": "149.129.255.179:82",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-01-15 18:02:04.449442",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2026-01-22 22:51:01.081950",
+            "uptime_pct": 40,
+            "avg_latency_ms": 1083
+        },
+        "geo": {
+            "exit_ip": "149.129.255.179",
+            "country_iso": "ID",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 25.3636,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-01-15",
+            "last_seen": "2026-01-22"
         },
         "anonymity_level": "unknown"
     },
@@ -3269,7 +2499,7 @@
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-01-22 22:19:01.501781",
+            "last_up": "2026-01-22 22:50:02.700660",
             "uptime_pct": 0,
             "avg_latency_ms": 0
         },
@@ -3290,6 +2520,41 @@
         "anonymity_level": "unknown"
     },
     {
+        "proxy_id": 1097167,
+        "ip": "16.78.108.50",
+        "port": 2936,
+        "endpoint": "16.78.108.50:2936",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-01-04 02:05:23.381424",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-22 22:52:02.344008",
+            "uptime_pct": 43.48,
+            "avg_latency_ms": 3190
+        },
+        "geo": {
+            "exit_ip": "16.78.108.50",
+            "country_iso": "ID",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 26.087,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-01-03",
+            "last_seen": "2026-01-04"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
         "proxy_id": 1101673,
         "ip": "16.78.41.33",
         "port": 8251,
@@ -3304,7 +2569,7 @@
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-01-22 22:24:02.378783",
+            "last_up": "2026-01-22 22:58:01.796276",
             "uptime_pct": 25,
             "avg_latency_ms": 2478
         },
@@ -3356,6 +2621,41 @@
         "seen": {
             "first_seen": "2026-01-03",
             "last_seen": "2026-01-04"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 1101949,
+        "ip": "16.78.41.33",
+        "port": 37666,
+        "endpoint": "16.78.41.33:37666",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-01-04 01:50:21.795493",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-22 22:52:01.977615",
+            "uptime_pct": 35.71,
+            "avg_latency_ms": 2916
+        },
+        "geo": {
+            "exit_ip": "16.78.41.33",
+            "country_iso": "ID",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 21.4286,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-01-04",
+            "last_seen": "2026-01-05"
         },
         "anonymity_level": "unknown"
     },
