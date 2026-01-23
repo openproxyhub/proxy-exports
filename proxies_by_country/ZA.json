@@ -1,141 +1,71 @@
 [
     {
-        "proxy_id": 101667,
-        "ip": "156.155.50.93",
-        "port": 8080,
-        "endpoint": "156.155.50.93:8080",
-        "protocol": "http_connect",
+        "proxy_id": 563806,
+        "ip": "196.223.129.21",
+        "port": 80,
+        "endpoint": "196.223.129.21:80",
+        "protocol": "http_absolute",
         "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2026-01-22 10:46:02.357419",
+            "last_check": "2025-12-12 23:50:04.097057",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
-            "status": "up",
-            "last_up": "2026-01-22 23:28:02.632181",
+            "status": "down",
+            "last_up": "2026-01-23 00:21:01.884399",
             "uptime_pct": 0,
             "avg_latency_ms": 0
         },
         "geo": {
-            "exit_ip": "156.155.50.93",
+            "exit_ip": "196.223.129.21",
             "country_iso": "ZA",
-            "asn": 37611,
-            "org": "AFRIHOST-SP"
+            "asn": 328471,
+            "org": "Hero-Telecoms"
+        },
+        "performance": {
+            "score": 35.8333,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-12-13",
+            "last_seen": "2026-01-23"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 587288,
+        "ip": "102.36.152.26",
+        "port": 8080,
+        "endpoint": "102.36.152.26:8080",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-23 21:20:02.544651",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-23 00:26:02.632222",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "102.36.152.26",
+            "country_iso": "ZA",
+            "asn": 328538,
+            "org": "OCTOP-SMART-SOLUTIONS-AS"
         },
         "performance": {
             "score": 35,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-11-08",
-            "last_seen": "2026-01-22"
-        },
-        "anonymity_level": null
-    },
-    {
-        "proxy_id": 764884,
-        "ip": "196.251.222.233",
-        "port": 8083,
-        "endpoint": "196.251.222.233:8083",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-12-02 09:18:21.827966",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2026-01-22 21:59:02.172715",
-            "uptime_pct": 8.7,
-            "avg_latency_ms": 260
-        },
-        "geo": {
-            "exit_ip": "196.251.222.233",
-            "country_iso": "ZA",
-            "asn": 0,
-            "org": "Unknown"
-        },
-        "performance": {
-            "score": 31.5827,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-12-02",
-            "last_seen": "2026-01-22"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 1048161,
-        "ip": "http://102.135.142.234",
-        "port": 12354,
-        "endpoint": "http://102.135.142.234:12354",
-        "protocol": "http_connect",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2026-01-03 16:25:13.067107",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "up",
-            "last_up": "2026-01-22 21:55:02.292528",
-            "uptime_pct": 11.11,
-            "avg_latency_ms": 315
-        },
-        "geo": {
-            "exit_ip": "102.135.142.234",
-            "country_iso": "ZA",
-            "asn": 0,
-            "org": "Unknown"
-        },
-        "performance": {
-            "score": 30.6446,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2026-01-03",
-            "last_seen": "2026-01-22"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 1128615,
-        "ip": "196.251.221.33",
-        "port": 8102,
-        "endpoint": "196.251.221.33:8102",
-        "protocol": "http_connect",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2026-01-15 07:35:01.895446",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2026-01-22 19:59:01.501463",
-            "uptime_pct": 9.09,
-            "avg_latency_ms": 264
-        },
-        "geo": {
-            "exit_ip": "196.251.223.54",
-            "country_iso": "ZA",
-            "asn": 37403,
-            "org": "INFOGRO"
-        },
-        "performance": {
-            "score": 31.6822,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2026-01-15",
-            "last_seen": "2026-01-22"
+            "first_seen": "2025-12-23",
+            "last_seen": "2026-01-23"
         },
         "anonymity_level": "unknown"
     }
