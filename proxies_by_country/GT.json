@@ -1,5 +1,40 @@
 [
     {
+        "proxy_id": 490365,
+        "ip": "148.230.23.2",
+        "port": 999,
+        "endpoint": "148.230.23.2:999",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-24 18:17:50.939255",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-23 06:29:02.819750",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "148.230.23.2",
+            "country_iso": "GT",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 51.8,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-24",
+            "last_seen": "2026-01-23"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
         "proxy_id": 508795,
         "ip": "138.117.231.133",
         "port": 999,
@@ -70,41 +105,6 @@
         "anonymity_level": "unknown"
     },
     {
-        "proxy_id": 584254,
-        "ip": "190.122.185.170",
-        "port": 999,
-        "endpoint": "190.122.185.170:999",
-        "protocol": "http_connect",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-12-24 18:45:11.276789",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2026-01-23 02:16:02.134162",
-            "uptime_pct": 0,
-            "avg_latency_ms": 0
-        },
-        "geo": {
-            "exit_ip": "143.208.59.2",
-            "country_iso": "GT",
-            "asn": 22869,
-            "org": "CABLECOLOR S.A."
-        },
-        "performance": {
-            "score": 35,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-12-24",
-            "last_seen": "2026-01-23"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
         "proxy_id": 603867,
         "ip": "143.208.57.162",
         "port": 999,
@@ -120,8 +120,8 @@
         "uptime": {
             "status": "down",
             "last_up": "2026-01-23 05:46:01.755114",
-            "uptime_pct": 6.25,
-            "avg_latency_ms": 337
+            "uptime_pct": 5.56,
+            "avg_latency_ms": 300
         },
         "geo": {
             "exit_ip": "143.208.57.162",
@@ -130,7 +130,7 @@
             "org": "CABLECOLOR S.A."
         },
         "performance": {
-            "score": 26.955,
+            "score": 27.8489,
             "status": "inactive"
         },
         "seen": {
