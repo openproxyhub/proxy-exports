@@ -546,8 +546,8 @@
         "geo": {
             "exit_ip": "163.53.204.178",
             "country_iso": "IN",
-            "asn": 58898,
-            "org": "Rainbow communications India Pvt Ltd"
+            "asn": 0,
+            "org": "Unknown"
         },
         "performance": {
             "score": 36.4286,
@@ -749,7 +749,7 @@
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-01-23 14:29:01.900847",
+            "last_up": "2026-01-23 14:35:01.641790",
             "uptime_pct": 0,
             "avg_latency_ms": 0
         },
@@ -784,7 +784,7 @@
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-01-23 14:29:01.828686",
+            "last_up": "2026-01-23 14:33:01.937248",
             "uptime_pct": 0,
             "avg_latency_ms": 0
         },
@@ -910,41 +910,6 @@
         "anonymity_level": "unknown"
     },
     {
-        "proxy_id": 911589,
-        "ip": "43.205.124.165",
-        "port": 26001,
-        "endpoint": "43.205.124.165:26001",
-        "protocol": "http_connect",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-12-05 16:06:54.715269",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "up",
-            "last_up": "2026-01-23 10:55:01.404827",
-            "uptime_pct": 62.5,
-            "avg_latency_ms": 2431
-        },
-        "geo": {
-            "exit_ip": "43.205.124.165",
-            "country_iso": "IN",
-            "asn": 0,
-            "org": "Unknown"
-        },
-        "performance": {
-            "score": 38.4375,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-12-08",
-            "last_seen": "2026-01-23"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
         "proxy_id": 931242,
         "ip": "40.192.27.104",
         "port": 52384,
@@ -1041,6 +1006,41 @@
         },
         "performance": {
             "score": 24,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-12-29",
+            "last_seen": "2025-12-29"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 947464,
+        "ip": "40.192.27.104",
+        "port": 31653,
+        "endpoint": "40.192.27.104:31653",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-29 04:05:13.299760",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-23 14:41:01.294785",
+            "uptime_pct": 22.22,
+            "avg_latency_ms": 4102
+        },
+        "geo": {
+            "exit_ip": "40.192.27.104",
+            "country_iso": "IN",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 13.3333,
             "status": "inactive"
         },
         "seen": {
