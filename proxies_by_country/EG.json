@@ -1,37 +1,107 @@
 [
     {
-        "proxy_id": 602542,
-        "ip": "41.65.160.172",
+        "proxy_id": 575373,
+        "ip": "41.65.67.165",
         "port": 1976,
-        "endpoint": "41.65.160.172:1976",
-        "protocol": "http_absolute",
+        "endpoint": "41.65.67.165:1976",
+        "protocol": "http_connect",
         "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2025-11-29 22:16:32.398935",
+            "last_check": "2025-12-24 17:05:01.919925",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-01-23 09:07:02.494595",
+            "last_up": "2026-01-23 13:56:02.690311",
+            "uptime_pct": 20,
+            "avg_latency_ms": 486
+        },
+        "geo": {
+            "exit_ip": "41.65.67.165",
+            "country_iso": "EG",
+            "asn": 36992,
+            "org": "Etisalat Misr"
+        },
+        "performance": {
+            "score": 29.983,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-12-24",
+            "last_seen": "2026-01-23"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 578708,
+        "ip": "41.65.55.27",
+        "port": 1981,
+        "endpoint": "41.65.55.27:1981",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-19 04:20:03.834370",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-23 13:50:02.512203",
+            "uptime_pct": 25,
+            "avg_latency_ms": 1224
+        },
+        "geo": {
+            "exit_ip": "41.65.55.27",
+            "country_iso": "EG",
+            "asn": 36992,
+            "org": "Etisalat Misr"
+        },
+        "performance": {
+            "score": 15,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-12-19",
+            "last_seen": "2026-01-23"
+        },
+        "anonymity_level": "transparent"
+    },
+    {
+        "proxy_id": 765177,
+        "ip": "197.164.101.14",
+        "port": 1976,
+        "endpoint": "197.164.101.14:1976",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-02 09:23:49.049592",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-23 13:45:02.556925",
             "uptime_pct": 0,
             "avg_latency_ms": 0
         },
         "geo": {
-            "exit_ip": "154.236.177.103",
+            "exit_ip": "197.164.101.14",
             "country_iso": "EG",
-            "asn": 0,
-            "org": "Unknown"
+            "asn": 24863,
+            "org": "LINKdotNET"
         },
         "performance": {
             "score": 35,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-11-30",
+            "first_seen": "2025-12-02",
             "last_seen": "2026-01-23"
         },
-        "anonymity_level": "elite"
+        "anonymity_level": "unknown"
     }
 ]
