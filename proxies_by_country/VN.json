@@ -1,5 +1,40 @@
 [
     {
+        "proxy_id": 67900,
+        "ip": "115.75.184.174",
+        "port": 8080,
+        "endpoint": "115.75.184.174:8080",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-16 19:05:02.969348",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2026-01-24 03:01:02.631225",
+            "uptime_pct": 25,
+            "avg_latency_ms": 1237
+        },
+        "geo": {
+            "exit_ip": "115.75.184.174",
+            "country_iso": "VN",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 46.1702,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-08",
+            "last_seen": "2026-01-24"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
         "proxy_id": 587359,
         "ip": "14.241.39.169",
         "port": 8080,
@@ -30,6 +65,41 @@
         },
         "seen": {
             "first_seen": "2025-11-30",
+            "last_seen": "2026-01-24"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 683575,
+        "ip": "14.241.231.13",
+        "port": 8080,
+        "endpoint": "14.241.231.13:8080",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-01-17 10:06:02.719910",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-24 03:16:01.803077",
+            "uptime_pct": 44.44,
+            "avg_latency_ms": 1873
+        },
+        "geo": {
+            "exit_ip": "14.241.231.13",
+            "country_iso": "VN",
+            "asn": 45899,
+            "org": "VNPT Corp"
+        },
+        "performance": {
+            "score": 26.6667,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-01-17",
             "last_seen": "2026-01-24"
         },
         "anonymity_level": "unknown"
