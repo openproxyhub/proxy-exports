@@ -1,5 +1,40 @@
 [
     {
+        "proxy_id": 2730,
+        "ip": "84.52.125.113",
+        "port": 8082,
+        "endpoint": "84.52.125.113:8082",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-13 04:25:02.540886",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-24 22:29:01.707847",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "84.52.125.113",
+            "country_iso": "RU",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 35,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-08",
+            "last_seen": "2026-01-24"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
         "proxy_id": 3077,
         "ip": "91.203.242.66",
         "port": 222,
@@ -350,41 +385,6 @@
         "anonymity_level": "elite"
     },
     {
-        "proxy_id": 543305,
-        "ip": "176.117.237.132",
-        "port": 1080,
-        "endpoint": "176.117.237.132:1080",
-        "protocol": "socks5",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-12-13 01:55:04.045222",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2026-01-24 18:25:02.890476",
-            "uptime_pct": 0,
-            "avg_latency_ms": 0
-        },
-        "geo": {
-            "exit_ip": "176.117.237.132",
-            "country_iso": "RU",
-            "asn": 51645,
-            "org": "JSC ER-Telecom Holding"
-        },
-        "performance": {
-            "score": 35,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-12-13",
-            "last_seen": "2026-01-24"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
         "proxy_id": 555841,
         "ip": "95.167.29.50",
         "port": 8080,
@@ -401,7 +401,7 @@
             "status": "up",
             "last_up": "2026-01-24 21:37:02.031570",
             "uptime_pct": 33.33,
-            "avg_latency_ms": 0
+            "avg_latency_ms": 1196
         },
         "geo": {
             "exit_ip": "95.167.29.50",
@@ -410,7 +410,7 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 55,
+            "score": 20,
             "status": "inactive"
         },
         "seen": {
@@ -546,8 +546,8 @@
         "geo": {
             "exit_ip": "213.226.122.5",
             "country_iso": "RU",
-            "asn": 44149,
-            "org": "Ubilink LLC"
+            "asn": 0,
+            "org": "Unknown"
         },
         "performance": {
             "score": 36.1111,
@@ -855,8 +855,8 @@
         "uptime": {
             "status": "down",
             "last_up": "2026-01-24 21:59:01.633555",
-            "uptime_pct": 42.86,
-            "avg_latency_ms": 840
+            "uptime_pct": 30,
+            "avg_latency_ms": 525
         },
         "geo": {
             "exit_ip": "185.103.134.4",
@@ -865,7 +865,7 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 31.3003,
+            "score": 34.6162,
             "status": "inactive"
         },
         "seen": {
@@ -905,6 +905,41 @@
         },
         "seen": {
             "first_seen": "2025-11-30",
+            "last_seen": "2026-01-24"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 878432,
+        "ip": "81.177.6.68",
+        "port": 3128,
+        "endpoint": "81.177.6.68:3128",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-04 10:54:18.866391",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-24 22:29:01.701287",
+            "uptime_pct": 3.85,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "81.177.6.68",
+            "country_iso": "RU",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 37.3077,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-12-04",
             "last_seen": "2026-01-24"
         },
         "anonymity_level": "unknown"
