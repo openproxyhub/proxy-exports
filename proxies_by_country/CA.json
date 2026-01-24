@@ -153,10 +153,10 @@
             "error": null
         },
         "uptime": {
-            "status": "up",
-            "last_up": "2026-01-24 19:51:01.924460",
-            "uptime_pct": 50,
-            "avg_latency_ms": 3388
+            "status": "down",
+            "last_up": "2026-01-24 20:39:02.524119",
+            "uptime_pct": 33.33,
+            "avg_latency_ms": 4030
         },
         "geo": {
             "exit_ip": "40.176.96.235",
@@ -165,7 +165,7 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 31.875,
+            "score": 21.875,
             "status": "inactive"
         },
         "seen": {
@@ -224,7 +224,7 @@
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-01-24 18:00:04.252204",
+            "last_up": "2026-01-24 20:38:02.128071",
             "uptime_pct": 0,
             "avg_latency_ms": 4064
         },
@@ -243,41 +243,6 @@
             "last_seen": "2026-01-24"
         },
         "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 527207,
-        "ip": "40.177.65.8",
-        "port": 80,
-        "endpoint": "40.177.65.8:80",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_low",
-        "proto": {
-            "status": "ok",
-            "last_check": "2026-01-21 07:01:01.904008",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "up",
-            "last_up": "2026-01-24 16:51:01.421009",
-            "uptime_pct": 100,
-            "avg_latency_ms": 443
-        },
-        "geo": {
-            "exit_ip": "40.177.65.8",
-            "country_iso": "CA",
-            "asn": 0,
-            "org": "Unknown"
-        },
-        "performance": {
-            "score": 80.0622,
-            "status": "active"
-        },
-        "seen": {
-            "first_seen": "2025-11-28",
-            "last_seen": "2026-01-24"
-        },
-        "anonymity_level": "elite"
     },
     {
         "proxy_id": 578609,
@@ -591,6 +556,76 @@
         "seen": {
             "first_seen": "2026-01-03",
             "last_seen": "2026-01-04"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 1101959,
+        "ip": "40.176.96.235",
+        "port": 55428,
+        "endpoint": "40.176.96.235:55428",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-01-04 23:15:11.140364",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-24 20:33:01.537321",
+            "uptime_pct": 0,
+            "avg_latency_ms": 3862
+        },
+        "geo": {
+            "exit_ip": "40.176.96.235",
+            "country_iso": "CA",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 0,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-01-04",
+            "last_seen": "2026-01-05"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 1124810,
+        "ip": "40.176.96.235",
+        "port": 19243,
+        "endpoint": "40.176.96.235:19243",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-01-12 06:00:22.174503",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2026-01-24 20:34:01.865603",
+            "uptime_pct": 50,
+            "avg_latency_ms": 4067
+        },
+        "geo": {
+            "exit_ip": "40.176.96.235",
+            "country_iso": "CA",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 31.6667,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-01-12",
+            "last_seen": "2026-01-13"
         },
         "anonymity_level": "unknown"
     },
