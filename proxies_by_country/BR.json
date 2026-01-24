@@ -1,5 +1,75 @@
 [
     {
+        "proxy_id": 78012,
+        "ip": "45.228.192.107",
+        "port": 3141,
+        "endpoint": "45.228.192.107:3141",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-12 21:20:24.318838",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-24 09:28:02.043761",
+            "uptime_pct": 14.29,
+            "avg_latency_ms": 5844
+        },
+        "geo": {
+            "exit_ip": "45.228.192.107",
+            "country_iso": "BR",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 6.38571,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-08",
+            "last_seen": "2026-01-24"
+        },
+        "anonymity_level": "transparent"
+    },
+    {
+        "proxy_id": 78235,
+        "ip": "201.62.125.142",
+        "port": 8080,
+        "endpoint": "201.62.125.142:8080",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-01-21 10:49:01.361045",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2026-01-24 09:18:02.544955",
+            "uptime_pct": 12.5,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "201.62.125.142",
+            "country_iso": "BR",
+            "asn": 28573,
+            "org": "Claro NXT Telecomunicacoes Ltda"
+        },
+        "performance": {
+            "score": 42.5,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-08",
+            "last_seen": "2026-01-24"
+        },
+        "anonymity_level": null
+    },
+    {
         "proxy_id": 509222,
         "ip": "177.68.149.122",
         "port": 8080,
@@ -120,7 +190,7 @@
         "uptime": {
             "status": "down",
             "last_up": "2026-01-24 08:48:02.005053",
-            "uptime_pct": 50,
+            "uptime_pct": 20,
             "avg_latency_ms": 0
         },
         "geo": {
@@ -130,7 +200,7 @@
             "org": "Ip Carrier"
         },
         "performance": {
-            "score": 65,
+            "score": 47,
             "status": "inactive"
         },
         "seen": {
@@ -330,8 +400,8 @@
         "uptime": {
             "status": "up",
             "last_up": "2026-01-24 08:51:01.569267",
-            "uptime_pct": 25,
-            "avg_latency_ms": 4648
+            "uptime_pct": 33.33,
+            "avg_latency_ms": 2553
         },
         "geo": {
             "exit_ip": "45.70.85.93",
@@ -340,7 +410,7 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 15,
+            "score": 20,
             "status": "inactive"
         },
         "seen": {
@@ -525,76 +595,6 @@
         "anonymity_level": "unknown"
     },
     {
-        "proxy_id": 582921,
-        "ip": "187.19.201.217",
-        "port": 8080,
-        "endpoint": "187.19.201.217:8080",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-12-24 14:35:02.344057",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "up",
-            "last_up": "2026-01-24 05:29:01.634065",
-            "uptime_pct": 100,
-            "avg_latency_ms": 2588
-        },
-        "geo": {
-            "exit_ip": "201.54.176.64",
-            "country_iso": "BR",
-            "asn": 0,
-            "org": "Unknown"
-        },
-        "performance": {
-            "score": 60,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-12-24",
-            "last_seen": "2026-01-24"
-        },
-        "anonymity_level": "transparent"
-    },
-    {
-        "proxy_id": 587315,
-        "ip": "187.21.165.127",
-        "port": 8080,
-        "endpoint": "187.21.165.127:8080",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-12-14 08:35:05.188130",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2026-01-24 05:29:01.396624",
-            "uptime_pct": 0,
-            "avg_latency_ms": 0
-        },
-        "geo": {
-            "exit_ip": "187.21.165.127",
-            "country_iso": "BR",
-            "asn": 28573,
-            "org": "Claro NXT Telecomunicacoes Ltda"
-        },
-        "performance": {
-            "score": 35,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-12-14",
-            "last_seen": "2026-01-24"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
         "proxy_id": 604154,
         "ip": "189.73.53.94",
         "port": 8080,
@@ -733,41 +733,6 @@
             "last_seen": "2026-01-24"
         },
         "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 825403,
-        "ip": "45.238.112.231",
-        "port": 56789,
-        "endpoint": "45.238.112.231:56789",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2026-01-22 12:36:02.412621",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2026-01-24 05:30:02.205614",
-            "uptime_pct": 0,
-            "avg_latency_ms": 0
-        },
-        "geo": {
-            "exit_ip": "45.238.112.228",
-            "country_iso": "BR",
-            "asn": 0,
-            "org": "Unknown"
-        },
-        "performance": {
-            "score": 35,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2026-01-22",
-            "last_seen": "2026-01-24"
-        },
-        "anonymity_level": null
     },
     {
         "proxy_id": 911657,
