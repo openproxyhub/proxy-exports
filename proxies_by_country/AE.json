@@ -175,41 +175,6 @@
         "anonymity_level": "unknown"
     },
     {
-        "proxy_id": 572972,
-        "ip": "47.91.110.148",
-        "port": 80,
-        "endpoint": "47.91.110.148:80",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-12-22 18:10:02.640820",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2026-01-25 18:21:02.032165",
-            "uptime_pct": 44.44,
-            "avg_latency_ms": 654
-        },
-        "geo": {
-            "exit_ip": "47.91.110.148",
-            "country_iso": "AE",
-            "asn": 0,
-            "org": "Unknown"
-        },
-        "performance": {
-            "score": 40.2052,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-12-22",
-            "last_seen": "2026-01-25"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
         "proxy_id": 573105,
         "ip": "47.91.121.127",
         "port": 1111,
@@ -261,7 +226,7 @@
             "status": "up",
             "last_up": "2026-01-25 19:09:01.927483",
             "uptime_pct": 40,
-            "avg_latency_ms": 916
+            "avg_latency_ms": 1308
         },
         "geo": {
             "exit_ip": "47.91.120.190",
@@ -270,7 +235,7 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 30.954,
+            "score": 28,
             "status": "inactive"
         },
         "seen": {
@@ -293,8 +258,8 @@
             "error": null
         },
         "uptime": {
-            "status": "up",
-            "last_up": "2026-01-25 19:45:02.528747",
+            "status": "down",
+            "last_up": "2026-01-25 22:29:02.112075",
             "uptime_pct": 33.33,
             "avg_latency_ms": 2294
         },
@@ -366,7 +331,7 @@
             "status": "up",
             "last_up": "2026-01-25 18:32:02.106154",
             "uptime_pct": 71.43,
-            "avg_latency_ms": 1628
+            "avg_latency_ms": 1517
         },
         "geo": {
             "exit_ip": "47.91.115.179",
@@ -490,6 +455,41 @@
         "anonymity_level": "unknown"
     },
     {
+        "proxy_id": 578348,
+        "ip": "47.91.121.127",
+        "port": 80,
+        "endpoint": "47.91.121.127:80",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-29 09:29:47.959382",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2026-01-25 22:08:02.527065",
+            "uptime_pct": 57.14,
+            "avg_latency_ms": 1142
+        },
+        "geo": {
+            "exit_ip": "47.91.121.127",
+            "country_iso": "AE",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 36.4286,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-29",
+            "last_seen": "2026-01-25"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
         "proxy_id": 584047,
         "ip": "47.91.109.17",
         "port": 123,
@@ -555,76 +555,6 @@
         },
         "seen": {
             "first_seen": "2025-11-29",
-            "last_seen": "2026-01-25"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 602806,
-        "ip": "47.91.109.17",
-        "port": 9200,
-        "endpoint": "47.91.109.17:9200",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2026-01-16 14:20:02.541453",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "up",
-            "last_up": "2026-01-25 18:19:02.166301",
-            "uptime_pct": 40,
-            "avg_latency_ms": 1002
-        },
-        "geo": {
-            "exit_ip": "47.91.109.17",
-            "country_iso": "AE",
-            "asn": 0,
-            "org": "Unknown"
-        },
-        "performance": {
-            "score": 25.6667,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2026-01-16",
-            "last_seen": "2026-01-25"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 603022,
-        "ip": "47.91.115.179",
-        "port": 1081,
-        "endpoint": "47.91.115.179:1081",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2026-01-19 11:01:03.234711",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "up",
-            "last_up": "2026-01-25 18:04:01.642421",
-            "uptime_pct": 37.5,
-            "avg_latency_ms": 1166
-        },
-        "geo": {
-            "exit_ip": "47.91.115.179",
-            "country_iso": "AE",
-            "asn": 0,
-            "org": "Unknown"
-        },
-        "performance": {
-            "score": 23.75,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2026-01-19",
             "last_seen": "2026-01-25"
         },
         "anonymity_level": "unknown"
@@ -716,7 +646,7 @@
             "status": "up",
             "last_up": "2026-01-25 19:45:01.975333",
             "uptime_pct": 44.44,
-            "avg_latency_ms": 1913
+            "avg_latency_ms": 1839
         },
         "geo": {
             "exit_ip": "47.91.115.179",
@@ -751,7 +681,7 @@
             "status": "up",
             "last_up": "2026-01-25 19:47:01.959825",
             "uptime_pct": 16.67,
-            "avg_latency_ms": 231
+            "avg_latency_ms": 289
         },
         "geo": {
             "exit_ip": "47.91.110.148",
@@ -760,81 +690,11 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 40.422,
+            "score": 38.4025,
             "status": "inactive"
         },
         "seen": {
             "first_seen": "2025-12-21",
-            "last_seen": "2026-01-25"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 611455,
-        "ip": "47.91.121.127",
-        "port": 9098,
-        "endpoint": "47.91.121.127:9098",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-12-14 21:00:04.623660",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "up",
-            "last_up": "2026-01-25 18:10:03.046678",
-            "uptime_pct": 55.56,
-            "avg_latency_ms": 2290
-        },
-        "geo": {
-            "exit_ip": "47.91.121.127",
-            "country_iso": "AE",
-            "asn": 0,
-            "org": "Unknown"
-        },
-        "performance": {
-            "score": 33.9583,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-12-14",
-            "last_seen": "2026-01-25"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 611641,
-        "ip": "47.91.110.148",
-        "port": 8888,
-        "endpoint": "47.91.110.148:8888",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-12-15 01:00:02.178939",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "up",
-            "last_up": "2026-01-25 18:11:01.860579",
-            "uptime_pct": 42.86,
-            "avg_latency_ms": 765
-        },
-        "geo": {
-            "exit_ip": "47.91.110.148",
-            "country_iso": "AE",
-            "asn": 0,
-            "org": "Unknown"
-        },
-        "performance": {
-            "score": 33.9335,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-12-15",
             "last_seen": "2026-01-25"
         },
         "anonymity_level": "unknown"
@@ -865,11 +725,46 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 35.3968,
+            "score": 34.8413,
             "status": "inactive"
         },
         "seen": {
             "first_seen": "2025-12-26",
+            "last_seen": "2026-01-25"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 838258,
+        "ip": "47.91.109.17",
+        "port": 5060,
+        "endpoint": "47.91.109.17:5060",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-01-14 22:11:02.120103",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2026-01-25 22:06:02.229532",
+            "uptime_pct": 57.14,
+            "avg_latency_ms": 2397
+        },
+        "geo": {
+            "exit_ip": "47.91.109.17",
+            "country_iso": "AE",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 35.3968,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-01-14",
             "last_seen": "2026-01-25"
         },
         "anonymity_level": "unknown"
@@ -889,9 +784,9 @@
         },
         "uptime": {
             "status": "up",
-            "last_up": "2026-01-25 21:20:02.894061",
-            "uptime_pct": 70,
-            "avg_latency_ms": 1738
+            "last_up": "2026-01-25 22:10:03.323259",
+            "uptime_pct": 72.73,
+            "avg_latency_ms": 1797
         },
         "geo": {
             "exit_ip": "47.91.109.17",
@@ -900,7 +795,7 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 44,
+            "score": 45.6364,
             "status": "inactive"
         },
         "seen": {
@@ -961,7 +856,7 @@
             "status": "up",
             "last_up": "2026-01-25 19:09:02.085071",
             "uptime_pct": 50,
-            "avg_latency_ms": 1827
+            "avg_latency_ms": 2285
         },
         "geo": {
             "exit_ip": "47.91.110.148",
@@ -1099,7 +994,7 @@
         },
         "uptime": {
             "status": "up",
-            "last_up": "2026-01-25 18:48:03.393128",
+            "last_up": "2026-01-25 22:11:01.855640",
             "uptime_pct": 100,
             "avg_latency_ms": 2384
         },
@@ -1190,6 +1085,41 @@
         "anonymity_level": "unknown"
     },
     {
+        "proxy_id": 838279,
+        "ip": "47.91.121.127",
+        "port": 20000,
+        "endpoint": "47.91.121.127:20000",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-01-17 01:59:01.762273",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2026-01-25 22:20:03.007500",
+            "uptime_pct": 50,
+            "avg_latency_ms": 2272
+        },
+        "geo": {
+            "exit_ip": "47.91.121.127",
+            "country_iso": "AE",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 31.6667,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-01-17",
+            "last_seen": "2026-01-25"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
         "proxy_id": 902286,
         "ip": "38.54.9.151",
         "port": 8081,
@@ -1220,41 +1150,6 @@
         },
         "seen": {
             "first_seen": "2025-12-04",
-            "last_seen": "2026-01-25"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 1052541,
-        "ip": "47.91.110.148",
-        "port": 69,
-        "endpoint": "47.91.110.148:69",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2026-01-18 03:54:02.185565",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "up",
-            "last_up": "2026-01-25 18:10:04.108111",
-            "uptime_pct": 83.33,
-            "avg_latency_ms": 1830
-        },
-        "geo": {
-            "exit_ip": "47.91.110.148",
-            "country_iso": "AE",
-            "asn": 0,
-            "org": "Unknown"
-        },
-        "performance": {
-            "score": 50.625,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2026-01-18",
             "last_seen": "2026-01-25"
         },
         "anonymity_level": "unknown"
@@ -1344,7 +1239,7 @@
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-01-25 21:55:01.849161",
+            "last_up": "2026-01-25 22:06:02.508014",
             "uptime_pct": 0,
             "avg_latency_ms": 0
         },
@@ -1414,7 +1309,7 @@
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-01-25 19:51:01.829223",
+            "last_up": "2026-01-25 22:25:02.581797",
             "uptime_pct": 0,
             "avg_latency_ms": 0
         },
