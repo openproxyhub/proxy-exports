@@ -25,7 +25,7 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 35.2162,
+            "score": 34.74,
             "status": "inactive"
         },
         "seen": {
@@ -51,7 +51,7 @@
             "status": "up",
             "last_up": "2026-01-25 17:25:04.411934",
             "uptime_pct": 50,
-            "avg_latency_ms": 1262
+            "avg_latency_ms": 843
         },
         "geo": {
             "exit_ip": "8.212.165.164",
@@ -60,7 +60,7 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 24.195,
+            "score": 28.0415,
             "status": "inactive"
         },
         "seen": {
@@ -175,6 +175,41 @@
         "anonymity_level": null
     },
     {
+        "proxy_id": 509066,
+        "ip": "143.44.191.233",
+        "port": 6789,
+        "endpoint": "143.44.191.233:6789",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-12 11:15:03.954781",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-25 18:26:04.364199",
+            "uptime_pct": 12.5,
+            "avg_latency_ms": 440
+        },
+        "geo": {
+            "exit_ip": "143.44.191.233",
+            "country_iso": "PH",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 27.1175,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-12-12",
+            "last_seen": "2026-01-25"
+        },
+        "anonymity_level": "transparent"
+    },
+    {
         "proxy_id": 509616,
         "ip": "8.212.165.164",
         "port": 1000,
@@ -225,8 +260,8 @@
         "uptime": {
             "status": "up",
             "last_up": "2026-01-25 17:52:02.222002",
-            "uptime_pct": 66.67,
-            "avg_latency_ms": 1280
+            "uptime_pct": 60,
+            "avg_latency_ms": 1596
         },
         "geo": {
             "exit_ip": "8.220.141.8",
@@ -235,7 +270,7 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 41.4286,
+            "score": 37.4286,
             "status": "inactive"
         },
         "seen": {
@@ -261,7 +296,7 @@
             "status": "up",
             "last_up": "2026-01-25 17:21:01.958214",
             "uptime_pct": 21.43,
-            "avg_latency_ms": 505
+            "avg_latency_ms": 721
         },
         "geo": {
             "exit_ip": "8.220.141.8",
@@ -270,11 +305,81 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 30.8141,
+            "score": 23.2421,
             "status": "inactive"
         },
         "seen": {
             "first_seen": "2025-12-12",
+            "last_seen": "2026-01-25"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 569221,
+        "ip": "161.49.210.196",
+        "port": 10101,
+        "endpoint": "161.49.210.196:10101",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-14 02:45:03.357591",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-25 18:12:03.420478",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "161.49.210.196",
+            "country_iso": "PH",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 35,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-12-14",
+            "last_seen": "2026-01-25"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 569425,
+        "ip": "120.28.214.157",
+        "port": 8080,
+        "endpoint": "120.28.214.157:8080",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-01-16 07:21:01.619423",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-25 18:09:02.030667",
+            "uptime_pct": 28.57,
+            "avg_latency_ms": 754
+        },
+        "geo": {
+            "exit_ip": "120.28.214.157",
+            "country_iso": "PH",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 26.5712,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-01-16",
             "last_seen": "2026-01-25"
         },
         "anonymity_level": "unknown"
@@ -310,41 +415,6 @@
         },
         "seen": {
             "first_seen": "2025-12-28",
-            "last_seen": "2026-01-25"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 569577,
-        "ip": "202.175.221.171",
-        "port": 8080,
-        "endpoint": "202.175.221.171:8080",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-11-29 06:35:44.405828",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2026-01-25 14:12:02.248065",
-            "uptime_pct": 0,
-            "avg_latency_ms": 0
-        },
-        "geo": {
-            "exit_ip": "202.175.221.171",
-            "country_iso": "PH",
-            "asn": 0,
-            "org": "Unknown"
-        },
-        "performance": {
-            "score": 36.6667,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-11-29",
             "last_seen": "2026-01-25"
         },
         "anonymity_level": "unknown"
@@ -455,41 +525,6 @@
         "anonymity_level": "unknown"
     },
     {
-        "proxy_id": 574245,
-        "ip": "8.212.165.164",
-        "port": 5080,
-        "endpoint": "8.212.165.164:5080",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-12-14 06:35:03.270157",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "up",
-            "last_up": "2026-01-25 14:18:02.511372",
-            "uptime_pct": 50,
-            "avg_latency_ms": 3235
-        },
-        "geo": {
-            "exit_ip": "8.212.165.164",
-            "country_iso": "PH",
-            "asn": 0,
-            "org": "Unknown"
-        },
-        "performance": {
-            "score": 30.8333,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-12-14",
-            "last_seen": "2026-01-25"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
         "proxy_id": 574361,
         "ip": "8.220.141.8",
         "port": 13,
@@ -515,7 +550,7 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 24.8277,
+            "score": 24.6383,
             "status": "inactive"
         },
         "seen": {
@@ -575,8 +610,8 @@
         "uptime": {
             "status": "up",
             "last_up": "2026-01-25 17:54:01.744034",
-            "uptime_pct": 27.27,
-            "avg_latency_ms": 674
+            "uptime_pct": 33.33,
+            "avg_latency_ms": 859
         },
         "geo": {
             "exit_ip": "8.220.141.8",
@@ -585,7 +620,7 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 29.4559,
+            "score": 26.5877,
             "status": "inactive"
         },
         "seen": {
@@ -645,8 +680,8 @@
         "uptime": {
             "status": "up",
             "last_up": "2026-01-25 17:50:01.767529",
-            "uptime_pct": 44.44,
-            "avg_latency_ms": 2012
+            "uptime_pct": 50,
+            "avg_latency_ms": 2285
         },
         "geo": {
             "exit_ip": "8.220.136.174",
@@ -655,7 +690,7 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 27.9167,
+            "score": 31.25,
             "status": "inactive"
         },
         "seen": {
@@ -678,8 +713,8 @@
             "error": null
         },
         "uptime": {
-            "status": "down",
-            "last_up": "2026-01-25 14:32:01.562270",
+            "status": "up",
+            "last_up": "2026-01-25 18:17:03.274513",
             "uptime_pct": 20,
             "avg_latency_ms": 827
         },
@@ -715,8 +750,8 @@
         "uptime": {
             "status": "down",
             "last_up": "2026-01-25 17:44:02.251778",
-            "uptime_pct": 30,
-            "avg_latency_ms": 690
+            "uptime_pct": 23.08,
+            "avg_latency_ms": 502
         },
         "geo": {
             "exit_ip": "8.220.141.8",
@@ -725,7 +760,7 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 30.5254,
+            "score": 32.9555,
             "status": "inactive"
         },
         "seen": {
@@ -750,8 +785,8 @@
         "uptime": {
             "status": "down",
             "last_up": "2026-01-25 17:38:02.363815",
-            "uptime_pct": 35.71,
-            "avg_latency_ms": 1312
+            "uptime_pct": 29.41,
+            "avg_latency_ms": 1009
         },
         "geo": {
             "exit_ip": "8.212.165.164",
@@ -760,7 +795,7 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 22.0536,
+            "score": 18.2721,
             "status": "inactive"
         },
         "seen": {
@@ -783,8 +818,8 @@
             "error": null
         },
         "uptime": {
-            "status": "down",
-            "last_up": "2026-01-25 14:27:02.241790",
+            "status": "up",
+            "last_up": "2026-01-25 18:07:02.684145",
             "uptime_pct": 18.18,
             "avg_latency_ms": 101
         },
@@ -803,6 +838,41 @@
             "last_seen": "2026-01-25"
         },
         "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 575803,
+        "ip": "103.84.177.30",
+        "port": 8083,
+        "endpoint": "103.84.177.30:8083",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-01-20 03:02:03.718005",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-25 18:13:01.838066",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "103.84.177.30",
+            "country_iso": "PH",
+            "asn": 136244,
+            "org": "Panay Broadband Buenavista Cable TV Inc."
+        },
+        "performance": {
+            "score": 35,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-01-20",
+            "last_seen": "2026-01-25"
+        },
+        "anonymity_level": null
     },
     {
         "proxy_id": 575804,
@@ -855,8 +925,8 @@
         "uptime": {
             "status": "up",
             "last_up": "2026-01-25 17:48:02.029302",
-            "uptime_pct": 28.57,
-            "avg_latency_ms": 878
+            "uptime_pct": 31.25,
+            "avg_latency_ms": 1017
         },
         "geo": {
             "exit_ip": "8.220.136.174",
@@ -865,7 +935,7 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 22.9269,
+            "score": 20.25,
             "status": "inactive"
         },
         "seen": {
@@ -890,8 +960,8 @@
         "uptime": {
             "status": "down",
             "last_up": "2026-01-25 17:32:03.136799",
-            "uptime_pct": 8.33,
-            "avg_latency_ms": 291
+            "uptime_pct": 7.69,
+            "avg_latency_ms": 262
         },
         "geo": {
             "exit_ip": "58.69.143.223",
@@ -900,7 +970,7 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 29.7994,
+            "score": 30.4349,
             "status": "inactive"
         },
         "seen": {
@@ -924,7 +994,7 @@
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-01-25 17:57:01.671792",
+            "last_up": "2026-01-25 18:00:02.394462",
             "uptime_pct": 0,
             "avg_latency_ms": 0
         },
@@ -940,41 +1010,6 @@
         },
         "seen": {
             "first_seen": "2025-12-12",
-            "last_seen": "2026-01-25"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 580160,
-        "ip": "8.220.136.174",
-        "port": 8008,
-        "endpoint": "8.220.136.174:8008",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2026-01-17 21:59:02.642080",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2026-01-25 14:12:01.586629",
-            "uptime_pct": 42.86,
-            "avg_latency_ms": 1183
-        },
-        "geo": {
-            "exit_ip": "8.220.136.174",
-            "country_iso": "PH",
-            "asn": 0,
-            "org": "Unknown"
-        },
-        "performance": {
-            "score": 27.381,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2026-01-17",
             "last_seen": "2026-01-25"
         },
         "anonymity_level": "unknown"
@@ -1135,8 +1170,8 @@
         "uptime": {
             "status": "down",
             "last_up": "2026-01-25 17:44:02.170397",
-            "uptime_pct": 100,
-            "avg_latency_ms": 4676
+            "uptime_pct": 25,
+            "avg_latency_ms": 1169
         },
         "geo": {
             "exit_ip": "180.191.49.73",
@@ -1145,46 +1180,11 @@
             "org": "Globe Telecom Inc."
         },
         "performance": {
-            "score": 60,
+            "score": 15,
             "status": "inactive"
         },
         "seen": {
             "first_seen": "2026-01-17",
-            "last_seen": "2026-01-25"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 585806,
-        "ip": "8.212.151.166",
-        "port": 8008,
-        "endpoint": "8.212.151.166:8008",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-12-20 17:25:03.078822",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "up",
-            "last_up": "2026-01-25 14:17:01.681037",
-            "uptime_pct": 100,
-            "avg_latency_ms": 2515
-        },
-        "geo": {
-            "exit_ip": "8.212.151.166",
-            "country_iso": "PH",
-            "asn": 0,
-            "org": "Unknown"
-        },
-        "performance": {
-            "score": 61.6667,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-12-21",
             "last_seen": "2026-01-25"
         },
         "anonymity_level": "unknown"
@@ -1260,76 +1260,6 @@
         "anonymity_level": "unknown"
     },
     {
-        "proxy_id": 587367,
-        "ip": "112.198.128.171",
-        "port": 8083,
-        "endpoint": "112.198.128.171:8083",
-        "protocol": "http_connect",
-        "lifecycle_status": "active_low",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-11-29 13:26:58.528771",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2026-01-25 14:12:01.723190",
-            "uptime_pct": 11.11,
-            "avg_latency_ms": 226
-        },
-        "geo": {
-            "exit_ip": "112.198.128.171",
-            "country_iso": "PH",
-            "asn": 0,
-            "org": "Unknown"
-        },
-        "performance": {
-            "score": 33.7683,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-11-30",
-            "last_seen": "2026-01-25"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 597290,
-        "ip": "8.212.168.170",
-        "port": 8081,
-        "endpoint": "8.212.168.170:8081",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-11-29 18:47:18.382553",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "up",
-            "last_up": "2026-01-25 14:25:03.324196",
-            "uptime_pct": 33.33,
-            "avg_latency_ms": 944
-        },
-        "geo": {
-            "exit_ip": "8.212.168.170",
-            "country_iso": "PH",
-            "asn": 0,
-            "org": "Unknown"
-        },
-        "performance": {
-            "score": 24.1106,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-11-30",
-            "last_seen": "2026-01-25"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
         "proxy_id": 601161,
         "ip": "8.220.141.8",
         "port": 4145,
@@ -1379,7 +1309,7 @@
         },
         "uptime": {
             "status": "up",
-            "last_up": "2026-01-25 16:50:03.069597",
+            "last_up": "2026-01-25 18:23:01.201231",
             "uptime_pct": 50,
             "avg_latency_ms": 1076
         },
@@ -1390,7 +1320,7 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 32.5,
+            "score": 32.2222,
             "status": "inactive"
         },
         "seen": {
@@ -1430,6 +1360,41 @@
         },
         "seen": {
             "first_seen": "2025-12-15",
+            "last_seen": "2026-01-25"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 602853,
+        "ip": "8.212.165.164",
+        "port": 8085,
+        "endpoint": "8.212.165.164:8085",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-29 22:27:31.115546",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2026-01-25 18:19:01.583340",
+            "uptime_pct": 8.33,
+            "avg_latency_ms": 425
+        },
+        "geo": {
+            "exit_ip": "8.212.165.164",
+            "country_iso": "PH",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 27.6133,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-30",
             "last_seen": "2026-01-25"
         },
         "anonymity_level": "unknown"
@@ -1485,8 +1450,8 @@
         "uptime": {
             "status": "down",
             "last_up": "2026-01-25 17:52:02.766246",
-            "uptime_pct": 37.5,
-            "avg_latency_ms": 719
+            "uptime_pct": 27.27,
+            "avg_latency_ms": 503
         },
         "geo": {
             "exit_ip": "8.212.168.170",
@@ -1495,7 +1460,7 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 34.0167,
+            "score": 35.4253,
             "status": "inactive"
         },
         "seen": {
@@ -1520,8 +1485,8 @@
         "uptime": {
             "status": "down",
             "last_up": "2026-01-25 17:35:02.248325",
-            "uptime_pct": 9.09,
-            "avg_latency_ms": 358
+            "uptime_pct": 7.69,
+            "avg_latency_ms": 303
         },
         "geo": {
             "exit_ip": "8.212.165.164",
@@ -1530,7 +1495,7 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 28.9086,
+            "score": 29.9996,
             "status": "inactive"
         },
         "seen": {
@@ -1570,41 +1535,6 @@
         },
         "seen": {
             "first_seen": "2025-12-22",
-            "last_seen": "2026-01-25"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 603847,
-        "ip": "180.191.20.5",
-        "port": 8081,
-        "endpoint": "180.191.20.5:8081",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-12-15 17:20:03.324281",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2026-01-25 14:28:02.435494",
-            "uptime_pct": 6.67,
-            "avg_latency_ms": 0
-        },
-        "geo": {
-            "exit_ip": "180.191.20.5",
-            "country_iso": "PH",
-            "asn": 132199,
-            "org": "Globe Telecom Inc."
-        },
-        "performance": {
-            "score": 39,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-12-15",
             "last_seen": "2026-01-25"
         },
         "anonymity_level": "unknown"
@@ -1658,8 +1588,8 @@
             "error": null
         },
         "uptime": {
-            "status": "up",
-            "last_up": "2026-01-25 17:19:02.056727",
+            "status": "down",
+            "last_up": "2026-01-25 18:29:01.430872",
             "uptime_pct": 14.29,
             "avg_latency_ms": 211
         },
@@ -1693,10 +1623,10 @@
             "error": null
         },
         "uptime": {
-            "status": "down",
-            "last_up": "2026-01-25 14:33:02.191646",
-            "uptime_pct": 25,
-            "avg_latency_ms": 655
+            "status": "up",
+            "last_up": "2026-01-25 18:06:01.824037",
+            "uptime_pct": 30,
+            "avg_latency_ms": 1008
         },
         "geo": {
             "exit_ip": "119.93.87.65",
@@ -1705,7 +1635,7 @@
             "org": "Philippine Long Distance Telephone Company"
         },
         "performance": {
-            "score": 27.0706,
+            "score": 18,
             "status": "inactive"
         },
         "seen": {
@@ -1834,7 +1764,7 @@
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-01-25 17:29:01.947364",
+            "last_up": "2026-01-25 18:25:02.571865",
             "uptime_pct": 12.5,
             "avg_latency_ms": 0
         },
@@ -1850,41 +1780,6 @@
         },
         "seen": {
             "first_seen": "2025-12-15",
-            "last_seen": "2026-01-25"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 610790,
-        "ip": "222.127.248.78",
-        "port": 8082,
-        "endpoint": "222.127.248.78:8082",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-12-23 19:30:03.748576",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2026-01-25 14:15:03.540360",
-            "uptime_pct": 20,
-            "avg_latency_ms": 495
-        },
-        "geo": {
-            "exit_ip": "222.127.248.78",
-            "country_iso": "PH",
-            "asn": 132199,
-            "org": "Globe Telecom Inc."
-        },
-        "performance": {
-            "score": 29.6808,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-12-23",
             "last_seen": "2026-01-25"
         },
         "anonymity_level": "unknown"
@@ -2043,10 +1938,10 @@
             "error": null
         },
         "uptime": {
-            "status": "up",
-            "last_up": "2026-01-25 17:07:03.297217",
-            "uptime_pct": 54.55,
-            "avg_latency_ms": 1601
+            "status": "down",
+            "last_up": "2026-01-25 18:08:01.773252",
+            "uptime_pct": 42.86,
+            "avg_latency_ms": 1067
         },
         "geo": {
             "exit_ip": "8.212.151.166",
@@ -2055,7 +1950,7 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 34.1558,
+            "score": 26.9643,
             "status": "inactive"
         },
         "seen": {
@@ -2063,6 +1958,41 @@
             "last_seen": "2026-01-25"
         },
         "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 611664,
+        "ip": "8.220.136.174",
+        "port": 45,
+        "endpoint": "8.220.136.174:45",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-01-24 20:27:02.830829",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2026-01-25 18:11:01.482073",
+            "uptime_pct": 100,
+            "avg_latency_ms": 2562
+        },
+        "geo": {
+            "exit_ip": "8.220.136.174",
+            "country_iso": "PH",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 60,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-01-24",
+            "last_seen": "2026-01-25"
+        },
+        "anonymity_level": null
     },
     {
         "proxy_id": 611769,
@@ -2135,36 +2065,36 @@
         "anonymity_level": "unknown"
     },
     {
-        "proxy_id": 611860,
-        "ip": "8.212.168.170",
-        "port": 9080,
-        "endpoint": "8.212.168.170:9080",
+        "proxy_id": 671633,
+        "ip": "124.107.173.219",
+        "port": 8082,
+        "endpoint": "124.107.173.219:8082",
         "protocol": "http_absolute",
         "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2025-12-18 02:05:03.957303",
+            "last_check": "2025-12-01 01:15:05.895074",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
-            "status": "up",
-            "last_up": "2026-01-25 14:18:02.947086",
-            "uptime_pct": 83.33,
-            "avg_latency_ms": 1930
+            "status": "down",
+            "last_up": "2026-01-25 18:11:02.055899",
+            "uptime_pct": 5,
+            "avg_latency_ms": 0
         },
         "geo": {
-            "exit_ip": "8.212.168.170",
+            "exit_ip": "124.107.173.219",
             "country_iso": "PH",
-            "asn": 0,
-            "org": "Unknown"
+            "asn": 9299,
+            "org": "Philippine Long Distance Telephone Company"
         },
         "performance": {
-            "score": 51,
+            "score": 38,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-12-18",
+            "first_seen": "2025-12-01",
             "last_seen": "2026-01-25"
         },
         "anonymity_level": "unknown"
@@ -2219,7 +2149,7 @@
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-01-25 15:45:02.005643",
+            "last_up": "2026-01-25 18:07:02.234707",
             "uptime_pct": 0,
             "avg_latency_ms": 0
         },
@@ -2289,9 +2219,9 @@
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-01-25 17:57:01.919075",
-            "uptime_pct": 44.44,
-            "avg_latency_ms": 2262
+            "last_up": "2026-01-25 18:04:02.559696",
+            "uptime_pct": 33.33,
+            "avg_latency_ms": 1293
         },
         "geo": {
             "exit_ip": "8.212.151.166",
@@ -2300,7 +2230,7 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 28.3333,
+            "score": 21.6667,
             "status": "inactive"
         },
         "seen": {
@@ -2485,6 +2415,41 @@
         "anonymity_level": null
     },
     {
+        "proxy_id": 876209,
+        "ip": "8.212.165.164",
+        "port": 5050,
+        "endpoint": "8.212.165.164:5050",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-28 23:55:16.728590",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2026-01-25 18:06:02.161600",
+            "uptime_pct": 57.14,
+            "avg_latency_ms": 795
+        },
+        "geo": {
+            "exit_ip": "8.212.165.164",
+            "country_iso": "PH",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 41.952,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-12-29",
+            "last_seen": "2026-01-25"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
         "proxy_id": 876211,
         "ip": "8.212.168.170",
         "port": 4431,
@@ -2510,7 +2475,7 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 39.5,
+            "score": 39.3182,
             "status": "inactive"
         },
         "seen": {
@@ -2730,36 +2695,36 @@
         "anonymity_level": "unknown"
     },
     {
-        "proxy_id": 939711,
-        "ip": "8.220.141.8",
-        "port": 9443,
-        "endpoint": "8.220.141.8:9443",
-        "protocol": "http_absolute",
+        "proxy_id": 1064971,
+        "ip": "8.212.151.166",
+        "port": 4100,
+        "endpoint": "8.212.151.166:4100",
+        "protocol": "socks4",
         "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2026-01-15 09:16:02.354361",
+            "last_check": "2025-12-30 12:35:16.898305",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "up",
-            "last_up": "2026-01-25 14:27:02.109703",
+            "last_up": "2026-01-25 18:22:01.996422",
             "uptime_pct": 60,
-            "avg_latency_ms": 2497
+            "avg_latency_ms": 2511
         },
         "geo": {
-            "exit_ip": "8.220.141.8",
+            "exit_ip": "8.212.151.166",
             "country_iso": "PH",
             "asn": 0,
             "org": "Unknown"
         },
         "performance": {
-            "score": 37.25,
+            "score": 38,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2026-01-15",
+            "first_seen": "2025-12-30",
             "last_seen": "2026-01-25"
         },
         "anonymity_level": "unknown"
