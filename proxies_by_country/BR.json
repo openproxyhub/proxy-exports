@@ -1,5 +1,40 @@
 [
     {
+        "proxy_id": 78235,
+        "ip": "201.62.125.142",
+        "port": 8080,
+        "endpoint": "201.62.125.142:8080",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-01-21 10:49:01.361045",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2026-01-25 03:18:02.088630",
+            "uptime_pct": 20,
+            "avg_latency_ms": 1303
+        },
+        "geo": {
+            "exit_ip": "201.62.125.142",
+            "country_iso": "BR",
+            "asn": 28573,
+            "org": "Claro NXT Telecomunicacoes Ltda"
+        },
+        "performance": {
+            "score": 12.8333,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-08",
+            "last_seen": "2026-01-25"
+        },
+        "anonymity_level": null
+    },
+    {
         "proxy_id": 504257,
         "ip": "186.250.29.225",
         "port": 8080,
@@ -50,8 +85,8 @@
         "uptime": {
             "status": "up",
             "last_up": "2026-01-25 02:51:02.507373",
-            "uptime_pct": 0,
-            "avg_latency_ms": 0
+            "uptime_pct": 14.29,
+            "avg_latency_ms": 426
         },
         "geo": {
             "exit_ip": "187.62.191.3",
@@ -60,11 +95,46 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 35,
+            "score": 28.6564,
             "status": "inactive"
         },
         "seen": {
             "first_seen": "2025-12-21",
+            "last_seen": "2026-01-25"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 505295,
+        "ip": "140.238.184.182",
+        "port": 3128,
+        "endpoint": "140.238.184.182:3128",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-28 09:30:21.959916",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-25 03:18:03.165923",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "140.238.184.182",
+            "country_iso": "BR",
+            "asn": 31898,
+            "org": "ORACLE-BMC-31898"
+        },
+        "performance": {
+            "score": 35,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-12-28",
             "last_seen": "2026-01-25"
         },
         "anonymity_level": "unknown"
@@ -83,8 +153,8 @@
             "error": null
         },
         "uptime": {
-            "status": "down",
-            "last_up": "2026-01-25 02:57:02.914847",
+            "status": "up",
+            "last_up": "2026-01-25 03:05:03.253661",
             "uptime_pct": 10,
             "avg_latency_ms": 675
         },
