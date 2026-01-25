@@ -14,7 +14,7 @@
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-01-25 14:09:01.802397",
+            "last_up": "2026-01-25 17:41:02.583848",
             "uptime_pct": 0,
             "avg_latency_ms": 0
         },
@@ -33,6 +33,41 @@
             "last_seen": "2026-01-25"
         },
         "anonymity_level": "transparent"
+    },
+    {
+        "proxy_id": 585448,
+        "ip": "159.13.44.239",
+        "port": 8080,
+        "endpoint": "159.13.44.239:8080",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-20 18:00:05.519147",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-25 17:45:02.203391",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "159.13.44.239",
+            "country_iso": "AU",
+            "asn": 31898,
+            "org": "ORACLE-BMC-31898"
+        },
+        "performance": {
+            "score": 35,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-12-21",
+            "last_seen": "2026-01-25"
+        },
+        "anonymity_level": "unknown"
     },
     {
         "proxy_id": 586355,
@@ -85,8 +120,8 @@
         "uptime": {
             "status": "down",
             "last_up": "2026-01-25 17:17:01.358487",
-            "uptime_pct": 25,
-            "avg_latency_ms": 0
+            "uptime_pct": 14.29,
+            "avg_latency_ms": 2519
         },
         "geo": {
             "exit_ip": "139.99.238.95",
@@ -95,7 +130,7 @@
             "org": "OVH SAS"
         },
         "performance": {
-            "score": 50,
+            "score": 8.57143,
             "status": "inactive"
         },
         "seen": {
@@ -130,7 +165,7 @@
             "org": "BrainStorm Network, Inc"
         },
         "performance": {
-            "score": 36,
+            "score": 35.5556,
             "status": "inactive"
         },
         "seen": {
@@ -138,5 +173,40 @@
             "last_seen": "2026-01-25"
         },
         "anonymity_level": "elite"
+    },
+    {
+        "proxy_id": 703327,
+        "ip": "16.51.157.105",
+        "port": 57998,
+        "endpoint": "16.51.157.105:57998",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-01-16 05:41:02.044528",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-25 17:55:03.446036",
+            "uptime_pct": 25,
+            "avg_latency_ms": 144
+        },
+        "geo": {
+            "exit_ip": "16.51.157.105",
+            "country_iso": "AU",
+            "asn": 16509,
+            "org": "AMAZON-02"
+        },
+        "performance": {
+            "score": 46.4512,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-01-16",
+            "last_seen": "2026-01-25"
+        },
+        "anonymity_level": "unknown"
     }
 ]
