@@ -1,5 +1,75 @@
 [
     {
+        "proxy_id": 73846,
+        "ip": "197.164.101.10",
+        "port": 1976,
+        "endpoint": "197.164.101.10:1976",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-01-19 03:16:02.222970",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-25 07:29:02.182725",
+            "uptime_pct": 20,
+            "avg_latency_ms": 412
+        },
+        "geo": {
+            "exit_ip": "197.164.101.10",
+            "country_iso": "EG",
+            "asn": 24863,
+            "org": "LINKdotNET"
+        },
+        "performance": {
+            "score": 21.6182,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-08",
+            "last_seen": "2026-01-25"
+        },
+        "anonymity_level": null
+    },
+    {
+        "proxy_id": 568950,
+        "ip": "41.65.160.172",
+        "port": 1977,
+        "endpoint": "41.65.160.172:1977",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-01-23 00:35:02.936399",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2026-01-25 05:25:02.533797",
+            "uptime_pct": 20,
+            "avg_latency_ms": 559
+        },
+        "geo": {
+            "exit_ip": "154.236.177.103",
+            "country_iso": "EG",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 29.935,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-01-23",
+            "last_seen": "2026-01-25"
+        },
+        "anonymity_level": null
+    },
+    {
         "proxy_id": 569450,
         "ip": "41.65.236.37",
         "port": 1981,
@@ -103,75 +173,5 @@
             "last_seen": "2026-01-25"
         },
         "anonymity_level": "transparent"
-    },
-    {
-        "proxy_id": 790563,
-        "ip": "217.52.247.89",
-        "port": 1976,
-        "endpoint": "217.52.247.89:1976",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-12-02 19:33:07.101045",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "up",
-            "last_up": "2026-01-25 03:05:03.570433",
-            "uptime_pct": 66.67,
-            "avg_latency_ms": 3290
-        },
-        "geo": {
-            "exit_ip": "217.52.247.89",
-            "country_iso": "EG",
-            "asn": 36992,
-            "org": "Etisalat Misr"
-        },
-        "performance": {
-            "score": 40,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-12-02",
-            "last_seen": "2026-01-25"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 813960,
-        "ip": "41.65.236.39",
-        "port": 1976,
-        "endpoint": "41.65.236.39:1976",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2026-01-15 03:03:01.784649",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2026-01-25 03:17:02.018840",
-            "uptime_pct": 0,
-            "avg_latency_ms": 0
-        },
-        "geo": {
-            "exit_ip": "41.65.236.39",
-            "country_iso": "EG",
-            "asn": 15475,
-            "org": "NOL"
-        },
-        "performance": {
-            "score": 35,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2026-01-15",
-            "last_seen": "2026-01-25"
-        },
-        "anonymity_level": "unknown"
     }
 ]
