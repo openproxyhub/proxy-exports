@@ -1,36 +1,106 @@
 [
     {
-        "proxy_id": 584254,
-        "ip": "190.122.185.170",
+        "proxy_id": 575265,
+        "ip": "181.119.111.59",
         "port": 999,
-        "endpoint": "190.122.185.170:999",
-        "protocol": "http_connect",
+        "endpoint": "181.119.111.59:999",
+        "protocol": "http_absolute",
         "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2025-12-24 18:45:11.276789",
+            "last_check": "2025-12-13 02:30:03.729192",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-01-25 23:02:03.530310",
+            "last_up": "2026-01-26 00:13:02.570821",
+            "uptime_pct": 8.33,
+            "avg_latency_ms": 152
+        },
+        "geo": {
+            "exit_ip": "181.119.111.59",
+            "country_iso": "GT",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 35.1433,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-12-13",
+            "last_seen": "2026-01-26"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 580740,
+        "ip": "143.208.57.163",
+        "port": 999,
+        "endpoint": "143.208.57.163:999",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-14 05:45:02.437125",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-26 00:20:04.579437",
+            "uptime_pct": 12.5,
+            "avg_latency_ms": 66
+        },
+        "geo": {
+            "exit_ip": "143.208.57.163",
+            "country_iso": "GT",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 40.2075,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-12-14",
+            "last_seen": "2026-01-26"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 605534,
+        "ip": "138.117.230.131",
+        "port": 999,
+        "endpoint": "138.117.230.131:999",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-15 01:20:02.756891",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-26 00:26:03.579698",
             "uptime_pct": 0,
             "avg_latency_ms": 0
         },
         "geo": {
-            "exit_ip": "143.208.59.2",
+            "exit_ip": "138.117.230.131",
             "country_iso": "GT",
-            "asn": 22869,
-            "org": "CABLECOLOR S.A."
+            "asn": 269989,
+            "org": "FIBERNET S.A"
         },
         "performance": {
             "score": 35,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-12-24",
-            "last_seen": "2026-01-25"
+            "first_seen": "2025-12-15",
+            "last_seen": "2026-01-26"
         },
         "anonymity_level": "unknown"
     }
