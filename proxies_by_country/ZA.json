@@ -1,5 +1,40 @@
 [
     {
+        "proxy_id": 764867,
+        "ip": "196.251.221.5",
+        "port": 8104,
+        "endpoint": "196.251.221.5:8104",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-01-22 10:15:02.903623",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2026-01-27 00:46:02.202943",
+            "uptime_pct": 11.76,
+            "avg_latency_ms": 543
+        },
+        "geo": {
+            "exit_ip": "196.251.222.94",
+            "country_iso": "ZA",
+            "asn": 37403,
+            "org": "INFOGRO"
+        },
+        "performance": {
+            "score": 23.0476,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-01-22",
+            "last_seen": "2026-01-27"
+        },
+        "anonymity_level": null
+    },
+    {
         "proxy_id": 1048161,
         "ip": "http://102.135.142.234",
         "port": 12354,
@@ -13,10 +48,10 @@
             "error": null
         },
         "uptime": {
-            "status": "down",
-            "last_up": "2026-01-27 00:28:02.194879",
-            "uptime_pct": 7.41,
-            "avg_latency_ms": 40
+            "status": "up",
+            "last_up": "2026-01-27 00:45:02.564793",
+            "uptime_pct": 5.88,
+            "avg_latency_ms": 42
         },
         "geo": {
             "exit_ip": "102.135.142.234",
@@ -25,12 +60,47 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 38.5143,
+            "score": 37.507,
             "status": "inactive"
         },
         "seen": {
             "first_seen": "2026-01-03",
-            "last_seen": "2026-01-26"
+            "last_seen": "2026-01-27"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 1128615,
+        "ip": "196.251.221.33",
+        "port": 8102,
+        "endpoint": "196.251.221.33:8102",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-01-15 07:35:01.895446",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2026-01-27 00:44:02.658472",
+            "uptime_pct": 10,
+            "avg_latency_ms": 298
+        },
+        "geo": {
+            "exit_ip": "196.251.223.54",
+            "country_iso": "ZA",
+            "asn": 37403,
+            "org": "INFOGRO"
+        },
+        "performance": {
+            "score": 30.5613,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-01-15",
+            "last_seen": "2026-01-27"
         },
         "anonymity_level": "unknown"
     }
