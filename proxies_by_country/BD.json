@@ -120,8 +120,8 @@
         "uptime": {
             "status": "up",
             "last_up": "2026-01-27 11:58:01.995429",
-            "uptime_pct": 77.78,
-            "avg_latency_ms": 442
+            "uptime_pct": 80,
+            "avg_latency_ms": 441
         },
         "geo": {
             "exit_ip": "103.86.109.38",
@@ -130,7 +130,7 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 67.8633,
+            "score": 69.2317,
             "status": "inactive"
         },
         "seen": {
@@ -154,7 +154,7 @@
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-01-27 11:56:03.540716",
+            "last_up": "2026-01-27 12:01:02.898477",
             "uptime_pct": 0,
             "avg_latency_ms": 0
         },
@@ -173,6 +173,41 @@
             "last_seen": "2026-01-27"
         },
         "anonymity_level": null
+    },
+    {
+        "proxy_id": 535960,
+        "ip": "202.5.62.55",
+        "port": 8080,
+        "endpoint": "202.5.62.55:8080",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-28 16:24:27.428560",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-27 12:22:03.011374",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "202.5.62.55",
+            "country_iso": "BD",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 35,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-28",
+            "last_seen": "2026-01-27"
+        },
+        "anonymity_level": "unknown"
     },
     {
         "proxy_id": 569314,
@@ -280,36 +315,71 @@
         "anonymity_level": "unknown"
     },
     {
-        "proxy_id": 579936,
-        "ip": "103.81.175.218",
-        "port": 28022,
-        "endpoint": "103.81.175.218:28022",
-        "protocol": "http_absolute",
+        "proxy_id": 586781,
+        "ip": "115.127.119.252",
+        "port": 1080,
+        "endpoint": "115.127.119.252:1080",
+        "protocol": "socks5",
         "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2025-12-20 13:30:05.757883",
+            "last_check": "2025-12-21 13:25:02.895870",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-01-27 08:02:02.889666",
-            "uptime_pct": 10,
+            "last_up": "2026-01-27 12:24:03.100266",
+            "uptime_pct": 0,
             "avg_latency_ms": 0
         },
         "geo": {
-            "exit_ip": "103.81.175.218",
+            "exit_ip": "115.127.119.252",
             "country_iso": "BD",
-            "asn": 0,
-            "org": "Unknown"
+            "asn": 24342,
+            "org": "BRACNet Limited"
         },
         "performance": {
-            "score": 41,
+            "score": 35,
             "status": "inactive"
         },
         "seen": {
             "first_seen": "2025-12-21",
+            "last_seen": "2026-01-27"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 586789,
+        "ip": "103.141.67.50",
+        "port": 9090,
+        "endpoint": "103.141.67.50:9090",
+        "protocol": "socks5",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-29 13:05:40.434396",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-27 12:26:02.588068",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "103.141.67.50",
+            "country_iso": "BD",
+            "asn": 23688,
+            "org": "Link3 Technologies Ltd."
+        },
+        "performance": {
+            "score": 35,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-30",
             "last_seen": "2026-01-27"
         },
         "anonymity_level": "unknown"
@@ -330,8 +400,8 @@
         "uptime": {
             "status": "down",
             "last_up": "2026-01-27 11:51:02.437100",
-            "uptime_pct": 7.14,
-            "avg_latency_ms": 341
+            "uptime_pct": 6.67,
+            "avg_latency_ms": 313
         },
         "geo": {
             "exit_ip": "103.140.25.230",
@@ -340,7 +410,7 @@
             "org": "Hello IT"
         },
         "performance": {
-            "score": 28.3507,
+            "score": 29.0596,
             "status": "inactive"
         },
         "seen": {
@@ -470,8 +540,8 @@
         "uptime": {
             "status": "up",
             "last_up": "2026-01-27 11:45:03.447709",
-            "uptime_pct": 9.09,
-            "avg_latency_ms": 0
+            "uptime_pct": 15.38,
+            "avg_latency_ms": 1402
         },
         "geo": {
             "exit_ip": "123.200.7.110",
@@ -480,46 +550,11 @@
             "org": "Link3 Technologies Ltd."
         },
         "performance": {
-            "score": 40.4545,
+            "score": 9.23077,
             "status": "inactive"
         },
         "seen": {
             "first_seen": "2026-01-16",
-            "last_seen": "2026-01-27"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 605687,
-        "ip": "103.77.63.82",
-        "port": 8080,
-        "endpoint": "103.77.63.82:8080",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2026-01-18 18:51:02.212817",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2026-01-27 08:19:02.323027",
-            "uptime_pct": 6.25,
-            "avg_latency_ms": 265
-        },
-        "geo": {
-            "exit_ip": "103.77.60.10",
-            "country_iso": "BD",
-            "asn": 134437,
-            "org": "The Sky Traders Pvt Ltd"
-        },
-        "performance": {
-            "score": 29.48,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2026-01-18",
             "last_seen": "2026-01-27"
         },
         "anonymity_level": "unknown"
@@ -609,7 +644,7 @@
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-01-27 11:14:03.433300",
+            "last_up": "2026-01-27 12:29:02.277471",
             "uptime_pct": 0,
             "avg_latency_ms": 0
         },
@@ -679,7 +714,7 @@
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-01-27 09:43:01.850710",
+            "last_up": "2026-01-27 12:09:02.431287",
             "uptime_pct": 0,
             "avg_latency_ms": 0
         },
@@ -698,41 +733,6 @@
             "last_seen": "2026-01-27"
         },
         "anonymity_level": "transparent"
-    },
-    {
-        "proxy_id": 1104137,
-        "ip": "113.11.35.242",
-        "port": 36909,
-        "endpoint": "113.11.35.242:36909",
-        "protocol": "http_connect",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2026-01-15 20:17:01.738118",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "up",
-            "last_up": "2026-01-27 08:10:03.849718",
-            "uptime_pct": 40,
-            "avg_latency_ms": 1224
-        },
-        "geo": {
-            "exit_ip": "113.11.35.242",
-            "country_iso": "BD",
-            "asn": 0,
-            "org": "Unknown"
-        },
-        "performance": {
-            "score": 25.1538,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2026-01-15",
-            "last_seen": "2026-01-27"
-        },
-        "anonymity_level": "unknown"
     },
     {
         "proxy_id": 1117439,
@@ -786,7 +786,7 @@
             "status": "down",
             "last_up": "2026-01-27 11:29:02.301268",
             "uptime_pct": 20,
-            "avg_latency_ms": 398
+            "avg_latency_ms": 252
         },
         "geo": {
             "exit_ip": "123.200.10.46",
@@ -795,7 +795,7 @@
             "org": "Link3 Technologies Ltd."
         },
         "performance": {
-            "score": 34.7503,
+            "score": 39.859,
             "status": "inactive"
         },
         "seen": {
@@ -803,6 +803,41 @@
             "last_seen": "2026-01-27"
         },
         "anonymity_level": "transparent"
+    },
+    {
+        "proxy_id": 1147148,
+        "ip": "59.153.19.2",
+        "port": 20909,
+        "endpoint": "59.153.19.2:20909",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-01-24 11:30:04.764210",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2026-01-27 12:11:02.228235",
+            "uptime_pct": 18.18,
+            "avg_latency_ms": 625
+        },
+        "geo": {
+            "exit_ip": "59.153.19.2",
+            "country_iso": "BD",
+            "asn": 64043,
+            "org": "S.M. ZAKIR HOSSAIN ta EUROtelbd Online Ltd."
+        },
+        "performance": {
+            "score": 25.7183,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-01-24",
+            "last_seen": "2026-01-27"
+        },
+        "anonymity_level": null
     },
     {
         "proxy_id": 1148100,
