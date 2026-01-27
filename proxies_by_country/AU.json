@@ -1,5 +1,40 @@
 [
     {
+        "proxy_id": 507794,
+        "ip": "139.99.237.62",
+        "port": 80,
+        "endpoint": "139.99.237.62:80",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-28 05:24:24.021239",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-27 15:28:02.797244",
+            "uptime_pct": 60,
+            "avg_latency_ms": 651
+        },
+        "geo": {
+            "exit_ip": "139.99.237.62",
+            "country_iso": "AU",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 48.7881,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-28",
+            "last_seen": "2026-01-27"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
         "proxy_id": 551800,
         "ip": "61.29.96.146",
         "port": 8000,
@@ -84,7 +119,7 @@
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-01-27 11:22:01.634553",
+            "last_up": "2026-01-27 15:21:02.139060",
             "uptime_pct": 7.69,
             "avg_latency_ms": 0
         },
@@ -138,40 +173,5 @@
             "last_seen": "2026-01-27"
         },
         "anonymity_level": "elite"
-    },
-    {
-        "proxy_id": 703327,
-        "ip": "16.51.157.105",
-        "port": 57998,
-        "endpoint": "16.51.157.105:57998",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2026-01-16 05:41:02.044528",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2026-01-27 11:15:04.749805",
-            "uptime_pct": 55.56,
-            "avg_latency_ms": 389
-        },
-        "geo": {
-            "exit_ip": "16.51.157.105",
-            "country_iso": "AU",
-            "asn": 16509,
-            "org": "AMAZON-02"
-        },
-        "performance": {
-            "score": 55.7766,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2026-01-16",
-            "last_seen": "2026-01-27"
-        },
-        "anonymity_level": "unknown"
     }
 ]
