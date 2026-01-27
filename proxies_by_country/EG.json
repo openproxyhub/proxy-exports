@@ -1,5 +1,40 @@
 [
     {
+        "proxy_id": 70157,
+        "ip": "197.164.101.13",
+        "port": 1981,
+        "endpoint": "197.164.101.13:1981",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-01-19 22:16:02.197462",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2026-01-27 12:51:02.277828",
+            "uptime_pct": 50,
+            "avg_latency_ms": 2835
+        },
+        "geo": {
+            "exit_ip": "197.164.101.13",
+            "country_iso": "EG",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 30,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-08",
+            "last_seen": "2026-01-27"
+        },
+        "anonymity_level": null
+    },
+    {
         "proxy_id": 569450,
         "ip": "41.65.236.37",
         "port": 1981,
@@ -50,7 +85,7 @@
         "uptime": {
             "status": "down",
             "last_up": "2026-01-27 12:29:01.683884",
-            "uptime_pct": 6.67,
+            "uptime_pct": 5.56,
             "avg_latency_ms": 0
         },
         "geo": {
@@ -60,7 +95,7 @@
             "org": "Etisalat Misr"
         },
         "performance": {
-            "score": 39.5,
+            "score": 38.8333,
             "status": "inactive"
         },
         "seen": {
@@ -226,7 +261,7 @@
             "status": "up",
             "last_up": "2026-01-27 11:42:03.837992",
             "uptime_pct": 25,
-            "avg_latency_ms": 373
+            "avg_latency_ms": 197
         },
         "geo": {
             "exit_ip": "217.52.247.89",
@@ -235,7 +270,7 @@
             "org": "Etisalat Misr"
         },
         "performance": {
-            "score": 37.3242,
+            "score": 43.4896,
             "status": "inactive"
         },
         "seen": {
@@ -294,9 +329,9 @@
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-01-27 12:25:03.810901",
-            "uptime_pct": 4.76,
-            "avg_latency_ms": 203
+            "last_up": "2026-01-27 12:32:03.148055",
+            "uptime_pct": 4.35,
+            "avg_latency_ms": 174
         },
         "geo": {
             "exit_ip": "41.65.227.115",
@@ -305,7 +340,7 @@
             "org": "Etisalat Misr"
         },
         "performance": {
-            "score": 30.7521,
+            "score": 31.5187,
             "status": "inactive"
         },
         "seen": {
@@ -348,40 +383,5 @@
             "last_seen": "2026-01-27"
         },
         "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 973932,
-        "ip": "41.196.16.229",
-        "port": 1981,
-        "endpoint": "41.196.16.229:1981",
-        "protocol": "http_connect",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2026-01-24 23:51:02.466326",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2026-01-27 08:54:01.473395",
-            "uptime_pct": 10,
-            "avg_latency_ms": 65
-        },
-        "geo": {
-            "exit_ip": "41.196.16.229",
-            "country_iso": "EG",
-            "asn": 24863,
-            "org": "LINKdotNET"
-        },
-        "performance": {
-            "score": 38.7277,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2026-01-25",
-            "last_seen": "2026-01-27"
-        },
-        "anonymity_level": null
     }
 ]
