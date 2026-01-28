@@ -140,6 +140,41 @@
         "anonymity_level": "unknown"
     },
     {
+        "proxy_id": 587304,
+        "ip": "181.209.71.222",
+        "port": 8080,
+        "endpoint": "181.209.71.222:8080",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-01-25 04:48:03.597451",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-28 21:59:02.378912",
+            "uptime_pct": 15.38,
+            "avg_latency_ms": 418
+        },
+        "geo": {
+            "exit_ip": "181.209.71.222",
+            "country_iso": "AR",
+            "asn": 52361,
+            "org": "Empresa Argentina de Soluciones Satelitales S.A."
+        },
+        "performance": {
+            "score": 29.6183,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-01-25",
+            "last_seen": "2026-01-28"
+        },
+        "anonymity_level": null
+    },
+    {
         "proxy_id": 730323,
         "ip": "181.209.122.117",
         "port": 999,
@@ -156,7 +191,7 @@
             "status": "down",
             "last_up": "2026-01-28 21:04:02.834797",
             "uptime_pct": 2.56,
-            "avg_latency_ms": 250
+            "avg_latency_ms": 262
         },
         "geo": {
             "exit_ip": "181.209.122.114",
@@ -165,7 +200,7 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 28.1121,
+            "score": 27.696,
             "status": "inactive"
         },
         "seen": {
@@ -173,6 +208,41 @@
             "last_seen": "2026-01-28"
         },
         "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 770790,
+        "ip": "200.59.10.50",
+        "port": 999,
+        "endpoint": "200.59.10.50:999",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-01-25 15:29:02.166705",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-28 21:57:02.678608",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "200.59.10.50",
+            "country_iso": "AR",
+            "asn": 12150,
+            "org": "COTELCAM"
+        },
+        "performance": {
+            "score": 36,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-01-25",
+            "last_seen": "2026-01-28"
+        },
+        "anonymity_level": null
     },
     {
         "proxy_id": 823269,
@@ -208,40 +278,5 @@
             "last_seen": "2026-01-28"
         },
         "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 943427,
-        "ip": "http://45.229.30.174",
-        "port": 11211,
-        "endpoint": "http://45.229.30.174:11211",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2026-01-22 04:53:01.778899",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "up",
-            "last_up": "2026-01-28 17:47:02.186769",
-            "uptime_pct": 3.57,
-            "avg_latency_ms": 323
-        },
-        "geo": {
-            "exit_ip": "45.229.31.42",
-            "country_iso": "AR",
-            "asn": 270089,
-            "org": "FIBRAS OPTICAS DE MAR DEL PLATA S.A."
-        },
-        "performance": {
-            "score": 25.8247,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2026-01-22",
-            "last_seen": "2026-01-28"
-        },
-        "anonymity_level": null
     }
 ]
