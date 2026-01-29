@@ -1,35 +1,70 @@
 [
     {
-        "proxy_id": 819641,
-        "ip": "45.143.108.118",
+        "proxy_id": 564919,
+        "ip": "80.241.251.54",
         "port": 8080,
-        "endpoint": "45.143.108.118:8080",
+        "endpoint": "80.241.251.54:8080",
         "protocol": "http_absolute",
         "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2026-01-14 20:45:01.852765",
+            "last_check": "2025-12-23 21:35:02.853723",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-01-29 00:53:02.388682",
-            "uptime_pct": 4.17,
-            "avg_latency_ms": 0
+            "last_up": "2026-01-29 04:57:01.697367",
+            "uptime_pct": 23.08,
+            "avg_latency_ms": 440
         },
         "geo": {
-            "exit_ip": "45.143.108.114",
+            "exit_ip": "80.241.251.54",
             "country_iso": "GE",
-            "asn": 208320,
-            "org": "AIRMAX LLC"
+            "asn": 0,
+            "org": "Unknown"
         },
         "performance": {
-            "score": 37.5,
+            "score": 33.8628,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2026-01-14",
+            "first_seen": "2025-12-23",
+            "last_seen": "2026-01-29"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 586166,
+        "ip": "92.51.122.174",
+        "port": 8080,
+        "endpoint": "92.51.122.174:8080",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-20 17:00:11.915319",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-29 04:50:03.102021",
+            "uptime_pct": 22.22,
+            "avg_latency_ms": 850
+        },
+        "geo": {
+            "exit_ip": "92.51.122.174",
+            "country_iso": "GE",
+            "asn": 44327,
+            "org": "Delta Comm LLC"
+        },
+        "performance": {
+            "score": 19.0437,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-12-21",
             "last_seen": "2026-01-29"
         },
         "anonymity_level": "unknown"
