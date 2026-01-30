@@ -1,106 +1,36 @@
 [
     {
-        "proxy_id": 521126,
-        "ip": "85.117.61.74",
+        "proxy_id": 564919,
+        "ip": "80.241.251.54",
         "port": 8080,
-        "endpoint": "85.117.61.74:8080",
-        "protocol": "http_connect",
-        "lifecycle_status": "active_low",
+        "endpoint": "80.241.251.54:8080",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2026-01-29 19:04:04.335219",
+            "last_check": "2025-12-23 21:35:02.853723",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-01-29 20:53:02.222406",
-            "uptime_pct": 14.29,
-            "avg_latency_ms": 403
+            "last_up": "2026-01-30 01:22:04.354262",
+            "uptime_pct": 25,
+            "avg_latency_ms": 189
         },
         "geo": {
-            "exit_ip": "85.117.61.74",
+            "exit_ip": "80.241.251.54",
             "country_iso": "GE",
             "asn": 0,
             "org": "Unknown"
         },
         "performance": {
-            "score": 29.4758,
+            "score": 44.163,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-12-08",
-            "last_seen": "2026-01-29"
-        },
-        "anonymity_level": "transparent"
-    },
-    {
-        "proxy_id": 586166,
-        "ip": "92.51.122.174",
-        "port": 8080,
-        "endpoint": "92.51.122.174:8080",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-12-20 17:00:11.915319",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2026-01-29 20:25:03.635893",
-            "uptime_pct": 7.41,
-            "avg_latency_ms": 0
-        },
-        "geo": {
-            "exit_ip": "92.51.122.174",
-            "country_iso": "GE",
-            "asn": 44327,
-            "org": "Delta Comm LLC"
-        },
-        "performance": {
-            "score": 39.8611,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-12-21",
-            "last_seen": "2026-01-29"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 597401,
-        "ip": "45.143.108.114",
-        "port": 8080,
-        "endpoint": "45.143.108.114:8080",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2026-01-15 23:37:01.830467",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2026-01-29 22:39:03.692239",
-            "uptime_pct": 3.45,
-            "avg_latency_ms": 0
-        },
-        "geo": {
-            "exit_ip": "45.143.108.114",
-            "country_iso": "GE",
-            "asn": 208320,
-            "org": "AIRMAX LLC"
-        },
-        "performance": {
-            "score": 37.069,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2026-01-15",
-            "last_seen": "2026-01-29"
+            "first_seen": "2025-12-23",
+            "last_seen": "2026-01-30"
         },
         "anonymity_level": "unknown"
     }

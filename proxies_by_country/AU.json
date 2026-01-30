@@ -1,5 +1,75 @@
 [
     {
+        "proxy_id": 507794,
+        "ip": "139.99.237.62",
+        "port": 80,
+        "endpoint": "139.99.237.62:80",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-11-28 05:24:24.021239",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-30 01:29:02.038507",
+            "uptime_pct": 35.71,
+            "avg_latency_ms": 400
+        },
+        "geo": {
+            "exit_ip": "139.99.237.62",
+            "country_iso": "AU",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 42.8906,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-28",
+            "last_seen": "2026-01-30"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 585448,
+        "ip": "159.13.44.239",
+        "port": 8080,
+        "endpoint": "159.13.44.239:8080",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-20 18:00:05.519147",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-30 01:23:02.078144",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "159.13.44.239",
+            "country_iso": "AU",
+            "asn": 31898,
+            "org": "ORACLE-BMC-31898"
+        },
+        "performance": {
+            "score": 35.5556,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-12-21",
+            "last_seen": "2026-01-30"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
         "proxy_id": 703327,
         "ip": "16.51.157.105",
         "port": 57998,
@@ -15,8 +85,8 @@
         "uptime": {
             "status": "down",
             "last_up": "2026-01-30 00:43:02.542424",
-            "uptime_pct": 36.36,
-            "avg_latency_ms": 236
+            "uptime_pct": 32,
+            "avg_latency_ms": 206
         },
         "geo": {
             "exit_ip": "16.51.157.105",
@@ -25,7 +95,7 @@
             "org": "AMAZON-02"
         },
         "performance": {
-            "score": 49.8758,
+            "score": 48.337,
             "status": "inactive"
         },
         "seen": {
