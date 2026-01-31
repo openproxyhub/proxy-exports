@@ -1,5 +1,40 @@
 [
     {
+        "proxy_id": 5645,
+        "ip": "204.199.140.19",
+        "port": 999,
+        "endpoint": "204.199.140.19:999",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-17 02:10:03.072950",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-01-31 18:20:04.953945",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "204.199.140.18",
+            "country_iso": "CL",
+            "asn": 273237,
+            "org": "INGBELL CHILE SPA"
+        },
+        "performance": {
+            "score": 26,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-08",
+            "last_seen": "2026-01-31"
+        },
+        "anonymity_level": null
+    },
+    {
         "proxy_id": 25623,
         "ip": "204.199.140.15",
         "port": 999,
@@ -70,41 +105,6 @@
         "anonymity_level": "unknown"
     },
     {
-        "proxy_id": 495291,
-        "ip": "204.199.139.52",
-        "port": 999,
-        "endpoint": "204.199.139.52:999",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-11-25 09:34:10.073449",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2026-01-31 14:24:03.104653",
-            "uptime_pct": 5.71,
-            "avg_latency_ms": 589
-        },
-        "geo": {
-            "exit_ip": "204.199.139.52",
-            "country_iso": "CL",
-            "asn": 0,
-            "org": "Unknown"
-        },
-        "performance": {
-            "score": 17.1911,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-11-25",
-            "last_seen": "2026-01-31"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
         "proxy_id": 496109,
         "ip": "204.199.139.53",
         "port": 999,
@@ -153,10 +153,10 @@
             "error": null
         },
         "uptime": {
-            "status": "down",
-            "last_up": "2026-01-31 15:34:02.918818",
-            "uptime_pct": 5.88,
-            "avg_latency_ms": 363
+            "status": "up",
+            "last_up": "2026-01-31 18:29:02.906054",
+            "uptime_pct": 5.56,
+            "avg_latency_ms": 343
         },
         "geo": {
             "exit_ip": "204.199.140.23",
@@ -165,7 +165,7 @@
             "org": "INGBELL CHILE SPA"
         },
         "performance": {
-            "score": 25.8285,
+            "score": 26.3381,
             "status": "inactive"
         },
         "seen": {
@@ -261,7 +261,7 @@
             "status": "up",
             "last_up": "2026-01-31 15:57:01.594907",
             "uptime_pct": 11.11,
-            "avg_latency_ms": 781
+            "avg_latency_ms": 893
         },
         "geo": {
             "exit_ip": "179.49.239.2",
@@ -270,7 +270,7 @@
             "org": "SITELCO SPA"
         },
         "performance": {
-            "score": 14.3164,
+            "score": 10.4092,
             "status": "inactive"
         },
         "seen": {
