@@ -1,5 +1,40 @@
 [
     {
+        "proxy_id": 4035,
+        "ip": "152.166.69.34",
+        "port": 8080,
+        "endpoint": "152.166.69.34:8080",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-01-17 01:02:02.069306",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-02-01 22:28:03.368440",
+            "uptime_pct": 20,
+            "avg_latency_ms": 1150
+        },
+        "geo": {
+            "exit_ip": "152.166.69.34",
+            "country_iso": "DO",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 12.7533,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-08",
+            "last_seen": "2026-02-01"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
         "proxy_id": 67907,
         "ip": "38.156.14.34",
         "port": 999,
@@ -190,8 +225,8 @@
         "uptime": {
             "status": "down",
             "last_up": "2026-02-01 21:45:03.339709",
-            "uptime_pct": 2.22,
-            "avg_latency_ms": 253
+            "uptime_pct": 2.08,
+            "avg_latency_ms": 221
         },
         "geo": {
             "exit_ip": "38.156.23.38",
@@ -200,7 +235,7 @@
             "org": "VISNETWORK SRL"
         },
         "performance": {
-            "score": 27.49,
+            "score": 28.5121,
             "status": "inactive"
         },
         "seen": {
