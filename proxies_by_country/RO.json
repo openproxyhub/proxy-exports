@@ -1,5 +1,40 @@
 [
     {
+        "proxy_id": 85161,
+        "ip": "185.128.240.2",
+        "port": 3128,
+        "endpoint": "185.128.240.2:3128",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-17 19:50:03.319711",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2026-02-02 09:27:02.269051",
+            "uptime_pct": 19.23,
+            "avg_latency_ms": 15
+        },
+        "geo": {
+            "exit_ip": "185.128.240.2",
+            "country_iso": "RO",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 46.5854,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-11-08",
+            "last_seen": "2026-02-02"
+        },
+        "anonymity_level": "transparent"
+    },
+    {
         "proxy_id": 569863,
         "ip": "185.128.240.77",
         "port": 8080,
@@ -68,6 +103,41 @@
             "last_seen": "2026-02-02"
         },
         "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 587467,
+        "ip": "81.196.74.147",
+        "port": 8080,
+        "endpoint": "81.196.74.147:8080",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2025-12-24 21:35:02.231545",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-02-02 09:29:03.441738",
+            "uptime_pct": 28.57,
+            "avg_latency_ms": 851
+        },
+        "geo": {
+            "exit_ip": "81.196.74.147",
+            "country_iso": "RO",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 22.3649,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2025-12-24",
+            "last_seen": "2026-02-02"
+        },
+        "anonymity_level": "transparent"
     },
     {
         "proxy_id": 1073236,
