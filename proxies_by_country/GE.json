@@ -1,142 +1,37 @@
 [
     {
-        "proxy_id": 564919,
-        "ip": "80.241.251.54",
+        "proxy_id": 521126,
+        "ip": "85.117.61.74",
         "port": 8080,
-        "endpoint": "80.241.251.54:8080",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
+        "endpoint": "85.117.61.74:8080",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_low",
         "proto": {
             "status": "ok",
-            "last_check": "2025-12-23 21:35:02.853723",
+            "last_check": "2026-01-29 19:04:04.335219",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-02-01 23:28:04.970728",
-            "uptime_pct": 22.22,
-            "avg_latency_ms": 671
+            "last_up": "2026-02-02 00:11:03.042527",
+            "uptime_pct": 13.04,
+            "avg_latency_ms": 509
         },
         "geo": {
-            "exit_ip": "80.241.251.54",
+            "exit_ip": "85.117.61.74",
             "country_iso": "GE",
             "asn": 0,
             "org": "Unknown"
         },
         "performance": {
-            "score": 25.567,
+            "score": 25.6039,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2025-12-23",
-            "last_seen": "2026-02-01"
+            "first_seen": "2025-12-08",
+            "last_seen": "2026-02-02"
         },
-        "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 586166,
-        "ip": "92.51.122.174",
-        "port": 8080,
-        "endpoint": "92.51.122.174:8080",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2025-12-20 17:00:11.915319",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2026-02-01 23:27:03.703811",
-            "uptime_pct": 10,
-            "avg_latency_ms": 254
-        },
-        "geo": {
-            "exit_ip": "92.51.122.174",
-            "country_iso": "GE",
-            "asn": 0,
-            "org": "Unknown"
-        },
-        "performance": {
-            "score": 32.4356,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2025-12-21",
-            "last_seen": "2026-02-01"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 597401,
-        "ip": "45.143.108.114",
-        "port": 8080,
-        "endpoint": "45.143.108.114:8080",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2026-01-15 23:37:01.830467",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2026-02-01 22:38:01.968285",
-            "uptime_pct": 0,
-            "avg_latency_ms": 0
-        },
-        "geo": {
-            "exit_ip": "45.143.108.114",
-            "country_iso": "GE",
-            "asn": 208320,
-            "org": "AIRMAX LLC"
-        },
-        "performance": {
-            "score": 35,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2026-01-15",
-            "last_seen": "2026-02-01"
-        },
-        "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 819641,
-        "ip": "45.143.108.118",
-        "port": 8080,
-        "endpoint": "45.143.108.118:8080",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2026-01-14 20:45:01.852765",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2026-02-01 21:43:03.741633",
-            "uptime_pct": 0,
-            "avg_latency_ms": 0
-        },
-        "geo": {
-            "exit_ip": "45.143.108.114",
-            "country_iso": "GE",
-            "asn": 0,
-            "org": "Unknown"
-        },
-        "performance": {
-            "score": 35,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2026-01-14",
-            "last_seen": "2026-02-01"
-        },
-        "anonymity_level": "unknown"
+        "anonymity_level": "transparent"
     }
 ]
