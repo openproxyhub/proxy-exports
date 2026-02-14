@@ -1,5 +1,75 @@
 [
     {
+        "proxy_id": 1253632,
+        "ip": "205.209.118.30",
+        "port": 3138,
+        "endpoint": "205.209.118.30:3138",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-02-10 19:58:01.898352",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2026-02-14 02:10:02.231403",
+            "uptime_pct": 100,
+            "avg_latency_ms": 2164
+        },
+        "geo": {
+            "exit_ip": "205.209.118.30",
+            "country_iso": "US",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 64.1071,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-02-10",
+            "last_seen": "2026-02-14"
+        },
+        "anonymity_level": "transparent"
+    },
+    {
+        "proxy_id": 1278365,
+        "ip": "192.210.248.111",
+        "port": 50161,
+        "endpoint": "192.210.248.111:50161",
+        "protocol": "socks5",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-02-12 11:42:01.491763",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-02-14 02:06:02.165275",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "192.210.248.111",
+            "country_iso": "US",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 1.2,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-02-12",
+            "last_seen": "2026-02-14"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
         "proxy_id": 1278636,
         "ip": "138.68.247.51",
         "port": 1080,
@@ -25,14 +95,14 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 1.37931,
+            "score": 1.5,
             "status": "inactive"
         },
         "seen": {
             "first_seen": "2026-02-12",
             "last_seen": "2026-02-14"
         },
-        "anonymity_level": "unknown"
+        "anonymity_level": "elite"
     },
     {
         "proxy_id": 1278932,
@@ -67,6 +137,6 @@
             "first_seen": "2026-02-13",
             "last_seen": "2026-02-14"
         },
-        "anonymity_level": "unknown"
+        "anonymity_level": "elite"
     }
 ]
