@@ -16,7 +16,7 @@
             "status": "up",
             "last_up": "2026-02-14 12:19:01.393621",
             "uptime_pct": 3.45,
-            "avg_latency_ms": 175
+            "avg_latency_ms": 201
         },
         "geo": {
             "exit_ip": "49.0.26.217",
@@ -25,7 +25,7 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 30.9409,
+            "score": 30.0217,
             "status": "inactive"
         },
         "seen": {
@@ -70,6 +70,41 @@
         "anonymity_level": "unknown"
     },
     {
+        "proxy_id": 1251429,
+        "ip": "43.252.238.51",
+        "port": 3125,
+        "endpoint": "43.252.238.51:3125",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-02-10 21:46:01.418802",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-02-14 13:51:01.791874",
+            "uptime_pct": 3.28,
+            "avg_latency_ms": 41
+        },
+        "geo": {
+            "exit_ip": "43.252.238.51",
+            "country_iso": "ID",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 35.8337,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-02-10",
+            "last_seen": "2026-02-14"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
         "proxy_id": 1254127,
         "ip": "103.191.165.130",
         "port": 8081,
@@ -95,7 +130,7 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 29.5167,
+            "score": 29.5147,
             "status": "inactive"
         },
         "seen": {
@@ -138,40 +173,5 @@
             "last_seen": "2026-02-14"
         },
         "anonymity_level": "transparent"
-    },
-    {
-        "proxy_id": 1290152,
-        "ip": "103.166.158.101",
-        "port": 14040,
-        "endpoint": "103.166.158.101:14040",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2026-02-13 17:36:01.933895",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2026-02-14 09:41:01.920298",
-            "uptime_pct": 15.38,
-            "avg_latency_ms": 604
-        },
-        "geo": {
-            "exit_ip": "103.166.158.101",
-            "country_iso": "ID",
-            "asn": 0,
-            "org": "Unknown"
-        },
-        "performance": {
-            "score": 23.7943,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2026-02-13",
-            "last_seen": "2026-02-14"
-        },
-        "anonymity_level": "unknown"
     }
 ]
