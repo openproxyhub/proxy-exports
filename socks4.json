@@ -1,5 +1,40 @@
 [
     {
+        "proxy_id": 1251391,
+        "ip": "85.208.108.43",
+        "port": 10808,
+        "endpoint": "85.208.108.43:10808",
+        "protocol": "socks4",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-02-11 19:39:01.924639",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2026-02-16 09:03:01.818730",
+            "uptime_pct": 38.46,
+            "avg_latency_ms": 670
+        },
+        "geo": {
+            "exit_ip": "85.208.108.43",
+            "country_iso": "CA",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 35.8047,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-02-11",
+            "last_seen": "2026-02-16"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
         "proxy_id": 1253242,
         "ip": "171.248.218.248",
         "port": 1080,
@@ -25,11 +60,46 @@
             "org": null
         },
         "performance": {
-            "score": 0.285714,
+            "score": 0.277778,
             "status": "inactive"
         },
         "seen": {
             "first_seen": "2026-02-12",
+            "last_seen": "2026-02-16"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 1258907,
+        "ip": "152.32.255.24",
+        "port": 27197,
+        "endpoint": "152.32.255.24:27197",
+        "protocol": "socks4",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-02-10 20:47:01.399368",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-02-16 08:00:02.509582",
+            "uptime_pct": 25,
+            "avg_latency_ms": 268
+        },
+        "geo": {
+            "exit_ip": "152.32.255.24",
+            "country_iso": "VN",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 41.8088,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-02-10",
             "last_seen": "2026-02-16"
         },
         "anonymity_level": "unknown"
