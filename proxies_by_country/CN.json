@@ -1,40 +1,5 @@
 [
     {
-        "proxy_id": 487451,
-        "ip": "111.201.211.97",
-        "port": 8888,
-        "endpoint": "111.201.211.97:8888",
-        "protocol": "http_absolute",
-        "lifecycle_status": "active_low",
-        "proto": {
-            "status": "ok",
-            "last_check": "2026-02-07 14:10:02.063386",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2026-02-16 15:19:01.381576",
-            "uptime_pct": 25,
-            "avg_latency_ms": 235
-        },
-        "geo": {
-            "exit_ip": "111.201.211.97",
-            "country_iso": "CN",
-            "asn": 0,
-            "org": "Unknown"
-        },
-        "performance": {
-            "score": 42.5211,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2026-02-07",
-            "last_seen": "2026-02-16"
-        },
-        "anonymity_level": "transparent"
-    },
-    {
         "proxy_id": 1097876,
         "ip": "121.230.9.58",
         "port": 1080,
@@ -48,8 +13,8 @@
             "error": null
         },
         "uptime": {
-            "status": "down",
-            "last_up": "2026-02-16 15:59:01.112315",
+            "status": "up",
+            "last_up": "2026-02-16 19:28:01.762400",
             "uptime_pct": 10.2,
             "avg_latency_ms": 52
         },
@@ -65,6 +30,41 @@
         },
         "seen": {
             "first_seen": "2026-02-09",
+            "last_seen": "2026-02-16"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 1253316,
+        "ip": "183.249.5.214",
+        "port": 22222,
+        "endpoint": "183.249.5.214:22222",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-02-14 12:36:01.478893",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-02-16 19:24:01.135516",
+            "uptime_pct": 16.67,
+            "avg_latency_ms": 335
+        },
+        "geo": {
+            "exit_ip": "183.249.5.214",
+            "country_iso": "CN",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 34.2717,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-02-14",
             "last_seen": "2026-02-16"
         },
         "anonymity_level": "unknown"
