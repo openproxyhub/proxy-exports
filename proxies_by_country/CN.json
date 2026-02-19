@@ -1,35 +1,70 @@
 [
     {
-        "proxy_id": 1126762,
-        "ip": "121.230.9.177",
-        "port": 1080,
-        "endpoint": "121.230.9.177:1080",
-        "protocol": "http_connect",
+        "proxy_id": 1253052,
+        "ip": "103.236.64.247",
+        "port": 8888,
+        "endpoint": "103.236.64.247:8888",
+        "protocol": "http_absolute",
         "lifecycle_status": "active_low",
         "proto": {
             "status": "ok",
-            "last_check": "2026-02-10 01:40:02.073032",
+            "last_check": "2026-02-11 01:55:02.043937",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-02-19 00:26:03.043722",
-            "uptime_pct": 0,
-            "avg_latency_ms": 0
+            "last_up": "2026-02-19 00:52:01.546761",
+            "uptime_pct": 40,
+            "avg_latency_ms": 704
         },
         "geo": {
-            "exit_ip": "121.230.9.177",
+            "exit_ip": "103.236.64.247",
             "country_iso": "CN",
             "asn": 0,
             "org": "Unknown"
         },
         "performance": {
-            "score": 0.0877193,
+            "score": 35.3984,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2026-02-10",
+            "first_seen": "2026-02-11",
+            "last_seen": "2026-02-19"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 1253883,
+        "ip": "223.113.134.39",
+        "port": 22222,
+        "endpoint": "223.113.134.39:22222",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-02-11 08:09:01.412877",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2026-02-19 00:39:02.142729",
+            "uptime_pct": 10.34,
+            "avg_latency_ms": 222
+        },
+        "geo": {
+            "exit_ip": "223.113.134.39",
+            "country_iso": "CN",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 34.3493,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-02-11",
             "last_seen": "2026-02-19"
         },
         "anonymity_level": "unknown"
