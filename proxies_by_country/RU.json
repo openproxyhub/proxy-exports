@@ -1,5 +1,40 @@
 [
     {
+        "proxy_id": 1258848,
+        "ip": "151.252.80.124",
+        "port": 1080,
+        "endpoint": "151.252.80.124:1080",
+        "protocol": "socks5",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-02-11 04:47:01.443554",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-02-19 01:26:02.334811",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "151.252.80.124",
+            "country_iso": "RU",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 1.17647,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-02-11",
+            "last_seen": "2026-02-19"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
         "proxy_id": 1258897,
         "ip": "84.252.75.135",
         "port": 1111,
@@ -14,7 +49,7 @@
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-02-19 00:51:02.154206",
+            "last_up": "2026-02-19 01:08:01.924199",
             "uptime_pct": 0,
             "avg_latency_ms": 0
         },
@@ -50,8 +85,8 @@
         "uptime": {
             "status": "up",
             "last_up": "2026-02-19 00:43:01.758576",
-            "uptime_pct": 75,
-            "avg_latency_ms": 628
+            "uptime_pct": 77.78,
+            "avg_latency_ms": 696
         },
         "geo": {
             "exit_ip": "46.17.47.48",
@@ -60,7 +95,7 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 61.2871,
+            "score": 60.6269,
             "status": "inactive"
         },
         "seen": {
@@ -68,5 +103,40 @@
             "last_seen": "2026-02-19"
         },
         "anonymity_level": "elite"
+    },
+    {
+        "proxy_id": 1315758,
+        "ip": "188.242.206.194",
+        "port": 1080,
+        "endpoint": "188.242.206.194:1080",
+        "protocol": "socks5",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-02-15 14:24:01.944831",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-02-19 01:02:03.032003",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "188.242.206.194",
+            "country_iso": "RU",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 0.25641,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-02-15",
+            "last_seen": "2026-02-19"
+        },
+        "anonymity_level": "unknown"
     }
 ]
