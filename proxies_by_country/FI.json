@@ -1,72 +1,37 @@
 [
     {
-        "proxy_id": 1272834,
-        "ip": "46.20.106.102",
-        "port": 1080,
-        "endpoint": "46.20.106.102:1080",
-        "protocol": "socks5",
+        "proxy_id": 1270812,
+        "ip": "45.12.151.226",
+        "port": 2828,
+        "endpoint": "45.12.151.226:2828",
+        "protocol": "http_absolute",
         "lifecycle_status": "active_low",
         "proto": {
             "status": "ok",
-            "last_check": "2026-02-13 14:32:01.757987",
+            "last_check": "2026-02-11 11:06:01.482973",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
-            "status": "down",
-            "last_up": "2026-02-21 23:29:01.570563",
-            "uptime_pct": 0,
-            "avg_latency_ms": 0
+            "status": "up",
+            "last_up": "2026-02-22 00:59:02.034432",
+            "uptime_pct": 21.43,
+            "avg_latency_ms": 91
         },
         "geo": {
-            "exit_ip": "46.20.106.102",
+            "exit_ip": "45.12.151.226",
             "country_iso": "FI",
             "asn": 0,
             "org": "Unknown"
         },
         "performance": {
-            "score": 1.2963,
+            "score": 46.7792,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2026-02-13",
-            "last_seen": "2026-02-21"
+            "first_seen": "2026-02-11",
+            "last_seen": "2026-02-22"
         },
-        "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 1287737,
-        "ip": "94.159.112.138",
-        "port": 1080,
-        "endpoint": "94.159.112.138:1080",
-        "protocol": "socks5",
-        "lifecycle_status": "active_low",
-        "proto": {
-            "status": "ok",
-            "last_check": "2026-02-13 01:28:01.328964",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2026-02-21 22:49:01.813204",
-            "uptime_pct": 0,
-            "avg_latency_ms": 0
-        },
-        "geo": {
-            "exit_ip": "94.159.112.138",
-            "country_iso": "FI",
-            "asn": 0,
-            "org": "Unknown"
-        },
-        "performance": {
-            "score": 0.625,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2026-02-13",
-            "last_seen": "2026-02-21"
-        },
-        "anonymity_level": "unknown"
+        "anonymity_level": "elite"
     }
 ]
