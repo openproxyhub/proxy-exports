@@ -1,5 +1,40 @@
 [
     {
+        "proxy_id": 1283613,
+        "ip": "46.17.47.48",
+        "port": 80,
+        "endpoint": "46.17.47.48:80",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-02-13 20:10:01.625257",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2026-02-27 01:18:01.674512",
+            "uptime_pct": 85.71,
+            "avg_latency_ms": 1078
+        },
+        "geo": {
+            "exit_ip": "46.17.47.48",
+            "country_iso": "RU",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 53.7202,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-02-13",
+            "last_seen": "2026-02-27"
+        },
+        "anonymity_level": "elite"
+    },
+    {
         "proxy_id": 1339653,
         "ip": "78.85.154.228",
         "port": 1080,
@@ -26,6 +61,41 @@
         },
         "performance": {
             "score": 1.47541,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-02-18",
+            "last_seen": "2026-02-27"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 1339655,
+        "ip": "195.46.183.181",
+        "port": 1080,
+        "endpoint": "195.46.183.181:1080",
+        "protocol": "socks5",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-02-18 10:53:01.772504",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-02-27 01:12:01.537072",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "195.46.183.181",
+            "country_iso": "RU",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 1.32075,
             "status": "inactive"
         },
         "seen": {
