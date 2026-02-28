@@ -1,72 +1,37 @@
 [
     {
-        "proxy_id": 1250762,
-        "ip": "45.232.77.194",
-        "port": 8085,
-        "endpoint": "45.232.77.194:8085",
+        "proxy_id": 1362175,
+        "ip": "186.226.167.191",
+        "port": 3128,
+        "endpoint": "186.226.167.191:3128",
         "protocol": "http_absolute",
         "lifecycle_status": "active_low",
         "proto": {
             "status": "ok",
-            "last_check": "2026-02-18 16:06:02.467434",
+            "last_check": "2026-02-24 17:49:01.784343",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-02-27 16:42:01.675280",
-            "uptime_pct": 7.79,
-            "avg_latency_ms": 478
+            "last_up": "2026-02-28 00:08:01.335033",
+            "uptime_pct": 13.95,
+            "avg_latency_ms": 652
         },
         "geo": {
-            "exit_ip": "45.232.77.194",
+            "exit_ip": "186.226.167.191",
             "country_iso": "BR",
             "asn": 0,
             "org": "Unknown"
         },
         "performance": {
-            "score": 23.2227,
+            "score": 21.0199,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2026-02-18",
+            "first_seen": "2026-02-24",
             "last_seen": "2026-02-27"
         },
         "anonymity_level": "unknown"
-    },
-    {
-        "proxy_id": 1362013,
-        "ip": "177.10.66.14",
-        "port": 1080,
-        "endpoint": "177.10.66.14:1080",
-        "protocol": "socks5",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2026-02-25 23:13:01.644262",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2026-02-27 16:38:02.043095",
-            "uptime_pct": 0,
-            "avg_latency_ms": 0
-        },
-        "geo": {
-            "exit_ip": "177.10.66.14",
-            "country_iso": "BR",
-            "asn": 0,
-            "org": "Unknown"
-        },
-        "performance": {
-            "score": 1.71429,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2026-02-26",
-            "last_seen": "2026-02-27"
-        },
-        "anonymity_level": "elite"
     }
 ]
