@@ -1,5 +1,40 @@
 [
     {
+        "proxy_id": 1044785,
+        "ip": "121.230.8.36",
+        "port": 1080,
+        "endpoint": "121.230.8.36:1080",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-02-21 01:47:02.114597",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-03-01 02:29:02.002356",
+            "uptime_pct": 5.17,
+            "avg_latency_ms": 71
+        },
+        "geo": {
+            "exit_ip": "121.230.8.36",
+            "country_iso": "CN",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 35.9784,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-02-21",
+            "last_seen": "2026-03-01"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
         "proxy_id": 1273715,
         "ip": "223.113.134.84",
         "port": 22222,
@@ -30,6 +65,41 @@
         },
         "seen": {
             "first_seen": "2026-02-25",
+            "last_seen": "2026-03-01"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 1277746,
+        "ip": "120.240.35.176",
+        "port": 22222,
+        "endpoint": "120.240.35.176:22222",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-02-25 22:38:01.659313",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2026-03-01 01:03:01.549793",
+            "uptime_pct": 4.88,
+            "avg_latency_ms": 206
+        },
+        "geo": {
+            "exit_ip": "120.240.35.176",
+            "country_iso": "CN",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 31.4971,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-02-26",
             "last_seen": "2026-03-01"
         },
         "anonymity_level": "unknown"
@@ -78,7 +148,7 @@
         "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2026-02-28 02:03:01.592160",
+            "last_check": "2026-02-28 02:03:01.591933",
             "fail_streak": 0,
             "error": null
         },
