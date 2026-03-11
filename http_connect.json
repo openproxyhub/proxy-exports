@@ -19,10 +19,10 @@
             "avg_latency_ms": 2587
         },
         "geo": {
-            "exit_ip": null,
-            "country_iso": null,
-            "asn": null,
-            "org": null
+            "exit_ip": "103.151.173.204",
+            "country_iso": "ZZ",
+            "asn": 0,
+            "org": "Unknown"
         },
         "performance": {
             "score": 64.375,
@@ -120,8 +120,8 @@
         "uptime": {
             "status": "down",
             "last_up": "2026-03-11 21:47:01.343917",
-            "uptime_pct": 70,
-            "avg_latency_ms": 828
+            "uptime_pct": 60.87,
+            "avg_latency_ms": 663
         },
         "geo": {
             "exit_ip": "94.176.3.43",
@@ -130,7 +130,7 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 51.9427,
+            "score": 52.2616,
             "status": "inactive"
         },
         "seen": {
@@ -243,5 +243,40 @@
             "last_seen": "2026-03-11"
         },
         "anonymity_level": "transparent"
+    },
+    {
+        "proxy_id": 1430235,
+        "ip": "113.160.132.26",
+        "port": 8080,
+        "endpoint": "113.160.132.26:8080",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-03-11 21:33:01.675163",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2026-03-11 22:06:01.760887",
+            "uptime_pct": 100,
+            "avg_latency_ms": 687
+        },
+        "geo": {
+            "exit_ip": "113.160.132.26",
+            "country_iso": "ZZ",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 75.955,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-03-11",
+            "last_seen": "2026-03-11"
+        },
+        "anonymity_level": "elite"
     }
 ]
