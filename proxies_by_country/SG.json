@@ -1,5 +1,75 @@
 [
     {
+        "proxy_id": 1250761,
+        "ip": "51.79.135.131",
+        "port": 8080,
+        "endpoint": "51.79.135.131:8080",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-03-15 09:30:02.833140",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2026-03-16 00:46:02.103223",
+            "uptime_pct": 87.5,
+            "avg_latency_ms": 2662
+        },
+        "geo": {
+            "exit_ip": "51.79.135.131",
+            "country_iso": "SG",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 52.5,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-03-15",
+            "last_seen": "2026-03-16"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 1382049,
+        "ip": "146.235.19.84",
+        "port": 10838,
+        "endpoint": "146.235.19.84:10838",
+        "protocol": "socks5",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-03-05 14:04:02.141344",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-03-16 00:59:01.227943",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "146.235.19.84",
+            "country_iso": "SG",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 0.984848,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-03-05",
+            "last_seen": "2026-03-16"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
         "proxy_id": 1436861,
         "ip": "137.220.150.104",
         "port": 6005,
@@ -15,8 +85,8 @@
         "uptime": {
             "status": "up",
             "last_up": "2026-03-16 00:29:01.257265",
-            "uptime_pct": 83.33,
-            "avg_latency_ms": 474
+            "uptime_pct": 84.62,
+            "avg_latency_ms": 500
         },
         "geo": {
             "exit_ip": "137.220.150.104",
@@ -25,7 +95,7 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 73.113,
+            "score": 72.959,
             "status": "inactive"
         },
         "seen": {
