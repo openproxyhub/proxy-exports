@@ -1,5 +1,40 @@
 [
     {
+        "proxy_id": 1406013,
+        "ip": "121.126.185.63",
+        "port": 25152,
+        "endpoint": "121.126.185.63:25152",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-03-06 03:58:01.520162",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2026-03-20 09:34:01.355941",
+            "uptime_pct": 100,
+            "avg_latency_ms": 2302
+        },
+        "geo": {
+            "exit_ip": "121.126.185.63",
+            "country_iso": "KR",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 62.8125,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-03-06",
+            "last_seen": "2026-03-20"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
         "proxy_id": 1436874,
         "ip": "45.93.31.93",
         "port": 6005,
@@ -26,6 +61,41 @@
         },
         "performance": {
             "score": 31.579,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-03-14",
+            "last_seen": "2026-03-20"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 1436877,
+        "ip": "45.93.30.177",
+        "port": 6005,
+        "endpoint": "45.93.30.177:6005",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-03-14 04:27:01.680578",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-03-20 09:43:01.515554",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "45.93.30.177",
+            "country_iso": "KR",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 0.789474,
             "status": "inactive"
         },
         "seen": {
