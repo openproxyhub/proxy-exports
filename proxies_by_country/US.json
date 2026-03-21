@@ -1,5 +1,40 @@
 [
     {
+        "proxy_id": 1267648,
+        "ip": "107.174.231.218",
+        "port": 8888,
+        "endpoint": "107.174.231.218:8888",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-02-14 23:34:02.347369",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2026-03-21 11:06:01.862137",
+            "uptime_pct": 72.73,
+            "avg_latency_ms": 310
+        },
+        "geo": {
+            "exit_ip": "107.174.231.218",
+            "country_iso": "US",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 69.1893,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-02-15",
+            "last_seen": "2026-03-21"
+        },
+        "anonymity_level": "elite"
+    },
+    {
         "proxy_id": 1436857,
         "ip": "107.174.55.123",
         "port": 7878,
@@ -26,41 +61,6 @@
         },
         "performance": {
             "score": 0.416667,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2026-03-14",
-            "last_seen": "2026-03-21"
-        },
-        "anonymity_level": null
-    },
-    {
-        "proxy_id": 1436889,
-        "ip": "144.24.29.128",
-        "port": 10900,
-        "endpoint": "144.24.29.128:10900",
-        "protocol": "http_connect",
-        "lifecycle_status": "active_low",
-        "proto": {
-            "status": "ok",
-            "last_check": "2026-03-14 01:12:02.353378",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2026-03-21 11:03:07.983029",
-            "uptime_pct": 0,
-            "avg_latency_ms": 0
-        },
-        "geo": {
-            "exit_ip": "144.24.29.128",
-            "country_iso": "US",
-            "asn": 0,
-            "org": "Unknown"
-        },
-        "performance": {
-            "score": 0.441176,
             "status": "inactive"
         },
         "seen": {
