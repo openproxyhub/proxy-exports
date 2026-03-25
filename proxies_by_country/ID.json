@@ -1,5 +1,40 @@
 [
     {
+        "proxy_id": 1419099,
+        "ip": "103.163.134.191",
+        "port": 3125,
+        "endpoint": "103.163.134.191:3125",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-03-25 01:28:03.566600",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-03-25 08:58:02.115523",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "103.163.134.191",
+            "country_iso": "ID",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 0.5,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-03-25",
+            "last_seen": "2026-03-25"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
         "proxy_id": 1419627,
         "ip": "103.156.141.210",
         "port": 8080,
@@ -13,8 +48,8 @@
             "error": null
         },
         "uptime": {
-            "status": "up",
-            "last_up": "2026-03-25 07:51:02.630696",
+            "status": "down",
+            "last_up": "2026-03-25 08:53:01.865381",
             "uptime_pct": 50,
             "avg_latency_ms": 3170
         },
@@ -25,7 +60,7 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 30,
+            "score": 31.5,
             "status": "inactive"
         },
         "seen": {
@@ -48,10 +83,10 @@
             "error": null
         },
         "uptime": {
-            "status": "up",
-            "last_up": "2026-03-25 07:56:03.841656",
-            "uptime_pct": 15.79,
-            "avg_latency_ms": 418
+            "status": "down",
+            "last_up": "2026-03-25 08:41:03.679188",
+            "uptime_pct": 15.52,
+            "avg_latency_ms": 434
         },
         "geo": {
             "exit_ip": "203.175.103.39",
@@ -60,13 +95,13 @@
             "org": "Unknown"
         },
         "performance": {
-            "score": 30.5303,
+            "score": 29.8006,
             "status": "inactive"
         },
         "seen": {
             "first_seen": "2026-03-24",
             "last_seen": "2026-03-25"
         },
-        "anonymity_level": "unknown"
+        "anonymity_level": "transparent"
     }
 ]
