@@ -1,5 +1,40 @@
 [
     {
+        "proxy_id": 1267648,
+        "ip": "107.174.231.218",
+        "port": 8888,
+        "endpoint": "107.174.231.218:8888",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-02-14 23:34:02.347369",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-04-03 02:08:02.187063",
+            "uptime_pct": 0,
+            "avg_latency_ms": 233
+        },
+        "geo": {
+            "exit_ip": "107.174.231.218",
+            "country_iso": "US",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 27.5344,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-02-15",
+            "last_seen": "2026-04-03"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
         "proxy_id": 1342665,
         "ip": "74.50.65.152",
         "port": 1080,
@@ -30,6 +65,41 @@
         },
         "seen": {
             "first_seen": "2026-03-27",
+            "last_seen": "2026-04-03"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 1383101,
+        "ip": "172.86.126.35",
+        "port": 443,
+        "endpoint": "172.86.126.35:443",
+        "protocol": "socks5",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-03-30 07:07:03.394543",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-04-03 02:14:01.604847",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "172.86.126.35",
+            "country_iso": "US",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 1.35135,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-03-30",
             "last_seen": "2026-04-03"
         },
         "anonymity_level": "unknown"
