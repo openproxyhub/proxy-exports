@@ -1,5 +1,40 @@
 [
     {
+        "proxy_id": 1334120,
+        "ip": "103.72.89.108",
+        "port": 8097,
+        "endpoint": "103.72.89.108:8097",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-04-07 20:01:01.675344",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2026-04-08 02:05:02.220389",
+            "uptime_pct": 100,
+            "avg_latency_ms": 940
+        },
+        "geo": {
+            "exit_ip": null,
+            "country_iso": null,
+            "asn": null,
+            "org": null
+        },
+        "performance": {
+            "score": 63.7667,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-04-07",
+            "last_seen": "2026-04-08"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
         "proxy_id": 1387548,
         "ip": "38.253.85.3",
         "port": 999,
@@ -33,6 +68,41 @@
             "last_seen": "2026-04-08"
         },
         "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 1419043,
+        "ip": "103.135.227.91",
+        "port": 3125,
+        "endpoint": "103.135.227.91:3125",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-04-07 02:25:03.196353",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-04-08 02:10:01.596183",
+            "uptime_pct": 23.81,
+            "avg_latency_ms": 764
+        },
+        "geo": {
+            "exit_ip": "103.135.227.90",
+            "country_iso": "ZZ",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 24.3589,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-04-07",
+            "last_seen": "2026-04-08"
+        },
+        "anonymity_level": "transparent"
     },
     {
         "proxy_id": 1420313,
