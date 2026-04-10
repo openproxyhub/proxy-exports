@@ -1,35 +1,70 @@
 [
     {
-        "proxy_id": 1346051,
-        "ip": "116.80.82.92",
-        "port": 7777,
-        "endpoint": "116.80.82.92:7777",
+        "proxy_id": 1364187,
+        "ip": "85.117.56.43",
+        "port": 8080,
+        "endpoint": "85.117.56.43:8080",
         "protocol": "http_absolute",
         "lifecycle_status": "active_new",
         "proto": {
             "status": "ok",
-            "last_check": "2026-04-08 22:11:01.790881",
+            "last_check": "2026-04-07 23:48:01.639674",
             "fail_streak": 0,
             "error": null
         },
         "uptime": {
             "status": "down",
-            "last_up": "2026-04-10 04:14:03.021123",
-            "uptime_pct": 12.73,
-            "avg_latency_ms": 448
+            "last_up": "2026-04-10 04:41:06.185282",
+            "uptime_pct": 13.79,
+            "avg_latency_ms": 471
         },
         "geo": {
-            "exit_ip": "116.80.82.92",
-            "country_iso": "JP",
+            "exit_ip": "85.117.56.43",
+            "country_iso": "ZZ",
             "asn": 0,
             "org": "Unknown"
         },
         "performance": {
-            "score": 27.6945,
+            "score": 27.4758,
             "status": "inactive"
         },
         "seen": {
-            "first_seen": "2026-04-09",
+            "first_seen": "2026-04-07",
+            "last_seen": "2026-04-10"
+        },
+        "anonymity_level": "transparent"
+    },
+    {
+        "proxy_id": 1407930,
+        "ip": "102.68.76.247",
+        "port": 8080,
+        "endpoint": "102.68.76.247:8080",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-04-07 00:50:02.892592",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-04-10 04:04:03.474572",
+            "uptime_pct": 11.34,
+            "avg_latency_ms": 486
+        },
+        "geo": {
+            "exit_ip": "102.68.78.175",
+            "country_iso": "ZZ",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 25.3279,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-04-07",
             "last_seen": "2026-04-10"
         },
         "anonymity_level": "transparent"
