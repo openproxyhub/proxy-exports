@@ -1,5 +1,40 @@
 [
     {
+        "proxy_id": 1325045,
+        "ip": "113.192.30.94",
+        "port": 8080,
+        "endpoint": "113.192.30.94:8080",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-04-12 19:52:02.550473",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2026-04-15 02:57:02.354883",
+            "uptime_pct": 33.33,
+            "avg_latency_ms": 935
+        },
+        "geo": {
+            "exit_ip": "113.192.30.94",
+            "country_iso": "ID",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 22.9762,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-04-12",
+            "last_seen": "2026-04-15"
+        },
+        "anonymity_level": "transparent"
+    },
+    {
         "proxy_id": 1348708,
         "ip": "113.212.111.4",
         "port": 8090,
@@ -14,7 +49,7 @@
         },
         "uptime": {
             "status": "up",
-            "last_up": "2026-04-15 00:57:01.840810",
+            "last_up": "2026-04-15 03:22:03.791449",
             "uptime_pct": 60,
             "avg_latency_ms": 253
         },
@@ -30,6 +65,41 @@
         },
         "seen": {
             "first_seen": "2026-03-25",
+            "last_seen": "2026-04-15"
+        },
+        "anonymity_level": "transparent"
+    },
+    {
+        "proxy_id": 1419248,
+        "ip": "103.168.44.101",
+        "port": 8080,
+        "endpoint": "103.168.44.101:8080",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-04-13 07:13:01.648622",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-04-15 02:46:02.586926",
+            "uptime_pct": 6.45,
+            "avg_latency_ms": 324
+        },
+        "geo": {
+            "exit_ip": "103.169.24.202",
+            "country_iso": "ZZ",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 28.2647,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-04-13",
             "last_seen": "2026-04-15"
         },
         "anonymity_level": "transparent"
