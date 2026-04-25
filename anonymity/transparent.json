@@ -1,5 +1,75 @@
 [
     {
+        "proxy_id": 1339307,
+        "ip": "147.75.202.36",
+        "port": 80,
+        "endpoint": "147.75.202.36:80",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-04-25 11:01:01.671719",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2026-04-25 16:12:01.776427",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": null,
+            "country_iso": null,
+            "asn": null,
+            "org": null
+        },
+        "performance": {
+            "score": 0,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-04-25",
+            "last_seen": "2026-04-25"
+        },
+        "anonymity_level": "transparent"
+    },
+    {
+        "proxy_id": 1348708,
+        "ip": "113.212.111.4",
+        "port": 8090,
+        "endpoint": "113.212.111.4:8090",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-03-25 14:50:03.627985",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2026-04-25 16:01:02.175205",
+            "uptime_pct": 57.69,
+            "avg_latency_ms": 1139
+        },
+        "geo": {
+            "exit_ip": "113.212.111.4",
+            "country_iso": "BD",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 36.3614,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-03-25",
+            "last_seen": "2026-04-25"
+        },
+        "anonymity_level": "transparent"
+    },
+    {
         "proxy_id": 1407906,
         "ip": "1.231.81.166",
         "port": 3128,
@@ -16,7 +86,7 @@
             "status": "up",
             "last_up": "2026-04-25 12:53:01.892144",
             "uptime_pct": 78.95,
-            "avg_latency_ms": 1835
+            "avg_latency_ms": 1720
         },
         "geo": {
             "exit_ip": "1.231.81.166",
