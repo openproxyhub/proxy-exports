@@ -121,7 +121,7 @@
             "status": "up",
             "last_up": "2026-05-04 17:01:01.363459",
             "uptime_pct": 100,
-            "avg_latency_ms": 16
+            "avg_latency_ms": 15
         },
         "geo": {
             "exit_ip": null,
@@ -130,14 +130,14 @@
             "org": null
         },
         "performance": {
-            "score": 94.4283,
+            "score": 94.475,
             "status": "active"
         },
         "seen": {
             "first_seen": "2026-05-03",
             "last_seen": "2026-05-04"
         },
-        "anonymity_level": null
+        "anonymity_level": "direct"
     },
     {
         "proxy_id": 32822,
@@ -226,7 +226,7 @@
             "status": "up",
             "last_up": "2026-05-04 17:46:01.807574",
             "uptime_pct": 100,
-            "avg_latency_ms": 19
+            "avg_latency_ms": 21
         },
         "geo": {
             "exit_ip": null,
@@ -235,7 +235,7 @@
             "org": null
         },
         "performance": {
-            "score": 94.3233,
+            "score": 94.2825,
             "status": "active"
         },
         "seen": {
@@ -6666,7 +6666,7 @@
             "status": "up",
             "last_up": "2026-05-04 17:08:01.297390",
             "uptime_pct": 100,
-            "avg_latency_ms": 24
+            "avg_latency_ms": 25
         },
         "geo": {
             "exit_ip": null,
@@ -6675,7 +6675,7 @@
             "org": null
         },
         "performance": {
-            "score": 94.1775,
+            "score": 94.125,
             "status": "active"
         },
         "seen": {
@@ -6920,7 +6920,7 @@
             "org": null
         },
         "performance": {
-            "score": 94.5275,
+            "score": 94.51,
             "status": "active"
         },
         "seen": {
@@ -7935,7 +7935,7 @@
             "org": null
         },
         "performance": {
-            "score": 94.51,
+            "score": 95.76,
             "status": "active"
         },
         "seen": {
@@ -15500,6 +15500,76 @@
         },
         "seen": {
             "first_seen": "2026-05-04",
+            "last_seen": "2026-05-04"
+        },
+        "anonymity_level": "direct"
+    },
+    {
+        "proxy_id": 1353829,
+        "ip": "116.80.63.64",
+        "port": 7777,
+        "endpoint": "116.80.63.64:7777",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-04-23 01:21:02.527760",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-05-04 20:05:02.086030",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "116.80.63.64",
+            "country_iso": "JP",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 0,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-04-23",
+            "last_seen": "2026-05-04"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 1380526,
+        "ip": "104.25.97.27",
+        "port": 80,
+        "endpoint": "104.25.97.27:80",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-04-17 13:18:02.522627",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2026-05-04 20:06:01.821650",
+            "uptime_pct": 100,
+            "avg_latency_ms": 14
+        },
+        "geo": {
+            "exit_ip": null,
+            "country_iso": null,
+            "asn": null,
+            "org": null
+        },
+        "performance": {
+            "score": 94.7732,
+            "status": "active"
+        },
+        "seen": {
+            "first_seen": "2026-04-18",
             "last_seen": "2026-05-04"
         },
         "anonymity_level": "direct"
