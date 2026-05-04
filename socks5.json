@@ -1,5 +1,40 @@
 [
     {
+        "proxy_id": 573112,
+        "ip": "138.199.25.13",
+        "port": 3906,
+        "endpoint": "138.199.25.13:3906",
+        "protocol": "socks5",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-05-01 18:31:01.382245",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-05-04 13:52:01.285744",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "138.199.25.13",
+            "country_iso": "SG",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 0,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-05-04",
+            "last_seen": "2026-05-04"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
         "proxy_id": 1471186,
         "ip": "206.123.156.176",
         "port": 7560,
@@ -68,40 +103,5 @@
             "last_seen": "2026-05-04"
         },
         "anonymity_level": "elite"
-    },
-    {
-        "proxy_id": 1902585,
-        "ip": "206.123.156.201",
-        "port": 37356,
-        "endpoint": "206.123.156.201:37356",
-        "protocol": "socks5",
-        "lifecycle_status": "active_new",
-        "proto": {
-            "status": "ok",
-            "last_check": "2026-05-02 07:43:02.125552",
-            "fail_streak": 0,
-            "error": null
-        },
-        "uptime": {
-            "status": "down",
-            "last_up": "2026-05-04 09:59:01.609737",
-            "uptime_pct": 0,
-            "avg_latency_ms": 0
-        },
-        "geo": {
-            "exit_ip": "91.227.37.60",
-            "country_iso": "ZZ",
-            "asn": 0,
-            "org": "Unknown"
-        },
-        "performance": {
-            "score": 0,
-            "status": "inactive"
-        },
-        "seen": {
-            "first_seen": "2026-05-04",
-            "last_seen": "2026-05-04"
-        },
-        "anonymity_level": "unknown"
     }
 ]
