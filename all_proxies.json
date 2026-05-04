@@ -1,5 +1,75 @@
 [
     {
+        "proxy_id": 484676,
+        "ip": "8.35.211.124",
+        "port": 80,
+        "endpoint": "8.35.211.124:80",
+        "protocol": "http_absolute",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-05-01 16:45:02.082502",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2026-05-04 00:56:01.876379",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": null,
+            "country_iso": null,
+            "asn": null,
+            "org": null
+        },
+        "performance": {
+            "score": 0,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-05-02",
+            "last_seen": "2026-05-04"
+        },
+        "anonymity_level": "direct"
+    },
+    {
+        "proxy_id": 781854,
+        "ip": "205.178.144.174",
+        "port": 8447,
+        "endpoint": "205.178.144.174:8447",
+        "protocol": "https_proxy_tls",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-05-03 07:44:01.762784",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-05-04 00:35:01.874273",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": null,
+            "country_iso": null,
+            "asn": null,
+            "org": null
+        },
+        "performance": {
+            "score": 0,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-05-03",
+            "last_seen": "2026-05-04"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
         "proxy_id": 781864,
         "ip": "205.178.144.240",
         "port": 8447,
@@ -61,6 +131,76 @@
         },
         "performance": {
             "score": 0.294118,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-04-22",
+            "last_seen": "2026-05-04"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 1397527,
+        "ip": "206.123.156.224",
+        "port": 6956,
+        "endpoint": "206.123.156.224:6956",
+        "protocol": "socks5",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-04-23 10:13:01.504112",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-05-04 00:39:01.834683",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "159.100.13.237",
+            "country_iso": "ZZ",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 0,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-04-23",
+            "last_seen": "2026-05-04"
+        },
+        "anonymity_level": "unknown"
+    },
+    {
+        "proxy_id": 1398724,
+        "ip": "206.123.156.200",
+        "port": 5443,
+        "endpoint": "206.123.156.200:5443",
+        "protocol": "socks5",
+        "lifecycle_status": "active_low",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-04-22 00:07:02.808160",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "down",
+            "last_up": "2026-05-04 00:39:01.841400",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": "199.203.54.15",
+            "country_iso": "ZZ",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 0,
             "status": "inactive"
         },
         "seen": {
