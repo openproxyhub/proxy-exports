@@ -1,5 +1,40 @@
 [
     {
+        "proxy_id": 2120632,
+        "ip": "174.138.162.237",
+        "port": 55338,
+        "endpoint": "174.138.162.237:55338",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-06-14 21:11:01.919579",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2026-06-15 00:57:02.051642",
+            "uptime_pct": 0,
+            "avg_latency_ms": 0
+        },
+        "geo": {
+            "exit_ip": null,
+            "country_iso": null,
+            "asn": null,
+            "org": null
+        },
+        "performance": {
+            "score": 0,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-06-14",
+            "last_seen": "2026-06-15"
+        },
+        "anonymity_level": null
+    },
+    {
         "proxy_id": 2193026,
         "ip": "131.153.163.30",
         "port": 36146,
@@ -60,12 +95,47 @@
             "org": null
         },
         "performance": {
-            "score": 0,
+            "score": 5,
             "status": "inactive"
         },
         "seen": {
             "first_seen": "2026-06-14",
             "last_seen": "2026-06-15"
+        },
+        "anonymity_level": null
+    },
+    {
+        "proxy_id": 2223514,
+        "ip": "45.158.10.98",
+        "port": 8085,
+        "endpoint": "45.158.10.98:8085",
+        "protocol": "http_connect",
+        "lifecycle_status": "active_new",
+        "proto": {
+            "status": "ok",
+            "last_check": "2026-06-08 18:09:03.095903",
+            "fail_streak": 0,
+            "error": null
+        },
+        "uptime": {
+            "status": "up",
+            "last_up": "2026-06-15 00:44:02.293820",
+            "uptime_pct": 33.33,
+            "avg_latency_ms": 1386
+        },
+        "geo": {
+            "exit_ip": "36.69.52.246",
+            "country_iso": "ZZ",
+            "asn": 0,
+            "org": "Unknown"
+        },
+        "performance": {
+            "score": 20,
+            "status": "inactive"
+        },
+        "seen": {
+            "first_seen": "2026-06-08",
+            "last_seen": "2026-06-08"
         },
         "anonymity_level": null
     },
@@ -86,7 +156,7 @@
             "status": "up",
             "last_up": "2026-06-15 00:12:01.867326",
             "uptime_pct": 100,
-            "avg_latency_ms": 1856
+            "avg_latency_ms": 1552
         },
         "geo": {
             "exit_ip": null,
